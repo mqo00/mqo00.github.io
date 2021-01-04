@@ -7,8 +7,9 @@ show_tages: true
 show_date: false
 sharing: true
 lang: [en, zh]
-cover: /assets/images/ELAN.png
 ---
+
+`($3500 fellowship)`
 
 From the start of my freshman Spring *(02/2019)* to the end of my junior Fall *(12/2020)*, the main focus of my research projects have been on **semantic relations**. I’ve studied the **taxonomic** and **thematic** (or associative relations in some literature) word relations from both **developmental** and **computational** aspects. 
 
@@ -26,23 +27,23 @@ In 2020 summer, I received a **$3500** Summer Undergraduate Research Fellowship 
 
 |![](/assets/images/semantic-word-cloud.png)|
 |:--:| 
-| *ggplot was also used to aid the stimulus selection process.* |
+| *R library ggplot was also used to aid the stimulus selection process.* |
 
-During my junior Fall, I worked with Dr. Bonnie Nozari on a similar project to study the differential effects of taxonomic and thematic word relations in picture naming task and the typing modality, and in my Parallel Distributed Processing class (85-419/719) taught by Dr. David Plaut, I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network. 
 
-<div class="grid">
-  <div class="cell cell--20">
-    <img class="image image--lg" src="/assets/images/semantic-rnn-arch.png">
-  </div>
-  <div class="cell cell--auto">
-    This is the fully recurrent network model architecture I used in the final paper 
-  </div>
-</div>
+During my junior Fall, I worked with Dr. Bonnie Nozari on a similar project to study the differential effects of taxonomic and thematic word relations in picture naming task and the typing modality. Meanwhile, in my Parallel Distributed Processing class ([85-419/719][PDP]) taught by Dr. David Plaut, I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network.
 
  I’ve practiced and gained a lot of skills during these research experiences, including Python ([NLTK] library), R, [Gephi], [jspsych] javaScript, HTML, CSS, [Lens], and I also had some exposures to those tool that host online psychology experiment like Qualtrics, [psiTurk] and Amazon Mechanical Turk ([MTurk]).
 
+|![](/assets/images/semantic-typing-stimulus.png)|
+|:--:| 
+| *Some selected stimulus of the typing picture-naming experiment.* |
 
-[figure: typing stimulus selection & experiment interface, PDP model architecture]
+<center>
+  <img class="image image--xl" src="/assets/images/semantic-rnn-arch.png">
+</center>
+<div align="center" markdown="1">
+  *This is the fully recurrent network model architecture I used for [PDP]'s final paper.*
+</div>
 
 [CDL]: https://sites.google.com/andrew.cmu.edu/cogdevlab
 [SpAM]: https://www.researchgate.net/publication/343145592_Lumping_and_splitting_Developmental_changes_in_the_structure_of_children's_semantic_networks
@@ -60,3 +61,4 @@ During my junior Fall, I worked with Dr. Bonnie Nozari on a similar project to s
 [Lens]: https://ni.cmu.edu/~plaut/Lens/Manual/
 [psiTurk]: http://psiturk.org/ee/
 [MTurk]: https://www.mturk.com/
+[PDP]: http://www.cnbc.cmu.edu/~plaut/IntroPDP/index.html

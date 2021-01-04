@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: Research test
+title: Research Experiences
 permalink: research.html
 key: research
 cover: /assets/images/bg-black.jpg
@@ -11,10 +11,5 @@ articles:
 
 <!--more-->
 
-Article list with cover and excerpt.
-
-**front matter:**
-
 <div class="article__content" markdown="1">
-
 </div>

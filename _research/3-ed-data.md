@@ -1,0 +1,22 @@
+---
+layout: article
+title: Educational Data Mining 
+key: semantic
+tags: [educational data mining, multimodal machine learning, data annotation, math learning analytics， help-seeking behavior]
+show_tages: true
+show_date: false
+sharing: true
+lang: [en, zh]
+---
+
+`(hourly rate)`
+
+During my sophomore winter break *(2019)*, I helped Dr. Lujie (Karen) Chen annotate some multi-modal educational data on math problem solving in 14 elementary school students. 
+
+We unify the rubrics for annotation, keep track of students’ eye gazes, cognitive and affective states, label their interaction with parents, and transcribed their conversation using [ELAN]. This was my first exposure to multimodal educational data mining, which seems interesting, so I took an intro to machine learning course later in my junior year fall *(2020)*. 
+
+![](/assets/images/ELAN.png)
+
+<!--more-->
+
+[ELAN]: https://archive.mpi.nl/tla/elan
