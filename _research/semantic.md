@@ -31,11 +31,11 @@ In 2020 summer, I received a **$3500** Summer Undergraduate Research Fellowship 
 During my junior Fall, I worked with Dr. Bonnie Nozari on a similar project to study the differential effects of taxonomic and thematic word relations in picture naming task and the typing modality, and in my Parallel Distributed Processing class (85-419/719) taught by Dr. David Plaut, I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network. 
 
 <div class="grid">
-  <div class="cell cell--15">
+  <div class="cell cell--20">
     <img class="image image--lg" src="/assets/images/semantic-rnn-arch.png">
   </div>
   <div class="cell cell--auto">
-    whatever's left!
+    This is the fully recurrent network model architecture I used in the final paper 
   </div>
 </div>
 

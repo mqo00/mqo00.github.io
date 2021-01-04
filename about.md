@@ -18,6 +18,6 @@ key: page-about
   </div>
 </div>
 <div class="cell cell--12 cell--md-4 " markdown="1">
-  ![Image](/assets/images/CM-photo.jpg "Image_circle+shadow"){:.circle.shadow}
+  ![Image](/assets/images/CM-photo.jpeg "Image_circle+shadow"){:.circle.shadow}
 </div>
 </div>
