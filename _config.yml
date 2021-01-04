@@ -192,6 +192,14 @@ exclude:
   - /test
   - /vendor
 
+collections:
+  research:
+    output: true
+  activity:
+    output: true
+  portfolio:
+    output: true
+
 defaults:
   - scope:
       path: ""
