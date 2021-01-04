@@ -1,23 +1,6 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      # @end locale config
-    url: /archive.html
-
-  - titles:
-      # @start locale config
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
@@ -32,3 +15,35 @@ header:
       zh-HK   : *ZH_HANT
       # @end locale config
     url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Research
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  研究
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      # @end locale config
+    url: /research.html
+
+  - titles:
+      en:       Activities
+      zh:       活动
+      zh-Hans:  活动
+    url:        /activity.html
+
+  - titles:
+      en:       Portfolio
+      zh:       作品
+      zh-Hans:  作品
+    url:        /portfolio.html
+
+  - titles:
+      en:       Fun Fact
+      zh:       趣闻
+      zh-Hans:  趣闻
+    url:        /funfact.html  
