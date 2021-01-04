@@ -29,7 +29,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Qianou Ma
   url       :
-  avatar    : /assets/images/logo.jpg # path or url of avatar image (square)
+  avatar    : /assets/images/CM-photo.jpg # path or url of avatar image (square)
   bio       : Know yourself. 
   email     : qianoum@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
