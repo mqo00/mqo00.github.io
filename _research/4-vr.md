@@ -9,7 +9,7 @@ sharing: true
 lang: [en, zh]
 ---
 
-In the next semester *(2021 Spring)*, I will be doing an independent research on the Grand Challenge First-Year Seminar course [66-129 Unreality: Immersive and Spatial Media][unreality] with the instructors Dr. Lauren Herckis and Tom Corbett.
+In the next semester *(2021 Spring)*, I will be doing independent research on the Grand Challenge First-Year Seminar course [66-129 Unreality: Immersive and Spatial Media][unreality] with the instructors Dr. Lauren Herckis and Tom Corbett.
  
 <!--more-->
 

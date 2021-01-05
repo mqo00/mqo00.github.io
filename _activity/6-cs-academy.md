@@ -22,7 +22,7 @@ I really learned a ton in this year of experience with CS Academy (and the two i
 
 |![](/assets/images/cs-academy-first.png)|
 |:--:|
-| *The first-ever code snippet I wrote in my life using CS Academy! I don't even know what is loop that time.* |
+| *The first-ever code snippet I wrote in my life using CS Academy! I don't even know what is a loop that time.* |
 
 [110]: https://www.kosbie.net/cmu/fall-18/15-110/schedule.html
 [CMU CS Academy]: https://v2.academy.cs.cmu.edu/course

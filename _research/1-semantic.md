@@ -15,7 +15,7 @@ From the start of my freshman Spring *(02/2019)* to the end of my junior Fall *(
 
 <!--more-->
 
-Understanding **how children acquire structured semantic networks** is critical both for theoretical accounts of knowledge acquisition and for applied endeavors such as reducing inequalities in knowledge of school-relevant domains, and **studying the differential effects of different semantic relations on word production** help fine-tune the models and hypotheses on cognitive architecture of language.
+Understanding **how children acquire structured semantic networks** is critical both for theoretical accounts of knowledge acquisition and for applied endeavors such as reducing inequalities in the knowledge of school-relevant domains, and **studying the differential effects of different semantic relations on word production** help fine-tune the models and hypotheses on cognitive architecture of language.
 
 During my freshman and sophomore years, I primarily worked with Dr. Catarina Vales and Dr. Anna Fisher in the [Cognitive Development Lab][CDL] to study the correlation between different patterns of linguistic inputs and children’s semantic structure. The behavioral data was collected from children of 4-6 years old using the Spatial Arrangement Method ([SpAM]). The statistical measures we’ve used to capture the thematic and taxonomic relations include [PMI], [LSA], and [GloVe], and the corpora we’ve tried to calculate or analyze these measures include [Childes], [Wiki], [Common Crawl][CC], and [TASA]. 
 
@@ -32,7 +32,7 @@ In 2020 summer, I received a **$3500** Summer Undergraduate Research Fellowship 
 
 During my junior Fall, I worked with Dr. Bonnie Nozari on a similar project to study the differential effects of taxonomic and thematic word relations in picture naming task and the typing modality. Meanwhile, in my Parallel Distributed Processing class ([85-419/719][PDP]) taught by Dr. David Plaut, I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network.
 
- I’ve practiced and gained a lot of skills during these research experiences, including Python ([NLTK] library), R, [Gephi], [jspsych] javaScript, HTML, CSS, [Lens], and I also had some exposures to those tool that host online psychology experiment like Qualtrics, [psiTurk] and Amazon Mechanical Turk ([MTurk]).
+ I’ve practiced and gained a lot of skills during these research experiences, including Python ([NLTK] library), R, [Gephi], [jspsych] javaScript, HTML, CSS, [Lens], and I also had some exposures to those tools that host online psychology experiment like Qualtrics, [psiTurk] and Amazon Mechanical Turk ([MTurk]).
 
 |![](/assets/images/semantic-typing-stimulus.png)|
 |:--:| 

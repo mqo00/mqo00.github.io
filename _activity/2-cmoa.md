@@ -23,7 +23,7 @@ I’m the youngest member in the volunteer docent group. Some amazing docents ha
   *The Andy Warhol's [Marilyn Monroe][andy] style-transferred R class[^1] photo.*
 </div>
 
-During the trainings for the docent volunteering program, we took classes on art history, researched on artworks in CMOA’s collection, discussed art topics, shadowed active docents’ K12 tours, learned about the Visual Thinking Strategies ([VTS]) that CMOA adopted, and work with “upperclass” mentors and “classmates” to practice and gradually build up our 1 hour activation tour[^1]. 
+During the training for the docent volunteering program, we took classes on art history, researched on artworks in CMOA’s collection, discussed art topics, shadowed active docents’ K12 tours, learned about the Visual Thinking Strategies ([VTS]) that CMOA adopted, and work with mentors and “classmates[^1]” to practice and gradually build up our 1-hour activation tour. 
 
 I’ve always been thinking about how can I contribute more using my unique background and knowledge, which is why I proposed the [SURG research project][project] on CMOA website, and why I came up with the theme of “See STEM in Art” for my activation tour.
 
@@ -32,8 +32,7 @@ I’ve always been thinking about how can I contribute more using my unique back
 | ![](/assets/images/cmoa-badge.jpg) | ![](/assets/images/cmoa-me.jpg) |
 
 
-[^1]: CMOA recruit docents every year and assign each “class” by alphabetical letter, and I belong to the “R” class.
-
+[^1]: CMOA recruit docents every year and assign each “class” by alphabetical letter. I belong to the “R” class, and our mentors belong to the "P", "Q", or prior classes.
 
 [art]: /portfolio/art.html
 [CMOA]: https://cmoa.org/
