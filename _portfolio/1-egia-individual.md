@@ -26,7 +26,7 @@ Throughout the semester, I applied the big class themes of iterative backward de
 2. identified cognitive and metacognitive learning goals that align with state-level goals for CS education, 
 3. developed the assessment and 
 4. instructional methods aligned with goals, and 
-5. designed an evaluation research on the effectiveness of workshop exit surveys. 
+5. designed evaluation research on the effectiveness of workshop exit surveys. 
 
 Each section provides full justification of design drawing from the class reading materials, and is tailored for my particular context of a 10-week collaborative project with 4-6 high school students and 2+ CMU students as advisors in [Project Ignite][PI].
 
