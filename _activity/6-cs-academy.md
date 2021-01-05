@@ -18,8 +18,6 @@ During my freshman year, I’ve been involved with developing exercise content f
 
 <center><i>The CMU CS Academy's backstage story video I created in 2018</i></center>
 
-<div>{%- include extensions/bilibili.html id='BV1kv411x7iU' -%}</div>
-
 I really learned a ton in this year of experience with CS Academy (and the two instructors of [15-110][110], Dr. David Kosbie & Dr. Mark Stehlik who opened this door for me), both on how programming can be so fun and useful in real life, and on how technology-based platforms can spread high-quality educational resources to such a large audience. As someone who have never learned any programming before college, this first acquaintance was so fun and rewarding that it sow a strong interest of both **education** and **CS** in me.
 
 |![](/assets/images/cs-academy-first.png)|
