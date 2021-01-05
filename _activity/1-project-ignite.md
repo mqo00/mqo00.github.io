@@ -1,7 +1,7 @@
 ---
 layout: article
 title: President @ Project Ignite
-key: projectignite
+key: project-ignite
 tags: [education, leadership, outreach]
 show_tages: true
 show_date: false
@@ -41,4 +41,4 @@ Beside the club, I’m taking a graduate-level class called *Educational Goals, 
 [21S]: https://projectignitecmu.org/preproposed-projects-2021
 [Remake Learning]: https://remakelearning.org/organization/project-ignite/
 [85-738 EGIA]: https://metals.hcii.cmu.edu/curriculum/
-[EGIA]: /portfolio/egia-individual.html
+[EGIA]: /portfolio/1-egia-individual.html
