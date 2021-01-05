@@ -11,7 +11,7 @@ lang: [en, zh]
 
 `($500 grant)`
 
-In my sophomore year *(09/2019-05/2020)*, I successfully applied to a **$500** Small Undergraduate Research Grant ([SURG]) to do an independent study under Dr. Sharon Carver’s supervision and in collaboration with the education department of the Carnegie Museum of Art ([CMOA]). 
+In my sophomore year *(09/2019~05/2020)*, I successfully applied to a **$500** Small Undergraduate Research Grant ([SURG]) to do an independent study under Dr. Sharon Carver’s supervision and in collaboration with the education department of the Carnegie Museum of Art ([CMOA]). 
 
 <!--more-->
 
