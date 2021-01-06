@@ -18,6 +18,6 @@ For the final project, our group applied all skills learned in class and made a 
 
 | `Laser cutting` | `Final project` |
 | -- | -- | 
-|![](/assets/images/24104-laser-cut.jpg)|![](/assets/images/24104-waterme.jpg)|
+|![](/assets/images/24104-laser-cut.png)|![](/assets/images/24104-waterme.jpg)|
 
 [24104]: https://www.meche.engineering.cmu.edu/education/courses/24-104.html

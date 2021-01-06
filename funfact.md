@@ -37,6 +37,7 @@ I love, love cooking. I’m not bragging, but I’m such a foodie and good amate
 
 | -- | -- | -- | -- |
 |![](/assets/images/food-5.jpg)|![](/assets/images/food-6.jpg)|![](/assets/images/food-7.jpg)|![](/assets/images/food-8.jpg)|
+
 ## Bonus Recipe
 
 And here's a special recipe of making **a thousand seagulls** [^1]: 
