@@ -27,7 +27,7 @@ header:
     url:        /portfolio.html
 
   - titles:
-      en:       Fun Fact
+      en:       Fun
       zh:       趣闻
       zh-Hans:  趣闻
     url:        /funfact.html  

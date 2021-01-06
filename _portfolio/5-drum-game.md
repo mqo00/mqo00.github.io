@@ -14,7 +14,7 @@ In my freshman spring *(2019)*, I took the famous CMU introductory CS course, *F
 
 <!--more-->
 
-For the term project, I coded up a funky keyboard version of [Drum 'n' Fun][game] that take in whatever music you fed in and generate the game for you based on the audio processing result with python libraries pygame, librosa, pyaudio, aubio, tkinter, and etc. It offers two playing modes, one by directly pressing keys, another one by clapping your hands (or table, however you want to drop the beat).
+For the term project, I coded up a funky keyboard version of [Drum 'n' Fun][game] that take in whatever music you fed in and generate the game for you based on the audio processing result with python libraries such as pygame, librosa, pyaudio, aubio, tkinter, and etc. It offers two playing modes, one by directly pressing keys, another one by clapping your hands (or table, however you want to drop the beat).
 
 It was the first time that I do some serious programing so I found writing hundreds of lines of code quite challenging (back in the days, of course I didn’t realize that it can be easily surpassed by few 213 labs in later semesters). I really hope that I can retake 112 and make some other cool term projects as it’s such a fun experience. 
 
