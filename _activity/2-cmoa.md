@@ -16,12 +16,9 @@ Ever since I arrived at CMU and knew that the Carnegie Museum of Art ([CMOA]) is
 
 I’m the youngest member in the volunteer docent group. Some amazing docents have been serving in CMOA for 38 years, which is twice my age that time :rofl:, but this is such a caring warming group and I love it so much.
 
-<center>
-  <img class="image image--xl" src="/assets/images/cmoa-style.jpg">
-</center>
-<div align="center" markdown="1">
-  *The Andy Warhol's [Marilyn Monroe][andy] style-transferred R class[^1] photo.*
-</div>
+| ![](/assets/images/cmoa-style.jpg) |
+|:--:|
+| *The Andy Warhol's [Marilyn Monroe][andy] style-transferred R class[^1] photo using [deepart].* |
 
 During the training for the docent volunteering program, we took classes on art history, researched on artworks in CMOA’s collection, discussed art topics, shadowed active docents’ K12 tours, learned about the Visual Thinking Strategies ([VTS]) that CMOA adopted, and work with mentors and “classmates[^1]” to practice and gradually build up our 1-hour activation tour. 
 
@@ -34,8 +31,9 @@ I’ve always been thinking about how can I contribute more using my unique back
 
 [^1]: CMOA recruit docents every year and assign each “class” by alphabetical letter. I belong to the “R” class, and our mentors belong to the "P", "Q", or prior classes.
 
-[art]: /portfolio/art.html
+[art]: /portfolio/8-art.html
 [CMOA]: https://cmoa.org/
+[deepart]: https://deepart.io/
 [docent]: https://cmoa.org/join-give/docent/
 [VTS]: https://vtshome.org/
 [project]: /research/2-cmoa.html
