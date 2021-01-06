@@ -10,7 +10,7 @@ cover: /assets/images/egia-group-logo.png
 lang: [en, zh]
 ---
 
-Besides the [individual project], there’s a group project of designing a Big Ideas Synthesis for EGIA. Our team, *The Igniters*, collaboratively developed a 63-pages Google Document to synthesize the theoretical-based educational practices dedicated to a specific audience — novice educators. 
+Besides the [individual project], there’s a group project of designing a Big Ideas Synthesis for EGIA. Our team, *The Igniters* (me, [Chih-Yun Huang][leila] & [Baptiste Moreau-Pernet][baptiste]), collaboratively developed a 63-pages Google Document to synthesize the theoretical-based educational practices dedicated to a specific audience — novice educators. 
 
 <!--more-->
 
@@ -30,3 +30,5 @@ For unique individual contributions, I’m the main organizer for the table of c
 | *The reflection notes I receive from my classmates in EGIA.* |
 
 [individual project]: /portfolio/1-egia-individual.html
+[baptiste]: https://baptistemp.github.io/
+[leila]: https://www.linkedin.com/in/chih-yun-huang/
