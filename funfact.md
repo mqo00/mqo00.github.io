@@ -40,9 +40,7 @@ I love, love cooking. I’m not bragging, but I’m such a foodie and good amate
 
 ## Bonus Recipe
 
-<div align="center" markdown="1">
-  *And here's a special recipe of making **a thousand seagulls** [^1]*
-</div>
+And here's a special recipe of making **a thousand seagulls** [^1]: 
 <center>
   <img class="image image--xl" src="/assets/images/recipe-me-en.jpg">
 </center>
