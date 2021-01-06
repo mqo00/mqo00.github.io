@@ -17,13 +17,14 @@ I love drawing, making handicrafts, and doing calligraphy in my free time. There
 | *Houses 1* `pen-and-wash sketch` | *Walls* `pen-and-wash sketch` |
 | -- | -- | 
 |![](/assets/images/art-houses1.png)|![](/assets/images/art-walls.png)|
+
 | *Houses 2* `pen-and-ink sketch` | *Tree* `pen-and-ink sketch` |
 | -- | -- | 
 |![](/assets/images/art-houses2.png)|![](/assets/images/art-tree.png)|
 
-| *Small Regular Script* `calligraphy` | *Anthology of Poems* `calligraphy` |
-| -- | -- |
-|![](/assets/images/art-calligraphy1.png)|![](/assets/images/art-calligraphy2.png)|
+| *Small Regular Script* `calligraphy` | 
+| -- |
+|![](/assets/images/art-calligraphy1.png)|
 
 | *Tissue Box* `wood, gouache` | *Lamp* `watermelon` |
 | -- | -- | 
@@ -32,3 +33,14 @@ I love drawing, making handicrafts, and doing calligraphy in my free time. There
 | *Fish and Lotus* `hand painting on ceramic plate` |
 | -- |
 |![](/assets/images/art-ceramic.png)|
+
+| *Process 1* `canvas bag, acrylic paint` | *Process 2* `canvas bag, acrylic paint` |
+| -- | -- | 
+|![](/assets/images/art-bag0.png)|![](/assets/images/art-bag1.png)|
+
+| *Lilies and Fish & [The Wave] (pastiche)* | *[Don Quixote] (pastiche) & Cartoon* |
+| -- | -- | 
+|![](/assets/images/art-bag2.png)|![](/assets/images/art-bag3.png)|
+
+[The Wave]: https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa
+[Don Quixote]: https://en.wikipedia.org/wiki/Don_Quixote_(Picasso)

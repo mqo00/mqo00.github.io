@@ -1,27 +1,25 @@
 ---
 layout: article
-title: Personal Blog & Vlog [seagulls1000]
+title: This Website [mqo00.github.io]
 key: seagulls1000 
-tags: [writing, video]
+tags: [programming, web design, Jekyll]
 show_tages: true
 show_date: false
 sharing: true
-cover: /assets/images/seagulls1000-logo.png
+cover: /assets/images/website-logo.png
 lang: [en, zh]
 ---
 
-Since I graduated from high school, I started to operate a personal WeChat official account (**seagulls1000**), which is a Chinese platform to post blog and vlog. 
+This website itself is my attempt to practice the skills and learn some new tools for web design. 
 
 <!--more-->
 
-Initially, I was just sharing some of my study strategies and experiences preparing for tests like SAT, TOEFL, and AP, which were shared by influential WeChat accounts like INSIGHT, TestDaily, Panopath, and etc., and I also wrote QnAs for students who sought help in terms of major selection and test preparation. 
+Originally I used javaScript / HTML / CSS and node.js to develop a static website, but then I figured there’s a more elegant solution using [Jekyll], so I found a [template] and use my [GitHub] page to host this website. I also host it using my Andrew ID domain that CMU provides, as my parents said somehow they couldn’t access the mqo00.github.io page.
 
-Gradually, I started to write film reviews, travel notes, comments on gender equity issues, and thoughts on social phenomena. As I got into college, I made some vlogs to share my CMU life, and I also wrote articles on all those amazing courses I took. My ambition is to write an article for each class I took in CMU, but I haven’t even finished writing my freshmen year… If only I can have 48 hours a day!
+| `The storyboard design of this website` |
+| -- |
+|![](/assets/images/website.png)|
 
-I’ve written more than **500,000** words, **80+** articles, and made **20+** vlogs, and I have **3000+** followers now and hundreds to thousands of views on each article or video. Unfortunately, all of these articles (and voice-over for videos) are in Chinese and most of the time I didn’t have English subtitle, but if you want a sample of my non-academic writing, [here] is one I wrote in 2018 (actually quite early) and won the *First Place for College Prose* in the 20th Annual Martin Luther King Jr. Writing Awards.
-
-| :one: `Laser cutting` | :two: `The final project` |
-| -- | -- | 
-|![](/assets/images/24104-laser-cut.jpg)|![](/assets/images/24104-waterme.jpg)|
-
-[here]: https://www.cmu.edu/dietrich/english/mlk/2019/ma-christina.html
+[Jekyll]: https://jekyllrb.com/
+[template]: https://github.com/kitian616/jekyll-TeXt-theme
+[GitHub]: https://github.com/mqo00/mqo00.github.io
