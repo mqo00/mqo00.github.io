@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Roller Coaster Design & The Old Mill
+title: Roller Coaster Design & The Old Mill [98186]
 key: roller-coaster
 tags: [design, theme park engineering, video, writing]
 show_tages: true
@@ -10,7 +10,7 @@ cover: /assets/images/oldmill-logo.png
 lang: [en, zh]
 ---
 
-In my freshman fall *(2018)*, I took my first StuCo (student-taught course) at CMU, [98-186 Roller Coaster Design and History][98186], which is still one of my favorite classes at CMU. We’ve done all sorts of design challenges, and I’ve designed two roller coasters with some Chinese themes in the individual projects. For example, my first project was related to the Jiankou section of the Great Wall, and my second project mimicked the shape and knotting process of the Chinese Knot. It was so much fun and I enjoyed making these designs a lot!
+In my freshman fall *(2018)*, I took my first StuCo (student-taught course) at CMU, [98-186 *Roller Coaster Design and History*][98186], which is still one of my favorite classes at CMU. We’ve done all sorts of design challenges, and I’ve designed two roller coasters with some Chinese themes in the individual projects. For example, my first project was related to the Jiankou section of the Great Wall, and my second project mimicked the shape and knotting process of the Chinese Knot. It was so much fun and I enjoyed making these designs a lot!
 
 <!--more-->
 
