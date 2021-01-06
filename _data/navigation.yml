@@ -3,14 +3,8 @@ header:
   - titles:
       # @start locale config
       en      : &EN       Research
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
       zh-Hans : &ZH_HANS  研究
       zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
       # @end locale config
     url: /research.html
 
@@ -34,12 +28,6 @@ header:
 
   - titles:
       en      : &EN       中文
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
       zh-Hans : &ZH_HANS  English
       zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
     url: /index.html
