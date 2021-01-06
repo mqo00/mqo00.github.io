@@ -6,7 +6,7 @@ tags: [programming, music game, video, python]
 show_tages: true
 show_date: false
 sharing: true
-cover: /assets/images/logo.jpeg
+cover: /assets/images/15112-logo.png
 lang: [en, zh]
 ---
 
