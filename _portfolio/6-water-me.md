@@ -10,7 +10,7 @@ cover: /assets/images/24104-waterme-logo.jpg
 lang: [en, zh]
 ---
 
-In my sophomore fall *(2019)*, I took the 3-unit mini class [24-104 *Maker Series: Intro to Modern Making*][24104], in which we learned some introductory techniques for 3D printing, laser cutting/engraving, technical drawing & part modeling using SolidWorks and CAD, and Arduino electronics. 
+In my sophomore fall *(2019)*, I took the 3-unit mini-class [24-104 *Maker Series: Intro to Modern Making*][24104], in which we learned some introductory techniques for 3D printing, laser cutting/engraving, technical drawing & part modeling using SolidWorks and CAD, and Arduino electronics. 
 
 <!--more-->
 
