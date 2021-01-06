@@ -20,6 +20,6 @@ In the final paper, *Performance or Learning[^1]? Feedback provided by cognitive
 1. **immediate** and **corrective** feedback work better for short retention interval, improves the speed of learning, and thus result in better **performance**, but it fails to support transfer learning;
 2. in contrast, **delayed** and **elaborative** feedback better support transfer and long-term retention, which describe greater **learning** versus performance gain.
 
-[85395]: 
-[05-899]: 
+[85395]: https://www.coursicle.com/cmu/courses/PSY/85395/
+[05-899]: https://www.coursicle.com/cmu/courses/HCI/05899/
 [^1]: “performance” and “learning” mean different things in the educational literature.  

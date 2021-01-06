@@ -14,7 +14,7 @@ In my freshman fall *(2018)*, I took my first StuCo (student-taught course) at C
 
 <!--more-->
 
-| :one: `The Jiankou Great Wall` | :two: `The Chinese Knot` |
+| :one: `The Great Wall` | :two: `The Chinese Knot` |
 | -- | -- | 
 |![](/assets/images/98186-great-wall1.png)|![](/assets/images/98186-chinese-knot2.png)|
 |![](/assets/images/98186-great-wall2.png)|![](/assets/images/98186-chinese-knot1.png)|
