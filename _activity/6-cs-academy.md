@@ -3,7 +3,7 @@ layout: article
 title: Content Producer @ CS Academy
 key: cs
 tags: [cs, education, programming, creativity]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/cs-academy-owl.png

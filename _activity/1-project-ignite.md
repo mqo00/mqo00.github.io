@@ -3,7 +3,7 @@ layout: article
 title: President @ Project Ignite
 key: project-ignite
 tags: [education, leadership, outreach]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/PI-logo.png

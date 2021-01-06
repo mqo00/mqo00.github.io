@@ -3,7 +3,7 @@ layout: article
 title: Intelligent Tutor Feedback [85395 Final Paper]
 key: cog-tutor
 tags: [writing, ITS, learning science, feedback]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/85395-logo.png

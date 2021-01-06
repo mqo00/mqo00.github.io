@@ -3,7 +3,7 @@ layout: article
 title: Teaching Assistant @ 15-150
 key: TA
 tags:  [teaching assistant, teaching, education, programming]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/15150-logo.png

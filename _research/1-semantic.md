@@ -3,7 +3,7 @@ layout: article
 title: Semantics Relations Research
 key: semantic
 tags: [semantic relations, development, computational linguistics, NLP, modeling]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 lang: [en, zh]

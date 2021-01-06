@@ -3,7 +3,7 @@ layout: article
 title: Personal Blog & Vlog [seagulls1000]
 key: seagulls1000 
 tags: [writing, video, open diary]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/seagulls1000-logo.png

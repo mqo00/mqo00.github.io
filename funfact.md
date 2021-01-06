@@ -3,7 +3,7 @@ layout: article
 title: Fun Facts
 key: fun-fact 
 tags: [martial art, taichi sword, cooking]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/taichi-cover.png

@@ -3,7 +3,7 @@ layout: article
 title: Volunteer Docent @ CMOA
 key: docent
 tags: [education, outreach, art]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/cmoa-logo.png

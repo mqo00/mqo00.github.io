@@ -3,7 +3,7 @@ layout: article
 title: App Development Lesson Plan [85738 Individual Project]
 key: egia-individual
 tags: [writing, education, EGIA, curriculum design, learning science]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/egia-individual-logo.png

@@ -3,7 +3,7 @@ layout: article
 title: CMOA Website Study
 key: cmoa
 tags: [CMOA, user study, website study, HCI]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 lang: [en, zh]

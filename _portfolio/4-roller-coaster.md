@@ -3,7 +3,7 @@ layout: article
 title: Roller Coaster & The Old Mill [98186 Design Challenge]
 key: roller-coaster
 tags: [design, theme park engineering, video, writing]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/oldmill-logo.png

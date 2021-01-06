@@ -3,7 +3,7 @@ layout: article
 title: Various Artworks [drawing, handicraft, calligraphy]
 key: art 
 tags: [arts, sketch, calligraphy, ceramic, gouache, carve, painted bag]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/art-logo.png

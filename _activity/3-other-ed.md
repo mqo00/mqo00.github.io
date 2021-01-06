@@ -3,7 +3,7 @@ layout: article
 title: Tutor, Mentor @ Various Places
 key: teaching
 tags: [education, outreach, teaching]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/othered-logo.png

@@ -3,7 +3,7 @@ layout: article
 title: Drum 'n' Fun Keyboard [15112 Term Project]
 key: drum-game
 tags: [programming, music game, video, python]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/15112-logo.png

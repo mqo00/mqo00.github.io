@@ -3,7 +3,7 @@ layout: article
 title: This Website [mqo00.github.io]
 key: seagulls1000 
 tags: [programming, web design, Jekyll]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/website-logo.png

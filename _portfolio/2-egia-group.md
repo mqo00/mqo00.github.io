@@ -3,7 +3,7 @@ layout: article
 title: Big Ideas Synthesis [85738 Group Project]
 key: egia-group
 tags: [writing, education, EGIA, learning science]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/egia-group-logo.png

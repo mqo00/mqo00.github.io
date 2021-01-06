@@ -3,7 +3,7 @@ layout: article
 title: Water Me! [24104 Final Group Project]
 key: water-me
 tags: [electronics, Arduino, modern making]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/24104-waterme-logo.jpg

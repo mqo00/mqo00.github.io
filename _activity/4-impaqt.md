@@ -3,7 +3,7 @@ layout: article
 title: Member @ IMPAQT
 key: impaqt
 tags: [leadership, outreach, cultural communication]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/impaqt-logo.png

@@ -3,7 +3,7 @@ layout: article
 title: Educational Data Mining 
 key: semantic
 tags: [educational data mining, multimodal machine learning, data annotation, math learning analytics， help-seeking behavior]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 lang: [en, zh]

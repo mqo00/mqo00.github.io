@@ -3,7 +3,7 @@ layout: article
 title: Intern @ Expii & Daily Challenge
 key: expii
 tags:  [internship, marketing, user research, math education]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 cover: /assets/images/expii-logo.png

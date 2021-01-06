@@ -3,7 +3,7 @@ layout: article
 title: VR Classroom Research
 key: vr
 tags:  [virtual reality, college classroom, educational technology, higher education]
-show_tages: true
+show_tags: true
 show_date: false
 sharing: true
 lang: [en, zh]
