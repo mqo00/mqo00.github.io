@@ -36,5 +36,5 @@ I’ve always been thinking about how can I contribute more using my unique back
 [deepart]: https://deepart.io/
 [docent]: https://cmoa.org/join-give/docent/
 [VTS]: https://vtshome.org/
-[project]: /en_research/2-cmoa.html
+[project]: /en_research/2-cmoa-web.html
 [andy]: https://www.artetrama.com/blogs/news/about-andy-warhols-sunday-b-morning-marilyn-monroe-series
