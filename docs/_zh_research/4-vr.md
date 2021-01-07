@@ -9,12 +9,10 @@ sharing: true
 lang: zh
 ---
 
-中文测试
+下学期*(2021 春季)*, 我会跟随Lauren Herckis博士对一节大一研讨课[66-129 超现实: 沉浸式空间媒体][unreality] 
 
-In the next semester *(2021 Spring)*, I will be doing independent research on the Grand Challenge First-Year Seminar course [66-129 Unreality: Immersive and Spatial Media][unreality] with the instructors Dr. Lauren Herckis and Tom Corbett.
- 
 <!--more-->
 
-Coming soon...
+施工中...
 
 [unreality]: https://www.cmu.edu/dietrich/students/undergraduate/programs/grand-challenge/seminars/unreality.html

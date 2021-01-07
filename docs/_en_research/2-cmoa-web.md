@@ -24,7 +24,7 @@ I wrote the proposal and completed the IRB protocol for the study: *Improving Ar
 
 |![](/assets/images/cmoa-map.png)|
 |:--:| 
-| *Other than CMOA, art museums are selected based on CMOA benchmark study (10), NAEA’s impact study (5), and other research (8).* |
+| *Other than CMOA, art museums are selected based on CMOA benchmark study (10), [NAEA’s impact study][NAEA] (5), and other research (8).* |
 
 Based on the literature review, a metric of 6 items were developed:
 - **Information Content**
@@ -45,3 +45,4 @@ To understand what information should be presented on art museums’ websites an
 
 [SURG]: https://www.cmu.edu/uro/research%20grants/SURG/index.html
 [CMOA]: https://cmoa.org/
+[NAEA]: https://www.arteducators.org/research/articles/377-naea-aamd-research-study-impact-of-art-museum-programs-on-k-12-students

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: CMOA Website Study
+title: 卡内基艺术博物馆网站分析
 key: cmoa-web
 tags: [CMOA, user study, website study, HCI]
 show_tags: true
@@ -9,40 +9,29 @@ sharing: true
 lang: zh
 ---
 
-中文测试
-`($500 grant)`
+`(本研究获得了$500的赞助资金)`
 
-In my sophomore year *(09/2019~05/2020)*, I successfully applied to a **$500** Small Undergraduate Research Grant ([SURG]) to do an independent study under Dr. Sharon Carver’s supervision and in collaboration with the education department of the Carnegie Museum of Art ([CMOA]). 
+我在大二的一年里*(09/2019~05/2020)*申请了一个$500的本科生研究补助金[SURG]，在Sharon Carver教授的指导下与卡内基艺术博物馆[CMOA]的教育部门合作完成了独立项目：*改进艺术博物馆官网以支持教育工作者与家长——基于卡内基艺术博物馆网站的案例分析*。
 
 <!--more-->
 
-| `Timeline Fall 2019` | `Timeline Spring 2020`|
+| `2019秋季时间表` | `2020春季时间表`|
 | ---- | ---- |
 | ![](/assets/images/cmoa-timeline-F19.png) | ![](/assets/images/cmoa-timeline-S20.png) |
 
+我撰写了项目的提案、完成了IRB的申请流程、通过文献综述总结提炼了一套针对博物馆网站的评价指标，并对24个艺术博物馆进行了对比分析。在此基础上，我设计了一个针对教育工作者与家长的用户问卷、并根据问卷结果设计了一个卡片分类的用户访谈(card-sorting user interview)。
 
-I wrote the proposal and completed the IRB protocol for the study: *Improving Art Museums’ Websites to Support Teachers and Parents — a Case Study of the Carnegie Museum of Art’s Website*. I synthesized a metric based on a literature review, conducted a comparative analysis on 24 art museum websites, developed and disseminated a survey, and designed and conducted a card-sorting user interview. This study was cut short because of COVID-19, but it’s a fun and educational experience!
+因为疫情，我并未能收集多少卡片分类实验的数据，也未能进行迭代的原型设计(iterative prototyping)，但这个项目的经历还是很有意思的，也让我应用了很多HCI的技能。
 
 |![](/assets/images/cmoa-map.png)|
 |:--:| 
-| *Other than CMOA, art museums are selected based on CMOA benchmark study (10), NAEA’s impact study (5), and other research (8).* |
+| *除了CMOA, 用来对比分析的其他23个艺术博物馆中，10个选自CMOA的基准研究, 5个选自[NAEA的影响力研究][NAEA], 8个选自其他研究报告.* |
 
-Based on the literature review, a metric of 6 items were developed:
-- **Information Content**
-  - *Currency*: the time scope of the content’s validity is clear and updated
-  - *Clarity*: the information is concise and accurate so it’s easy to understand
-  - *Richness*: many useful and relevant information is provided 
-- **Information Presentation**
-  - *Consistency*: similar pieces of information are presented in similar fashions (color, font...)
-  - *Multimediality*: necessary information is provided and is rich (example, data, visualization...)
-- **Information Architecture**
-  - *Navigability*: structure (path to find information) is reasonable, supported, and intuitive
 
 ![](/assets/images/cmoa-metric.png)
-
-To understand what information should be presented on art museums’ websites and how to organize it to support teachers and parents planning to bring children to art museums, participants are invited for a card sorting user interview, in which they organize the navigational labels and content of different webpages to help them find the information they need for a task they selected.
 
 ![](/assets/images/cmoa-cardsort.png)
 
 [SURG]: https://www.cmu.edu/uro/research%20grants/SURG/index.html
 [CMOA]: https://cmoa.org/
+[NAEA]: https://www.arteducators.org/research/articles/377-naea-aamd-research-study-impact-of-art-museum-programs-on-k-12-students

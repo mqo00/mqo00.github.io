@@ -2,7 +2,7 @@
 layout: article
 title: 趣事
 key: fun-fact
-tags: [martial art, taichi sword, cooking]
+tags: [太极剑, 美食, 烹饪]
 show_tags: true
 show_date: false
 sharing: true
@@ -11,24 +11,21 @@ lang: zh
 lightbox: true
 ---
 
-Here are some fun facts about me!
-
 <!--more-->
 
-## Tai Chi Sword
+## 太极剑
 
-I’m Chinese, so as you may expect, I do martial art (haha it is such an old stereotypical joke). But anyway I did learn some Tai Chi, and in particular **Tai Chi Sword**.
+没想到吧，我可是会打太极剑的人呀( ´▽` )ﾉ 以下视频是在厦门的筼筜书院录的！风景可棒了。
 
-<div>{%- include extensions/youtube.html id='0eRCgO3CycI' -%}</div>
-<center><i>Here’s a video of my performance in my hometown, Xiamen.</i></center>
+<div>{%- include extensions/bilibili.html id='BV1GX4y1K7fd' -%}</div>
 
 |![](/assets/images/taichi-cover.png)|
 |:--:|
-| *The martial art may not be too impressive, but I did take some good photos* :joy: |
+| *这个视频是我学剑速成了一周左右录的，并不如何厉害，但我个人感觉拍的照片还是很带感的* :joy: |
 
-## Cooking
+## 美食
 
-I love, love cooking. I’m not bragging, but I’m such a foodie and good amateur cook (especially traditional Chinese cuisine, partly because as students who study abroad we have to cook ourselves if we want some legit Chinese food lol). Just to show you some good photos.
+我热爱美食！热爱做饭（不过不爱洗碗233伟大的发明洗碗机！）而且作为留学生我当然很会做饭了！希望你在看我网站的时候已经吃过了，否则被动深夜报社本人概不负责哈。
 
 | -- | -- | -- | -- |
 |![](/assets/images/food-long-1.jpg)|![](/assets/images/food-long-2.jpg)|![](/assets/images/food-long-3.jpg)|![](/assets/images/food-long-4.jpg)|
@@ -39,11 +36,11 @@ I love, love cooking. I’m not bragging, but I’m such a foodie and good amate
 | -- | -- | -- | -- |
 |![](/assets/images/food-5.jpg)|![](/assets/images/food-6.jpg)|![](/assets/images/food-7.jpg)|![](/assets/images/food-8.jpg)|
 
-## Bonus Recipe
+## 彩蛋
 
-And here's a special recipe of making **a thousand seagulls** [^1]:
+以及作为彩蛋，分享一个我个人非常喜爱的菜单，教大家如何制作一只**马千鸥**[^1]:
 <center>
-  <img class="image image--xl" src="/assets/images/recipe-me-en.jpg">
+  <img class="image image--xl" src="/assets/images/recipe-me-zh.jpg">
 </center>
 
-[^1]: if you don’t know yet, my Chinese name basically means a thousand seagulls because I was born in 2000 in Xiamen, a seaside city full of seagulls!
+[^1]: 😯或者说一只🐎和一千只🐦？

@@ -30,9 +30,9 @@ In 2020 summer, I received a **$3500** Summer Undergraduate Research Fellowship 
 | *R library ggplot was also used to aid the stimulus selection process.* |
 
 
-During my junior Fall, I worked with Dr. Bonnie Nozari on a similar project to study the differential effects of taxonomic and thematic word relations in picture naming task and the typing modality. Meanwhile, in my Parallel Distributed Processing class ([85-419/719][PDP]) taught by Dr. David Plaut, I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network.
+During my junior Fall, I worked in Dr. Bonnie Nozari's [lab][Bonnie] on a similar project to study the differential effects of taxonomic and thematic word relations in picture naming task and the typing modality. Meanwhile, in my Parallel Distributed Processing class ([85-419/719][PDP]) taught by Dr. David Plaut, I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network.
 
- I’ve practiced and gained a lot of skills during these research experiences, including Python ([NLTK] library), R, [Gephi], [jspsych] javaScript, HTML, CSS, [Lens], and I also had some exposures to those tools that host online psychology experiment like Qualtrics, [psiTurk] and Amazon Mechanical Turk ([MTurk]).
+ I’ve practiced and gained a lot of skills during these research experiences, including Python ([NLTK] library), R, [Gephi], [jspsych] javaScript, HTML, CSS, [Lens], and I also had some exposures to those tools that host online psychology experiment like [Qualtrics], [psiTurk] and Amazon Mechanical Turk ([MTurk]).
 
 |![](/assets/images/semantic-typing-stimulus.png)|
 |:--:| 
@@ -55,10 +55,12 @@ During my junior Fall, I worked with Dr. Bonnie Nozari on a similar project to s
 [CC]: https://commoncrawl.org/
 [TASA]: http://lsa.colorado.edu/spaces.html
 [SURF]: https://www.cmu.edu/uro/summer%20research%20fellowships/SURF/
+[Bonnie]: https://www.nozarilab.com/about
 [NLTK]: https://www.nltk.org/
 [Gephi]: https://gephi.org/
 [jspsych]: https://www.jspsych.org/
 [Lens]: https://ni.cmu.edu/~plaut/Lens/Manual/
+[Qualtrics]: https://www.qualtrics.com/
 [psiTurk]: http://psiturk.org/ee/
 [MTurk]: https://www.mturk.com/
 [PDP]: http://www.cnbc.cmu.edu/~plaut/IntroPDP/index.html
