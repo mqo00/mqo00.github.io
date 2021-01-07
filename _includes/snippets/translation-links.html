@@ -1,0 +1,21 @@
+<!-- 
+    find all pages with the same page.key => use this because
+    page.name: only available for collection page, not individual post. 
+    pick the one with a different page.lang
+-->
+{% assign __return = page %}
+{% assign candidates = site.pages | where: "key", page.key %}
+
+<!-- site.pages doesn't include collections? so besides top level nav pages, 
+    also search for site.documents: https://jekyllrb.com/docs/variables/ -->
+{% if candidates.size == 2 %}
+    <!-- although the size may be 0, candidates itself is not empty? -->
+{% else %}
+    {% assign candidates = site.documents | where: "key", page.key %}
+{% endif %}
+
+{% for candidate in candidates %}
+    {% if page.lang != candidate.lang %}
+        {% assign __return = candidate %}
+    {% endif %}
+{% endfor %}

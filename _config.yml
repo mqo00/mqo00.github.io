@@ -192,12 +192,19 @@ exclude:
   - /test
   - /vendor
 
+collections_dir: docs
 collections:
-  research:
+  en_research:
     output: true
-  activity:
+  en_activity:
     output: true
-  portfolio:
+  en_portfolio:
+    output: true
+  zh_research:
+    output: true
+  zh_activity:
+    output: true
+  zh_portfolio:
     output: true
 
 defaults:
@@ -213,6 +220,14 @@ defaults:
       show_edit_on_github: true
       show_subscribe: false
       pageview: true
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "zh"
+    values:
+      lang: "zh"
 
 
 ## => Plugins

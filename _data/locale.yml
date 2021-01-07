@@ -1,4 +1,5 @@
 # @start locale config
+
 ## => English
 ########################
 en: &EN
@@ -32,7 +33,7 @@ en-AU:
 
 ## => Simplified Chinese
 ########################
-zh-Hans: &ZH_HANS
+zh: &ZH
   SUBSCRIBE               : "订阅"
   READMORE                : "阅读更多"
   SEARCH                  : "搜索"
@@ -52,12 +53,12 @@ zh-Hans: &ZH_HANS
   EMAIL_US                : "给我们发邮件。"
   COPYRIGHT_DATES         : "2021"
 
-zh:
-  <<: *ZH_HANS
+zh-Hans:
+  <<: *ZH
 zh-CN:
-  <<: *ZH_HANS
+  <<: *ZH
 zh-SG:
-  <<: *ZH_HANS
+  <<: *ZH
 
 ## => Traditional Chinese
 ########################

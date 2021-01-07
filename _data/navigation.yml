@@ -1,33 +1,30 @@
+
+language-list:
+  - en
+  - zh
+
+language-translate:
+  en: 中文
+  zh: English
+
 header:
 
   - titles:
-      # @start locale config
-      en      : &EN       Research
-      zh-Hans : &ZH_HANS  研究
-      zh      : *ZH_HANS
-      # @end locale config
-    url: /research.html
+    en : Research
+    zh : 研究
+    url:  /research.html
 
   - titles:
-      en:       Activities
-      zh:       活动
-      zh-Hans:  活动
-    url:        /activity.html
+    en: Activities
+    zh: 活动
+    url:  /activity.html
 
   - titles:
-      en:       Portfolio
-      zh:       作品
-      zh-Hans:  作品
-    url:        /portfolio.html
+    en: Portfolio
+    zh: 作品
+    url:  /portfolio.html
 
   - titles:
-      en:       Fun
-      zh:       趣闻
-      zh-Hans:  趣闻
-    url:        /funfact.html  
-
-  - titles:
-      en      : &EN       中文
-      zh-Hans : &ZH_HANS  English
-      zh      : *ZH_HANS
-    url: /index.html
+    en: Fun
+    zh: 趣闻
+    url:  /funfact.html
