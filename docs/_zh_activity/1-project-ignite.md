@@ -10,32 +10,30 @@ cover: /assets/images/PI-logo.png
 lang: zh
 ---
 
-中文测试
-
-Since the very first semester *(2018 Fall)*, I’ve been involved in [Project Ignite][PI], an educational outreach student organization that provide interdisciplinary project workshops to high school students in the greater Pittsburgh area.
+我自入学的第一个学期*(2018 Fall)* 便加入了[Project Ignite][PI]「引燃者」社团，为本地高中生提供跨学科的项目式学习。
 
 <!--more-->
 
-#### My Project Ignite[^1] Stories
+###引燃者[^1]
 
-In my freshman year, I served as a **project advisor**, collaborated with a CS senior, and led a project of 5 high school students for 10 workshops, under the [general topic of machine learning][19S]. We laid out workshop materials and guided students to brainstorm and work on a specific project of their choice: an image caption generator. 
+我大一是作为**项目导师**，与一个计算机科学专业的大四学生合作设计了一个[机器学习主题项目][19S]，带领5个高中生对项目具体方向进行了头脑风暴，并用10个workshop[^2]尝试制作了一个图像字幕生成APP的雏形(image caption generator)。
 
-In my sophomore year, I became the **VP of Communications** and strived to increase the influence of Project Ignite both on and off the CMU campus, and especially for the underrepresented population. I increased the recruitment size for the 2019-2020 semester by 50%, and I expanded our collaboration with 5 more high schools, so in the 2020 Spring semester, we had 30 CMU students and 60 high school students working on [10 diverse projects][20S]. 
+我在大二时成为了社团的**市场传播副主席**，专注于提升社团的多样化程度与校内外的知名度。通过各种宣传渠道，我与5所本地高中达成了新的合作关系，招募到了比去年多50%的CMU与高中学生。因此，在2020春季学期，我们组织了30名CMU学生与60名高中生开展了如环境科学、机器人等[10个不同的项目课题][20S]。
 
 |![](/assets/images/PI-diversity.png)|
 |:--:| 
-| *I also increased the number of female applicant by 5%, and the number of racial minority applicants by 10% than last year (2018-2019 semester).* |
+| *比起2018-2019学期，我使高中生中的女性申请人数增加了5%，少数族裔申请人数增加了10%.* |
 
-In my junior year, I’m serving as the **President** of Project Ignite. We moved all project workshops to remote format and innovated our recruitment procedure and operational mode during the pandemic. For example, we let advisors to come up with project teams themselves, split the high school application into 2 steps, and designed a mutual interview to create better project team groupings. We also networked with [Remake Learning], a local educational initiative, so we’ve got to present and advertise for Project Ignite in Allegheny’s district meeting with 30+ superintendents. Under all sorts of restrictions, we’ve managed to coordinate [7 project teams][21S] of 70 students and advisors. 
+如今大三的我是社团的**主席**，因为疫情的影响，我们把所有的项目都改成了在线上进行，于是我带领着社团成员对我们的招新过程和组织模式进行了创新，包括了合作选题、个性化申请，以及双向面试等新流程。我们还与一个匹兹堡教育组织“重塑学习”达成了合作，在一个包括了30多所学校的区域会议上对社团进行了宣传。我们克服了种种困难，仍然组织了包括70名CMU学生与高中生在内的[7个项目组][21S]。
 
 |![](/assets/images/PI-photo.png)|
 |:--:| 
-| *Project Showcase @ Spring 2019* |
+| *项目展示 @ 2019 春季* |
 
-Beside the club, I’m taking a graduate-level class called *Educational Goals, Instruction, and Assessment* ([85-738 EGIA]), in which I designed an App development workshop plan with theoretical foundations of learning sciences, and some of the designs like workshop exit surveys are actually implemented in 2021 Spring. For more details on the workshop design, please refer to my [EGIA project][EGIA]. 
+在社团活动之外，我上了一节研究生级别的教育课([85-738 EGIA])，并在课程的学期项目中设计了一个在我们社团的情境中带领高中生进行APP开发的计划，其中一些如调查问卷等的设计实际应用在了2021春季的项目组中（更多细节指路我作品集中的[EGIA]项目）。
 
-
-[^1]: The name “Project Ignite” came from Plutarch’s motto — *“The mind is not a vessel that needs filling, but wood that needs igniting.”*
+[^1]: 社团名称化用了希腊哲学家普鲁塔克的格言*“教育不是灌输，而是点燃火焰。”*我想了半天也就意译了个「引燃者」，如果你想到了更好的译名请务必告诉我！
+[^2]: workshop我是着实不知道怎么翻译了，研讨会/讲习班等翻译都不太准确。
 
 [PI]: https://projectignitecmu.org/
 [19S]: https://projectignitecmu.org/project-archive-2019

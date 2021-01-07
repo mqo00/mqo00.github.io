@@ -1,8 +1,8 @@
 ---
 layout: article
-title: VR Classroom Research
+title: 虚拟现实技术进课堂
 key: vr
-tags:  [virtual reality, college classroom, educational technology, higher education]
+tags:  [虚拟现实, VR, 大学课堂, 教育科技, 高等教育]
 show_tags: true
 show_date: false
 sharing: true
