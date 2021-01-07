@@ -29,6 +29,6 @@ For unique individual contributions, I’m the main organizer for the table of c
 |:--:| 
 | *The reflection notes I receive from my classmates in EGIA.* |
 
-[individual project]: /portfolio/1-egia-individual.html
+[individual project]: /en_portfolio/1-egia-individual.html
 [baptiste]: https://baptistemp.github.io/
 [leila]: https://www.linkedin.com/in/chih-yun-huang/

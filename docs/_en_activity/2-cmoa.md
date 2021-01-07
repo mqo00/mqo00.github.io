@@ -31,10 +31,10 @@ I’ve always been thinking about how can I contribute more using my unique back
 
 [^1]: CMOA recruit docents every year and assign each “class” by alphabetical letter. I belong to the “R” class, and our mentors belong to the "P", "Q", or prior classes.
 
-[art]: /portfolio/8-art.html
+[art]: /en_portfolio/8-art.html
 [CMOA]: https://cmoa.org/
 [deepart]: https://deepart.io/
 [docent]: https://cmoa.org/join-give/docent/
 [VTS]: https://vtshome.org/
-[project]: /research/2-cmoa.html
+[project]: /en_research/2-cmoa.html
 [andy]: https://www.artetrama.com/blogs/news/about-andy-warhols-sunday-b-morning-marilyn-monroe-series
