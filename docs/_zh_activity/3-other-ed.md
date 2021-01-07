@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Tutor, Mentor @ Various Places
+title: 其他教育活动｜助教、家教
 key: teaching
-tags: [education, outreach, teaching]
+tags: [教育, 公益, 教学]
 show_tags: true
 show_date: false
 sharing: true
@@ -10,16 +10,15 @@ cover: /assets/images/othered-logo.png
 lang: zh
 ---
 
-自高中毕业以来，我便在不同的组织与不同年龄段的学生中积累了丰富的家教、助教经验。在担任大学计算机入门课助教与社团的项目导师之外，我曾在上海三立当了两个托福高级班的20名学生两个月的助教，为学生们设计了个性化的学习策略，并与家长们保持沟通。我也曾在PeerInsight担任过SAT导师，带了25个学生，有考试的学生们平均提高了30分。大一时，我通过学校的LGC，在匹兹堡本地的Allderdice高中写作中心、Assemble的课外创客项目、以及Gelfand Outreac的周末儿童创意课堂里担任了导师或助教。
-Besides being a [TA] in college-level classes and a [project advisor][PI] in Project Ignite, I’ve accumulated a lot of tutoring, mentoring, and teaching assistant experiences with different age groups of students through various organizations since I graduated from high school. 
+在担任大学计算机入门课[助教][TA]与社团的[项目导师][PI]之外，自高中毕业以来，我便在不同的组织与不同年龄段的学生中积累了丰富的家教、助教经验。
 
 <!--more-->
 
-For example, I had assisted teaching of English TOEFL classes of 20 students in Sanli for two months, during which I designed personalized study strategies for students and communicated with parents; I had tutored SAT for over 25 students in PeerInsight and helped improve their SAT scores for 30 points on average. 
+我曾在上海三立当了两个托福高级班的20名学生两个月的助教，为学生们设计了个性化的学习策略，并与家长们保持沟通。我也曾在PeerInsight担任过SAT导师，带了25个学生，有考试的学生们平均提高了30分。
 
-During my freshman year, I’ve also worked at CMU’s Leonard Gelfand Center ([LGC]) as a tutor at the [Writing Center of Allderdice High School][allderdice], a mentor in [Assemble’s Girls' Maker Night program][assemble], and/or a teaching assistant in the [Gelfand Outreach] program for kindergarten and grade 1-2 children for about 2.5 hrs/week. 
+大一时，我通过学校的[LGC]，在匹兹堡本地的Allderdice高中[写作中心][allderdice]、Assemble的[课外创客项目][assemble]、以及[Gelfand Outreach]的周末儿童创意课堂里担任了导师或助教。
 
-| Elephant Toothpaste | [Bug Bots][bug] |
+| 大象牙膏 | [昆虫机器人][bug] |
 | ---- | ---- |
 | ![](/assets/images/lgc-elephant.jpg) | ![](/assets/images/lgc-bug.jpg) |
 

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Volunteer Docent @ CMOA
+title: 卡内基艺术博物馆 ｜ 志愿者
 key: docent
-tags: [education, outreach, art]
+tags: [教育, 公益, 艺术]
 show_tags: true
 show_date: false
 sharing: true
@@ -10,26 +10,26 @@ cover: /assets/images/cmoa-logo.png
 lang: zh
 ---
 
-Ever since I arrived at CMU and knew that the Carnegie Museum of Art ([CMOA]) is simply 5 minutes away from campus, I’ve decided to involve in the museum’s [docent training program][docent]. Why? Cause I love [art] and museum :heart:
+自从我发现卡内基艺术博物馆([CMOA])离学校只有5分钟路程，我便决定要加入CMOA的[讲解员训练项目][docent]（为什么？因为我热爱艺术热爱博物馆:heart:
 
 <!--more-->
 
-I’m the youngest member in the volunteer docent group. Some amazing docents have been serving in CMOA for 38 years, which is twice my age that time :rofl:, but this is such a caring warming group and I love it so much.
+我是所有志愿讲解员里年纪最小的（一位资深讲解员在CMOA已经当了超过38年的志愿者，这是我当时年龄的两倍！）志愿者项目就像是个大家庭，我身为小辈受到了非常多的关照，我超爱他们的！
 
 | ![](/assets/images/cmoa-style.jpg) |
 |:--:|
-| *The Andy Warhol's [Marilyn Monroe][andy] style-transferred R class[^1] photo using [deepart].* |
+| *利用[deepart]与安迪·沃霍尔的[玛丽莲梦露][andy]波普风格迁移(style transfer)的R班大合照[^1].* |
 
-During the training for the docent volunteering program, we took classes on art history, researched on artworks in CMOA’s collection, discussed art topics, shadowed active docents’ K12 tours, learned about the Visual Thinking Strategies ([VTS]) that CMOA adopted, and work with mentors and “classmates[^1]” to practice and gradually build up our 1-hour activation tour. 
+在训练项目里，我们上了一年的艺术史课、了解研究博物馆的艺术品馆藏、讨论艺术相关的话题、观摩正式讲解员们的导览(school tour)、学习了CMOA采用的视觉思考策略([VTS])，以及在前辈与伙伴们的帮助下不断练习，最终通过一小时的预备导览(activation tour)成为一名正式讲解员。 
 
-I’ve always been thinking about how can I contribute more using my unique background and knowledge, which is why I proposed the [SURG research project][project] on CMOA website, and why I came up with the theme of “See STEM in Art” for my activation tour.
+我也一直想着怎么才能利用我的专业背景与技能为CMOA作出更多贡献，于是便有了我的[SURG网站研究][project]，以及我的预备导览主题——艺术与科学(See STEM in Art)。
 
-| `My docent badge` | `Me in the Hall of Architecture`|
+| `讲解员身份卡` | `建筑大厅`|
 | ---- | ---- |
 | ![](/assets/images/cmoa-badge.jpg) | ![](/assets/images/cmoa-me.jpg) |
 
 
-[^1]: CMOA recruit docents every year and assign each “class” by alphabetical letter. I belong to the “R” class, and our mentors belong to the "P", "Q", or prior classes.
+[^1]: CMOA每年会招募新的志愿讲解员，并根据字母顺序排班，我是2019届“R”班，练习的时候会有"P", "Q", 或者再之前几届的前辈们带。
 
 [art]: /zh_portfolio/8-art.html
 [CMOA]: https://cmoa.org/
