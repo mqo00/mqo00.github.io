@@ -9,7 +9,7 @@ sharing: true
 lang: zh
 ---
 
-下学期*(2021 春季)*, 我会跟随Lauren Herckis博士对一节大一研讨课[66-129 超现实: 沉浸式空间媒体][unreality] 
+下学期*(2021 春季)*, 我会跟随Lauren Herckis博士与课程导师Tom Corbett对一节大一研讨课[66-129 超现实: 沉浸式空间媒体][unreality]进行研究。 
 
 <!--more-->
 
