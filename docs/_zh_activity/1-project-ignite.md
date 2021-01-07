@@ -1,8 +1,8 @@
 ---
 layout: article
-title: President @ Project Ignite
+title: 引燃者 ｜ 主席
 key: project-ignite
-tags: [education, leadership, outreach]
+tags: [教育, 领导力, 公益]
 show_tags: true
 show_date: false
 sharing: true
@@ -13,7 +13,7 @@ lang: zh
 我自入学的第一个学期*(2018 Fall)* 便加入了[Project Ignite][PI]「引燃者」社团，为本地高中生提供跨学科的项目式学习。
 
 <!--more-->
-### 引燃者[^1]
+### 作为“引燃者”[^1]
 
 我大一是作为**项目导师**，与一个计算机科学专业的大四学生合作设计了一个[机器学习主题项目][19S]，带领5个高中生对项目具体方向进行了头脑风暴，并用10个workshop[^2]尝试制作了一个图像字幕生成APP的雏形(image caption generator)。
 

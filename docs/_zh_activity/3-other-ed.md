@@ -10,6 +10,7 @@ cover: /assets/images/othered-logo.png
 lang: zh
 ---
 
+自高中毕业以来，我便在不同的组织与不同年龄段的学生中积累了丰富的家教、助教经验。在担任大学计算机入门课助教与社团的项目导师之外，我曾在上海三立当了两个托福高级班的20名学生两个月的助教，为学生们设计了个性化的学习策略，并与家长们保持沟通。我也曾在PeerInsight担任过SAT导师，带了25个学生，有考试的学生们平均提高了30分。大一时，我通过学校的LGC，在匹兹堡本地的Allderdice高中写作中心、Assemble的课外创客项目、以及Gelfand Outreac的周末儿童创意课堂里担任了导师或助教。
 Besides being a [TA] in college-level classes and a [project advisor][PI] in Project Ignite, I’ve accumulated a lot of tutoring, mentoring, and teaching assistant experiences with different age groups of students through various organizations since I graduated from high school. 
 
 <!--more-->

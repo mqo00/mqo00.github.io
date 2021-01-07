@@ -7,6 +7,7 @@ lang: zh
 articles:
   data_source: zh_research
   show_excerpt: true
+  excerpt_type: html
 ---
 
 <!--more-->

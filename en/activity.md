@@ -7,6 +7,7 @@ lang: en
 articles:
   data_source: en_activity
   show_excerpt: true
+  excerpt_type: html
 ---
 
 <!--more-->
