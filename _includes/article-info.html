@@ -46,9 +46,11 @@
           {%- for _tag in include.article.tags -%}
             {%- assign _tag_path = __return -%}
             {%- assign _tag_encode = _tag | strip | url_encode } -%}
+            <!-- tags now not used for archive collection, so a temp hacky fix to 
+            stay on the same page by changing to page.url, or make button disabled 
+            "{{ _tag_path | append: _tag_encode | replace: '//', '/' }}" -->
             <li>
-              <a class="button button--secondary button--pill button--sm"
-                href="{{ _tag_path | append: _tag_encode | replace: '//', '/' }}">{{ _tag }}</a>
+              <a class="button button--secondary button--pill button--sm" href="{{ page.url | append: '?tag=' | append: _tag_encode | replace: '//', '/' }}">{{ _tag }}</a>
             </li>
           {%- endfor -%}
         </ul>
