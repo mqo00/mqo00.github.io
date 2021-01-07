@@ -11,7 +11,7 @@ lang: en
 lightbox: true
 ---
 
-I love drawing, making handicrafts, and doing calligraphy in my free time. There’s a strong atmosphere of arts in my family, so no doubt that I enjoy being a docent in CMOA!
+I love drawing, making handicrafts, and doing calligraphy in my free time. There’s a strong atmosphere of arts in my family, so no doubt that I enjoy being a docent in [CMOA]!
 
 <!--more-->
 
@@ -45,3 +45,4 @@ I love drawing, making handicrafts, and doing calligraphy in my free time. There
 
 [The Wave]: https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa
 [Don Quixote]: https://en.wikipedia.org/wiki/Don_Quixote_(Picasso)
+[CMOA]: /en_activity/2-cmoa.html

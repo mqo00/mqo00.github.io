@@ -1,8 +1,8 @@
 ---
 layout: article
-title: App Development Lesson Plan [85738 Individual Project]
+title: App开发课程计划 [85738 个人项目]
 key: egia-individual
-tags: [writing, education, EGIA, curriculum design, learning science]
+tags: [写作, 教育, EGIA, 课程设计, 学习科学]
 show_tags: true
 show_date: false
 sharing: true
@@ -12,30 +12,27 @@ lang: zh
 
 中文测试
 
-In my junior year fall *(2020)*, I took a graduate-level education class called *Educational Goals, Instruction, and Assessment* ([85-738 EGIA]) with Dr. Sharon Carver and Dr. Lauren Herckis, in which the individual term project is to develop a 10-hrs educational experience in either a real-world or imaginative context. 
+在大三的秋季学期*(2020)*，我上了一节研究生级别的课——*教学目标、方法与评估*([85-738 EGIA])，课程导师是Sharon Carver和Lauren Herckis教授。这门课的个人学期项目是设计一个想象或真实情境中10小时的教学单元。
 
 <!--more-->
 
-| `discussion posts word cloud @ week 5` | `discussion posts word cloud @ week 7` |
+| `讨论帖词云 @ 第5周` | `讨论帖词云 @ 第7周` |
 | -- | -- |
 |![](/assets/images/egia-w5.png)|![](/assets/images/egia-w7.png)|
 
-Because of my previous experiences with [CS Academy] and my role as the president of [Project Ignite], I immediately thought of a CS education after-school project for high school students, and in particular App Development because it’s a commonly proposed topic. 
+因为我在[CS Academy]和[Project Ignite]的经历，我决定设计一个教高中生App开发的课外兴趣小组的项目。一个学期以来，我应用了课上重点强调的“迭代、反向设计”(iterative, backward design)与“对齐”(alignment)的主题，每周平均花10个小时以上设计我的项目，最终的成果是个52页的[文档][writeup]。在项目中，我
 
-Throughout the semester, I applied the big class themes of iterative backward design and alignment, and I spent 10+ hours per week on average. The final writeup, [App Development for High School Students][writeup], is a 52 pages document in which I 
-
-1. specified the profile of students participating in Project Ignite, 
-2. identified cognitive and metacognitive learning goals that align with state-level goals for CS education, 
-3. developed the assessment and 
-4. instructional methods aligned with goals, and 
-5. designed evaluation research on the effectiveness of workshop exit surveys. 
-
-Each section provides full justification of design drawing from the class reading materials, and is tailored for my particular context of a 10-week collaborative project with 4-6 high school students and 2+ CMU students as advisors in [Project Ignite][PI].
+1. 分析了目标学生群体的发展水平(developmental level)与先验知识(prior knowledge)，
+2. 制定了在美国计算机教育的标准下认知(cognitive)与元认知(metacognitive)的学习目标，并设计了
+3. 与学习目标一致(align)的学习成果评估标准、
+4. 与学习目标、评估标准一致的教学方法，以及
+5. 关于课后问卷有效性的教学评估研究。
+6. 
+每个部分的设计我都提供了充分的理论依据，并根据我们[Project Ignite][PI]的10周课外项目式学习的兴趣小组模式进行了调整。
 
 |![](/assets/images/egia-poster.png)|
 |:--:| 
-| *The poster was designed to help me point at important features of my project, not for reading, so it wasn't comprehensive.* |
-
+| *这个海报的设计不是针对于阅读的，而是为了提醒我一些项目的重点信息。更详尽的内容请查阅[项目成果][writeup]。* |
 
 [PI]: https://projectignitecmu.org/
 [writeup]: /assets/Christina_Ma_App Development_for_High_School_Students.pdf

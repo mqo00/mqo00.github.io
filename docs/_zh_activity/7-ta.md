@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Teaching Assistant @ 15-150
+title: 计算机入门课15-150｜ 助教
 key: TA
-tags:  [teaching assistant, teaching, education, programming]
+tags:  [助教, 教学, 教育, 编程]
 show_tags: true
 show_date: false
 sharing: true
@@ -10,10 +10,10 @@ cover: /assets/images/15150-logo.png
 lang: zh
 ---
 
-In the next semester *(2021 Spring)*, I will be a teaching assistant of the introductory functional programming course [15-150: Functional Programming][15150].
+下个学期*(2021 春季)*, 我会在我们学校的200人大课[15-150: 函数式编程入门][15150]上当助教。
  
 <!--more-->
 
-Coming soon...
+施工中...
 
 [15150]: http://www.cs.cmu.edu/~15150/

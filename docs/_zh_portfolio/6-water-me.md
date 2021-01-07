@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Water Me! [24104 Final Group Project]
+title: 浇点儿水吧！[24104 小组项目]
 key: water-me
-tags: [electronics, Arduino, modern making]
+tags: [电子, Arduino, 创客]
 show_tags: true
 show_date: false
 sharing: true
@@ -10,13 +10,13 @@ cover: /assets/images/24104-waterme-logo.jpg
 lang: zh
 ---
 
-In my sophomore fall *(2019)*, I took the 3-unit mini-class [24-104 *Maker Series: Intro to Modern Making*][24104], in which we learned some introductory techniques for 3D printing, laser cutting/engraving, technical drawing & part modeling using SolidWorks and CAD, and Arduino electronics. 
+我在大二上学期*(2019)*上了一节[现代创客][24104]的3学分小课，课上学习了一些诸如3D打印、激光切割、SolidWorks、CAD，以及Arduino等的工具。
 
 <!--more-->
 
-For the final project, our group applied all skills learned in class and made a flowerpot with a soil sensor to detect if the plant need water. I 3D-printed some of the acrylic flowerpots and made the main design for the wood box which store the Arduino, and I also helped with assembling the LEDs and sensor and testing the Arduino code. 
+我们小组合作制作了一个自动检测土壤含水量不足的多肉花盆，我主要负责了花盆的打印以及图示小木盒的设计，当然也有帮着在组装和跑Arduino的代码(主要是我们的设计功能太简单了，就没什么内容233)。
 
-| `Laser cutting` | `Final project` |
+| `激光切割` | `学期项目` |
 | -- | -- | 
 |![](/assets/images/24104-laser-cut.png)|![](/assets/images/24104-waterme.jpg)|
 
