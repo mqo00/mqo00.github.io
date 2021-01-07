@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 太鼓达人键盘版 [15112 个人项目]
+title: 太鼓达人键盘版 [个人项目]
 key: drum-game
 tags: [programming, music game, video, python]
 show_tags: true

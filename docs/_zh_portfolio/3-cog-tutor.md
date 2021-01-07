@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 智能教学系统反馈功能 [85395 学期论文]
+title: 智能教学系统反馈功能 [学期论文]
 key: cog-tutor
 tags: [写作, 智能教学系统, 学习科学, 反馈]
 show_tags: true

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 浇点儿水吧！[24104 小组项目]
+title: 浇点儿水吧！[小组项目]
 key: water-me
 tags: [电子, Arduino, 创客]
 show_tags: true

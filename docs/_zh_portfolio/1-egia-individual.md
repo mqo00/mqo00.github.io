@@ -1,6 +1,6 @@
 ---
 layout: article
-title: App开发课程计划 [85738 个人项目]
+title: App开发课程计划 [个人项目]
 key: egia-individual
 tags: [写作, 教育, EGIA, 课程设计, 学习科学]
 show_tags: true

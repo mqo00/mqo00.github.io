@@ -10,7 +10,7 @@ cover: /assets/images/cmoa-logo.png
 lang: zh
 ---
 
-自从我发现卡内基艺术博物馆([CMOA])离学校只有5分钟路程，我便决定要加入CMOA的[讲解员训练项目][docent]（为什么？因为我热爱艺术热爱博物馆:heart:
+自从我发现卡内基艺术博物馆([CMOA])离学校只有5分钟路程，我便决定要加入CMOA的[讲解员训练项目][docent]（为什么？因为我热爱[艺术][art]热爱博物馆:heart:
 
 <!--more-->
 

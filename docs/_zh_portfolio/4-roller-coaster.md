@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 过山车设计 & 老钢厂 [98186 个人&小组项目]
+title: 过山车设计 & 老钢厂 [个人&小组项目]
 key: roller-coaster
 tags: [设计, 主题公园工程, 视频, 写作]
 show_tags: true

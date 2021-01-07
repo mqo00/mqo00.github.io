@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 重要概念总结 [85738 小组项目]
+title: 重要概念总结 [小组项目]
 key: egia-group
 tags: [写作, 教育, EGIA, 合作, 学习科学]
 show_tags: true
