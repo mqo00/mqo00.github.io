@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/art-logo.png
 lang: zh
+lightbox: true
 ---
 
 I love drawing, making handicrafts, and doing calligraphy in my free time. There’s a strong atmosphere of arts in my family, so no doubt that I enjoy being a docent in CMOA!

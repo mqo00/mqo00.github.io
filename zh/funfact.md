@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/taichi-cover.png
 lang: zh
+lightbox: true
 ---
 
 Here are some fun facts about me!
