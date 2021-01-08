@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/egia-group-logo.png
 lang: zh
+lightbox: true
 ---
 
 在[个人项目][individual project]之外，EGIA还要求我们做一个小组合作项目来归纳总结课上所学的所有内容。我们小组(我、[Chih-Yun Huang][leila] & [Baptiste Moreau-Pernet][baptiste])）合作写了一个63页的文档，主要是针对新手教育者们的读者群体。

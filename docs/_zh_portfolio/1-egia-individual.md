@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/egia-individual-logo.png
 lang: zh
+lightbox: true
 ---
 
 中文测试
@@ -27,7 +28,7 @@ lang: zh
 3. 与学习目标一致(align)的学习成果评估标准、
 4. 与学习目标、评估标准一致的教学方法，以及
 5. 关于课后问卷有效性的教学评估研究。
-6. 
+
 每个部分的设计我都提供了充分的理论依据，并根据我们[Project Ignite][PI]的10周课外项目式学习的兴趣小组模式进行了调整。
 
 |![](/assets/images/egia-poster.png)|

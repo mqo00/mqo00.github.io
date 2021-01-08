@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/egia-individual-logo.png
 lang: en
+lightbox: true
 ---
 
 In my junior year fall *(2020)*, I took a graduate-level education class called *Educational Goals, Instruction, and Assessment* ([85-738 EGIA]) with Dr. Sharon Carver and Dr. Lauren Herckis, in which the individual term project is to develop a 10-hrs educational experience in either a real-world or imaginative context. 

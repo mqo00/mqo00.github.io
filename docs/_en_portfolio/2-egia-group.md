@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/egia-group-logo.png
 lang: en
+lightbox: true
 ---
 
 Besides the [individual project], there’s a group project of designing a Big Ideas Synthesis for EGIA. Our team, *The Igniters* (me, [Chih-Yun Huang][leila] & [Baptiste Moreau-Pernet][baptiste]), collaboratively developed a 63-pages Google Document to synthesize the theoretical-based educational practices dedicated to a specific audience — novice educators. 

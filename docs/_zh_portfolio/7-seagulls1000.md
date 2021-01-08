@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/seagulls1000-logo.png
 lang: zh
+lightbox: true
 ---
 
 自高中毕业以来，我就开始了运营我的个人公众号**一千只海鸥** 。一开始只是为了分享一些标化考试的经验，时不时会写一些长图问答，写的文章也被诸如INSIGHT, TestDaily, Panopath等平台转载了。逐渐地，我的文章类型开始扩张到游记、影评、社评等，上了大学以来又开始拍一些Vlog视频，分享大学生活和上过的课等等。

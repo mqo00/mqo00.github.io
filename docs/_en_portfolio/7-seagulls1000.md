@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/seagulls1000-logo.png
 lang: en
+lightbox: true
 ---
 
 Since I graduated from high school, I started to operate a personal WeChat official account (**seagulls1000**), which is a Chinese platform to post blogs and vlogs. 
