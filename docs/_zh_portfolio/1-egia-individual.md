@@ -21,15 +21,15 @@ lightbox: true
 | -- | -- |
 |![](/assets/images/egia-w5.png)|![](/assets/images/egia-w7.png)|
 
-因为我在[CS Academy]和[Project Ignite]的经历，我决定设计一个教高中生App开发的课外兴趣小组的项目。一个学期以来，我应用了课上重点强调的“迭代、反向设计”(iterative, backward design)与“对齐”(alignment)的主题，每周平均花10个小时以上设计我的项目，最终的成果是个52页的[文档][writeup]。在项目中，我
+因为我在[CS Academy]和[Project Ignite]的经历，我决定设计一个教高中生App开发的课外兴趣小组的项目。一个学期以来，我应用了课上重点强调的“迭代、反向设计”(iterative, backward design)与“对齐”(alignment)的主题，每周平均花10个小时以上设计项目，最终的成果是个52页的[文档][writeup]，主要内容包括:
 
-1. 分析了目标学生群体的发展水平(developmental level)与先验知识(prior knowledge)，
-2. 制定了在美国计算机教育的标准下认知(cognitive)与元认知(metacognitive)的学习目标，并设计了
-3. 与学习目标一致(align)的学习成果评估标准、
-4. 与学习目标、评估标准一致的教学方法，以及
-5. 关于课后问卷有效性的教学评估研究。
+1. 分析了目标学生群体的发展水平(developmental level)与先验知识(prior knowledge);
+2. 制定了在美国计算机教育的标准下认知(cognitive)与元认知(metacognitive)的学习目标;
+3. 设计了与学习目标一致(align)的学习成果评估标准;
+4. 设计了与学习目标、评估标准一致的教学方法;
+5. 制定并设计了关于课后问卷有效性的教学评估研究方法。
 
-每个部分的设计我都提供了充分的理论依据，并根据我们[Project Ignite][PI]的10周课外项目式学习的兴趣小组模式进行了调整。
+以上每个部分的设计我都提供了充分的理论依据，并根据我们[Project Ignite][PI]的10周课外项目式学习的兴趣小组模式进行了调整。
 
 |![](/assets/images/egia-poster.png)|
 |:--:| 
