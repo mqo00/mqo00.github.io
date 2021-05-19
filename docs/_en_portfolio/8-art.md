@@ -45,4 +45,4 @@ I love drawing, making handicrafts, and doing calligraphy in my free time. There
 
 [The Wave]: https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa
 [Don Quixote]: https://en.wikipedia.org/wiki/Don_Quixote_(Picasso)
-[CMOA]: /en_activity/2-cmoa.html
+[CMOA]: /en_activity/3-cmoa.html

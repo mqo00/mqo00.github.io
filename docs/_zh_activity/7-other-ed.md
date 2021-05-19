@@ -23,8 +23,8 @@ lang: zh
 | ![](/assets/images/lgc-elephant.jpg) | ![](/assets/images/lgc-bug.jpg) |
 
 
-[TA]: /zh_activity/7-ta.html
-[PI]: /zh_activity/2-cmoa.html
+[TA]: /zh_activity/2-ta.html
+[PI]: /zh_activity/3-cmoa.html
 [LGC]: https://www.cmu.edu/gelfand/
 [assemble]: http://assemblepgh.org/girls-maker-night/
 [allderdice]: https://www.cmu.edu/gelfand/education/cmu-students/lgctutoring.html

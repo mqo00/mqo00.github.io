@@ -21,4 +21,4 @@ lang: zh
 
 [CMUQ]: https://www.qatar.cmu.edu/
 [IMPAQT]: https://www.cmu.edu/student-affairs/dean/impaqt/index.html
-[CMOA]: /zh_activity/2-cmoa.html
+[CMOA]: /zh_activity/3-cmoa.html

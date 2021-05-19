@@ -45,5 +45,5 @@ lightbox: true
 
 [The Wave]: https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa
 [Don Quixote]: https://en.wikipedia.org/wiki/Don_Quixote_(Picasso)
-[CMOA]: /zh_activity/2-cmoa.html
+[CMOA]: /zh_activity/3-cmoa.html
 [bag]: https://mp.weixin.qq.com/s/n9scn3Hju7sXm34w4L575w

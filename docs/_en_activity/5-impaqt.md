@@ -21,4 +21,4 @@ Unfortunately, our tour to Qatar has been canceled for two spring semesters *(20
 
 [CMUQ]: https://www.qatar.cmu.edu/
 [IMPAQT]: https://www.cmu.edu/student-affairs/dean/impaqt/index.html
-[CMOA]: /en_activity/2-cmoa.html
+[CMOA]: /en_activity/3-cmoa.html

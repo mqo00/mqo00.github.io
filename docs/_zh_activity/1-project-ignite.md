@@ -39,4 +39,4 @@ lang: zh
 [21S]: https://projectignitecmu.org/preproposed-projects-2021
 [Remake Learning]: https://remakelearning.org/organization/project-ignite/
 [85-738 EGIA]: https://metals.hcii.cmu.edu/curriculum/
-[EGIA]: /zh_portfolio/1-egia-individual.html
+[EGIA]: /zh_portfolio/2-egia.html
