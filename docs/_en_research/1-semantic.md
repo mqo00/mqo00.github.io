@@ -63,4 +63,5 @@ During my junior Fall, I worked in Dr. Bonnie Nozari's [lab][Bonnie] on a simila
 [Qualtrics]: https://www.qualtrics.com/
 [psiTurk]: http://psiturk.org/ee/
 [MTurk]: https://www.mturk.com/
-[PDP]: http://www.cnbc.cmu.edu/~plaut/IntroPDP/index.html
+[PDP]: https://www.cnbc.cmu.edu/~plaut/Teaching.html
+<!--http://www.cnbc.cmu.edu/~plaut/IntroPDP/index.html -->

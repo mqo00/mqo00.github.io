@@ -58,6 +58,6 @@ lang: zh
 [Qualtrics]: https://www.qualtrics.com/
 [psiTurk]: http://psiturk.org/ee/
 [MTurk]: https://www.mturk.com/
-[PDP]: http://www.cnbc.cmu.edu/~plaut/IntroPDP/index.html
+[PDP]: https://www.cnbc.cmu.edu/~plaut/Teaching.html
 
 [^1]: 一些专业名词的中文释义可能不准确，以英文原意为准。
