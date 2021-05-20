@@ -10,7 +10,7 @@ cover: /assets/images/cmoa-logo.png
 lang: zh
 ---
 
-自从我发现卡内基艺术博物馆([CMOA])离学校只有5分钟路程，我便决定要加入CMOA的[讲解员训练项目][docent]（为什么？因为我热爱[艺术][art]热爱博物馆:heart:
+自从我发现卡内基艺术博物馆([CMOA])离学校只有5分钟路程，我便决定要加入CMOA的[讲解员训练项目][docent]。为什么？因为我热爱[艺术][art]热爱博物馆:heart:
 
 <!--more-->
 
@@ -20,7 +20,9 @@ lang: zh
 |:--:|
 | *利用[deepart]与安迪·沃霍尔的[玛丽莲梦露][andy]波普风格迁移(style transfer)的R班大合照[^1].* |
 
-在训练项目里，我们上了一年的艺术史课、了解研究博物馆的艺术品馆藏、讨论艺术相关的话题、观摩正式讲解员们的导览(school tour)、学习了CMOA采用的视觉思考策略([VTS])，以及在前辈与伙伴们的帮助下不断练习，最终通过一小时的预备导览(activation tour)成为一名正式讲解员。 
+在训练项目里，我们上了一年的艺术史课、了解研究博物馆的艺术品馆藏、讨论艺术相关的话题、观摩正式讲解员们的导览(school tour)、学习了CMOA采用的视觉思考策略([VTS])，以及在前辈与伙伴们的帮助下不断练习，最终通过一小时的预备导览(activation tour)成为一名正式讲解员，开始带一些导览项目。
+
+<div>{%- include extensions/youtube.html id='RPQO3aDSW2M' -%}</div>
 
 我也一直想着怎么才能利用我的专业背景与技能为CMOA作出更多贡献，于是便有了我的[SURG网站研究][project]，以及我的预备导览主题——艺术与科学(See STEM in Art)。
 
