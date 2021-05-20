@@ -11,7 +11,7 @@ lang: en
 
 `($6500 fellowship)`
 
-In *2021 Spring*, I took the class [05418/818: Design Educational Game][DEG] with Dr. Harpstead, which ultimately led to my honor thesis project: *Support Designer-Teacher Collaboration in Educational Game Design Using Learning Science Principles*, which received a **$6500** fellowship.
+In *2021 Spring*, I took the class [05418/818: Design Educational Game][DEG] with Dr. [Erik Harpstead], which ultimately led to my honor thesis project: *Support Designer-Teacher Collaboration in Educational Game Design Using Learning Science Principles*, which received a **$6500** fellowship.
 
 <!--more-->
 
@@ -23,6 +23,8 @@ I received a **$6500** [DC Honor Thesis scholarship][scholarship] for this proje
 
 [^1]: Aleven, V., Myers, E., Easterday, M., & Ogan, A. (2010). Toward a Framework for the Analysis and Design of Educational Games. *2010 Third IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning*, 69–76. [https://doi.org/10.1109/DIGITEL.2010.55][Citation1]
 [^2]: Kenneth R Koedinger, Julie L Booth, and David Klahr. 2013. Instructional Complexity and the Science to Constrain It. *Science* 342, 6161: 935–937. [https://doi.org/10.1126/science.1238056][Citation2] 
+
+[Erik Harpstead]: http://www.erikharpstead.net/
 
 [DEG]:  /en_portfolio/1-deg.html
 [scholarship]: https://www.cmu.edu/dietrich/students/undergraduate/programs/dietrich-honors-fellowship/index.html

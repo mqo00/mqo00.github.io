@@ -17,7 +17,7 @@ From the start of my freshman Spring *(02/2019)* to the end of my junior Fall *(
 
 Understanding **how children acquire structured semantic networks** is critical both for theoretical accounts of knowledge acquisition and for applied endeavors such as reducing inequalities in the knowledge of school-relevant domains, and **studying the differential effects of different semantic relations on word production** help fine-tune the models and hypotheses on cognitive architecture of language.
 
-During my freshman and sophomore years, I primarily worked with Dr. Catarina Vales and Dr. Anna Fisher in the [Cognitive Development Lab][CDL] to study the correlation between different patterns of linguistic inputs and children’s semantic structure. The behavioral data was collected from children of 4-6 years old using the Spatial Arrangement Method ([SpAM]). The statistical measures we’ve used to capture the thematic and taxonomic relations include [PMI], [LSA], and [GloVe], and the corpora we’ve tried to calculate or analyze these measures include [Childes], [Wiki], [Common Crawl][CC], and [TASA]. 
+During my freshman and sophomore years, I primarily worked with Dr. [Catarina Vales] and Dr. [Anna Fisher] in the [Cognitive Development Lab][CDL] to study the correlation between different patterns of linguistic inputs and children’s semantic structure. The behavioral data was collected from children of 4-6 years old using the Spatial Arrangement Method ([SpAM]). The statistical measures we’ve used to capture the thematic and taxonomic relations include [PMI], [LSA], and [GloVe], and the corpora we’ve tried to calculate or analyze these measures include [Childes], [Wiki], [Common Crawl][CC], and [TASA]. 
 
 |![](/assets/images/semantic-gephi-net.png)|
 |:--:| 
@@ -44,6 +44,9 @@ During my junior Fall, I worked in Dr. Bonnie Nozari's [lab][Bonnie] on a simila
 <div align="center" markdown="1">
   *This is the fully recurrent network model architecture I used for [PDP]'s final paper.*
 </div>
+
+[Catarina Vales]: https://cvales.weebly.com/
+[Anna Fisher]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/fisher-anna.html
 
 [CDL]: https://sites.google.com/andrew.cmu.edu/cogdevlab
 [SpAM]: https://www.researchgate.net/publication/343145592_Lumping_and_splitting_Developmental_changes_in_the_structure_of_children's_semantic_networks

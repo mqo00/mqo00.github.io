@@ -11,7 +11,7 @@ lang: en
 lightbox: true
 ---
 
-In my junior year fall *(2020)*, I took a graduate-level education class called *Educational Goals, Instruction, and Assessment* ([85-738 EGIA]) with Dr. Sharon Carver and Dr. Lauren Herckis, in which the individual term project is to develop a 10-hrs educational experience in either a real-world or imaginative context. 
+In my junior year fall *(2020)*, I took a graduate-level education class called *Educational Goals, Instruction, and Assessment* ([85-738 EGIA]) with Dr. [Sharon Carver] and Dr. [Lauren Herckis], in which the individual term project is to develop a 10-hrs educational experience in either a real-world or imaginative context. 
 
 <!--more-->
 
@@ -54,6 +54,9 @@ For unique individual contributions, I’m the main organizer for the table of c
 |:--:| 
 | *The reflection notes I receive from my classmates in EGIA.* |
 
+
+[Sharon Carver]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/carver-sharon.html
+[Lauren Herckis]: http://www.laurenherckis.com/
 
 [PI]: https://projectignitecmu.org/
 [writeup]: /assets/Christina_Ma_AppDev_for_High_School_Students.pdf

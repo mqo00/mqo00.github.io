@@ -11,7 +11,7 @@ lang: zh
 lightbox: true
 ---
 
-在大三的秋季学期*(2020)*，我上了一节研究生级别的课——*教学目标、方法与评估*([85-738 EGIA])，课程导师是Sharon Carver和Lauren Herckis教授。这门课的个人学期项目是设计一个想象或真实情境中10小时的教学单元。
+在大三的秋季学期*(2020)*，我上了一节研究生级别的课——*教学目标、方法与评估*([85-738 EGIA])，课程导师是[Sharon Car]ver]和[Lauren Herckis]教授。这门课的个人学期项目是设计一个想象或真实情境中10小时的教学单元。
 
 <!--more-->
 
@@ -50,6 +50,8 @@ lightbox: true
 |:--:| 
 | *EGIA的同学们给我的结课寄语* |
 
+[Sharon Carver]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/carver-sharon.html
+[Lauren Herckis]: http://www.laurenherckis.com/
 
 [PI]: https://projectignitecmu.org/
 [writeup]: /assets/Christina_Ma_AppDev_for_High_School_Students.pdf

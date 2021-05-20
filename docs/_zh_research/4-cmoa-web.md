@@ -11,7 +11,7 @@ lang: zh
 
 `(本研究获得了$500的赞助资金)`
 
-我在大二的一年里*(09/2019~05/2020)*申请了一个$500的本科生研究补助金[SURG]，在Sharon Carver教授的指导下与卡内基艺术博物馆[CMOA]的教育部门合作完成了独立项目：*改进艺术博物馆官网以支持教育工作者与家长——基于卡内基艺术博物馆网站的案例分析*。
+我在大二的一年里*(09/2019~05/2020)*申请了一个$500的本科生研究补助金[SURG]，在[Sharon Carver]教授的指导下与卡内基艺术博物馆[CMOA]的教育部门合作完成了独立项目：*改进艺术博物馆官网以支持教育工作者与家长——基于卡内基艺术博物馆网站的案例分析*。
 
 <!--more-->
 
@@ -31,6 +31,8 @@ lang: zh
 ![](/assets/images/cmoa-metric.png)
 
 ![](/assets/images/cmoa-cardsort.png)
+
+[Sharon Carver]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/carver-sharon.html
 
 [SURG]: https://www.cmu.edu/uro/research%20grants/SURG/index.html
 [CMOA]: https://cmoa.org/

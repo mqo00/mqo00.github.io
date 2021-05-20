@@ -15,7 +15,7 @@ lang: zh
 
 <!--more-->
 
-教育游戏设计的课上讲了一些结合学习科学理论与游戏设计的模型[^1]，我于是对学习科学原理 (learning science principles)[^2]在游戏作为一种教育科技场景中的应用产生了兴趣。在跟Dr. Harpstead讨论与阅读了一些文献后，我决定在我的毕业论文里研究如下的问题：
+教育游戏设计的课上讲了一些结合学习科学理论与游戏设计的模型[^1]，我于是对学习科学原理 (learning science principles)[^2]在游戏作为一种教育科技场景中的应用产生了兴趣。在跟Dr. [Erik Harpstead]讨论与阅读了一些文献后，我决定在我的毕业论文里研究如下的问题：
 
 *学习科学原理是否会对跨学科合作的教育游戏设计过程有帮助？若有帮助，原理展示的格式又会对教育者与游戏设计者的合作过程有什么影响？*
 
@@ -24,6 +24,8 @@ lang: zh
 [^1]: 如EDGE模型。Aleven, V., Myers, E., Easterday, M., & Ogan, A. (2010). Toward a Framework for the Analysis and Design of Educational Games. *2010 Third IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning*, 69–76. [https://doi.org/10.1109/DIGITEL.2010.55][Citation1]
 
 [^2]: 学习科学家们很喜欢列各式各样的原理，在本研究中，我们将使用Dr. Koedinger等总结的30条学习科学原理。Kenneth R Koedinger, Julie L Booth, and David Klahr. 2013. Instructional Complexity and the Science to Constrain It. *Science* 342, 6161: 935–937. [https://doi.org/10.1126/science.1238056][Citation2]
+
+[Erik Harpstead]: http://www.erikharpstead.net/
 
 [DEG]:  /en_portfolio/1-deg.html
 [scholarship]: https://www.cmu.edu/dietrich/students/undergraduate/programs/dietrich-honors-fellowship/index.html

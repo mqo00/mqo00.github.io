@@ -11,7 +11,7 @@ lang: en
 
 `($500 grant)`
 
-In my sophomore year *(09/2019~05/2020)*, I successfully applied to a **$500** Small Undergraduate Research Grant ([SURG]) to do an independent study under Dr. Sharon Carver’s supervision and in collaboration with the education department of the Carnegie Museum of Art ([CMOA]). 
+In my sophomore year *(09/2019~05/2020)*, I successfully applied to a **$500** Small Undergraduate Research Grant ([SURG]) to do an independent study under Dr. [Sharon Car]ver]’s supervision and in collaboration with the education department of the Carnegie Museum of Art ([CMOA]). 
 
 <!--more-->
 
@@ -42,6 +42,8 @@ Based on the literature review, a metric of 6 items were developed:
 To understand what information should be presented on art museums’ websites and how to organize it to support teachers and parents planning to bring children to art museums, participants are invited for a card sorting user interview, in which they organize the navigational labels and content of different webpages to help them find the information they need for a task they selected.
 
 ![](/assets/images/cmoa-cardsort.png)
+
+[Sharon Carver]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/carver-sharon.html
 
 [SURG]: https://www.cmu.edu/uro/research%20grants/SURG/index.html
 [CMOA]: https://cmoa.org/

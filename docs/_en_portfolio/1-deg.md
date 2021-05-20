@@ -11,10 +11,10 @@ lang: en
 lightbox: true
 ---
 
-In my junior year spring *(2021)*, I took *Design Educational Games* ([05-418/818 DEG][05418]) with Dr. Erik Harpstead.
+In my junior year spring *(2021)*, I took *Design Educational Games* ([05-418/818 DEG][05418]) with Dr. [Erik Harpstead].
 
 <!--more-->
 
 Under Construction...
-
+[Erik Harpstead]: http://www.erikharpstead.net/
 [05418]: https://www.hcii.cmu.edu/courses/design-educational-games
