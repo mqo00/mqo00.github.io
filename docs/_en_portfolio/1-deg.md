@@ -6,7 +6,7 @@ tags: [writing, game design, learning science, parent education]
 show_tags: true
 show_date: false
 sharing: true
-cover: /assets/images/egia-individual-logo.png
+cover: /assets/images/05418-logo-en.png
 lang: en
 lightbox: true
 ---

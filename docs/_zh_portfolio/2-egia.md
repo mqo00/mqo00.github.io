@@ -6,7 +6,7 @@ tags: [写作, 教育, EGIA, 课程设计, 合作, 学习科学]
 show_tags: true
 show_date: false
 sharing: true
-cover: /assets/images/egia-group-logo.png
+cover: /assets/images/egia-individual-logo.png
 lang: zh
 lightbox: true
 ---

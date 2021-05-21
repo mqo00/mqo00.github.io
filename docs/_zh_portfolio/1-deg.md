@@ -6,7 +6,7 @@ tags: [写作, 游戏设计, 学习科学，家长教育]
 show_tags: true
 show_date: false
 sharing: true
-cover: /assets/images/egia-individual-logo.png
+cover: /assets/images/05418-logo-zh.png
 lang: zh
 lightbox: true
 ---
@@ -16,7 +16,7 @@ lightbox: true
 
 <!--more-->
 
-Under Construction...
-[Erik Harpstead]: http://www.erikharpstead.net/
+正在施工...
 
+[Erik Harpstead]: http://www.erikharpstead.net/
 [05418]: https://www.hcii.cmu.edu/courses/design-educational-games
