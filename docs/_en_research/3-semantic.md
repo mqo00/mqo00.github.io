@@ -9,7 +9,7 @@ sharing: true
 lang: en
 ---
 
-`($3500 fellowship)`
+`$1750 (summer '19) & $3500 (summer '20) fellowship`
 
 From the start of my freshman Spring *(02/2019)* to the end of my junior Fall *(12/2020)*, the main focus of my research projects have been on **semantic relations**. I’ve studied the **taxonomic** and **thematic** (or associative relations in some literature) word relations from both **developmental** and **computational** aspects. 
 

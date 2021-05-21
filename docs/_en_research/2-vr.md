@@ -9,6 +9,8 @@ sharing: true
 lang: en
 ---
 
+`$250 travel grant`
+
 In *Spring 2021*, I registered an Independent Study with Dr. [Lauren Herckis] to do some research on the new Grand Challenge First-Year Seminar course [66-129 Unreality: Immersive and Spatial Media][unreality], which aims to introduce students to immersive and spatial media; contextualize these media historically, culturally, and technologically; and problematize design and development efforts.
  
 <!--more-->

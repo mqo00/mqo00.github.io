@@ -9,7 +9,7 @@ sharing: true
 lang: en
 ---
 
-`($6500 fellowship)`
+`$6500 fellowship`
 
 In *2021 Spring*, I took the class [05418/818: Design Educational Game][DEG] with Dr. [Erik Harpstead], which ultimately led to my honor thesis project: *Support Designer-Teacher Collaboration in Educational Game Design Using Learning Science Principles*, which received a **$6500** fellowship.
 

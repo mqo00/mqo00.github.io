@@ -9,7 +9,7 @@ sharing: true
 lang: zh
 ---
 
-`(本研究获得了$3500的奖学金)`
+`本研究获得了$1750(2019暑假)与$3500(2020暑假)的奖学金`
 
 从大一下至大三上学期*(02/2019～12/2020)*，我主要的研究项目采用了发展心理学与计算语言学的方法来探索类别关系(taxonomic relations)与主题关系(thematic relations) 这两种不同的语义关系(semantic relations)[^1]。了解儿童是如何习得语义结构的(semantic structure acquisition)、不同语义关系对于语言产出(language production)的不同影响，对语言习得的理论、早期语言发展干预的应用，以及人类语言认知模型的构建都很重要。
 
