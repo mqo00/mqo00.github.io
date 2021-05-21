@@ -7,6 +7,7 @@ show_tags: true
 show_date: false
 sharing: true
 lang: zh
+lightbox: true
 ---
 
 `本研究获得了$250的旅费补助`

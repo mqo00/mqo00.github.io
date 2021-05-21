@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/PI-logo.png
 lang: en
+lightbox: true
 ---
 
 Since the very first semester *(2018 Fall)*, I’ve been involved in [Project Ignite][PI], an educational outreach student organization that provide interdisciplinary project workshops to high school students in the greater Pittsburgh area.

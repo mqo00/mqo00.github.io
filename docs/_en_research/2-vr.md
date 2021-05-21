@@ -7,6 +7,7 @@ show_tags: true
 show_date: false
 sharing: true
 lang: en
+lightbox: true
 ---
 
 `$250 travel grant`

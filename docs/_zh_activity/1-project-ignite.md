@@ -8,6 +8,7 @@ show_date: false
 sharing: true
 cover: /assets/images/PI-logo.png
 lang: zh
+lightbox: true
 ---
 
 我自入学的第一个学期*(2018 Fall)* 便加入了[Project Ignite][PI]「引燃者」[^1]社团，为本地高中生提供跨学科的项目式学习。

@@ -7,6 +7,7 @@ show_tags: true
 show_date: false
 sharing: true
 lang: en
+lightbox: true
 ---
 
 `$1750 (summer '19) & $3500 (summer '20) fellowship`
@@ -19,18 +20,22 @@ Understanding **how children acquire structured semantic networks** is critical 
 
 During my freshman and sophomore years, I primarily worked with Dr. [Catarina Vales] and Dr. [Anna Fisher] in the [Cognitive Development Lab][CDL] to study the correlation between different patterns of linguistic inputs and children’s semantic structure. The behavioral data was collected from children of 4-6 years old using the Spatial Arrangement Method ([SpAM]). The statistical measures we’ve used to capture the thematic and taxonomic relations include [PMI], [LSA], and [GloVe], and the corpora we’ve tried to calculate or analyze these measures include [Childes], [Wiki], [Common Crawl][CC], and [TASA]. 
 
-|![](/assets/images/semantic-gephi-net.png)|
+| *[Gephi] was used to visualize the word net of different word relations[^1].* | *R library ggplot was also used to aid the stimulus selection process.* |
+| ---- | ---- |
+| ![](/assets/images/semantic-gephi-net.png) | ![](/assets/images/semantic-word-cloud.png) |
+
+In 2019 summer, I was awarded a stipend to conduct research through the summer. Me and with another student were compensated from the **$3500** Ireland undergraduate research fund. 
+
+In 2020 summer, I received a **$3500** Summer Undergraduate Research Fellowship ([SURF]) to work on the proposal “*The contribution of taxonomic and associative language statistics to the development of structured semantic networks*” and presented at lab meetings, Undergraduate Research Meet-Up and Meeting of the Minds Undergraduate Research Symposium ([MoM]).
+
+|![](/assets/images/semantic-mom.png)|
 |:--:| 
-| *I used [Gephi] to visualize the word net of different word relations (<span style="color: purple">HGLL </span> here denotes high taxonomic and low thematic similarity, and vice versa for <span style="color: green">LGHL</span>).* |
+| *The poster @ 2021 MoM* |
 
-In 2020 summer, I received a **$3500** Summer Undergraduate Research Fellowship ([SURF]) to work on the proposal “The contribution of thematic and taxonomic language statistics to the development of structured semantic networks” and presented at lab meetings and Undergraduate Research Meet-Up.
+<div>{%- include extensions/youtube.html id='TMijAeWJv-s' -%}</div>
+<center><i>The video presentation @ 2021 MoM</i></center>
 
-|![](/assets/images/semantic-word-cloud.png)|
-|:--:| 
-| *R library ggplot was also used to aid the stimulus selection process.* |
-
-
-During my junior Fall, I worked in Dr. Bonnie Nozari's [lab][Bonnie] on a similar project to study the differential effects of taxonomic and thematic word relations in picture naming task and the typing modality. Meanwhile, in my Parallel Distributed Processing class ([85-419/719][PDP]) taught by Dr. David Plaut, I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network.
+During my junior Fall, I worked in Dr. [Bonnie Nozari]'s [lab][Bonnie] on a similar project to study the differential effects of taxonomic and associative/thematic word relations in picture naming task and the typing modality. Meanwhile, in my Parallel Distributed Processing class ([85-419/719][PDP]) taught by Dr. [David Plaut], I implemented (using [Lens]), presented, and wrote a short paper on a simulation model on this task using a fully recurrent network.
 
  I’ve practiced and gained a lot of skills during these research experiences, including Python ([NLTK] library), R, [Gephi], [jspsych] javaScript, HTML, CSS, [Lens], and I also had some exposures to those tools that host online psychology experiment like [Qualtrics], [psiTurk] and Amazon Mechanical Turk ([MTurk]).
 
@@ -45,8 +50,13 @@ During my junior Fall, I worked in Dr. Bonnie Nozari's [lab][Bonnie] on a simila
   *This is the fully recurrent network model architecture I used for [PDP]'s final paper.*
 </div>
 
+[^1]: Regarding the abbreviations, for example, <span style="color: purple">HGLL </span> denotes **H**igh taxonomic (**G**lobal) and **L**ow associative/thematic (**L**ocal) similarity.
+
 [Catarina Vales]: https://cvales.weebly.com/
 [Anna Fisher]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/fisher-anna.html
+[Bonnie Nozari]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/n-bonnie-nozari.html
+[David Plaut]: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/plaut-david.html
+
 
 [CDL]: https://sites.google.com/andrew.cmu.edu/cogdevlab
 [SpAM]: https://www.researchgate.net/publication/343145592_Lumping_and_splitting_Developmental_changes_in_the_structure_of_children's_semantic_networks
@@ -57,6 +67,9 @@ During my junior Fall, I worked in Dr. Bonnie Nozari's [lab][Bonnie] on a simila
 [Wiki]: https://www.english-corpora.org/wiki/
 [CC]: https://commoncrawl.org/
 [TASA]: http://lsa.colorado.edu/spaces.html
+
+[MoM]: https://www.cmu.edu/uro/MoM/
+
 [SURF]: https://www.cmu.edu/uro/summer%20research%20fellowships/SURF/
 [Bonnie]: https://www.nozarilab.com/about
 [NLTK]: https://www.nltk.org/
