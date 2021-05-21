@@ -15,7 +15,7 @@ key: about
       <p> Hi, I’m <b>Christina Ma</b>, a 2022er at Carnegie Mellon University, studying dual degrees of Cognitive Science and Computer Science and minor in Design for Learning. 
           I’m interested in the <i>application of learning science theories in education technologies</i>, and I’m planning to pursue grad schools after graduation to do more research in this area. 
       </p>
-      <p> Feel free to explore this website to learn more about me, and if you just want a quick summary, here's my 1-page <a href="/assets/Christina_Ma_Resume.pdf">resume</a>, and here's my <a href="/assets/Christina_Ma_Resume.pdf">CV</a>. 
+      <p> Feel free to explore this website to learn more about me, and if you just want a quick summary, here's my 1-page <a href="/assets/Christina_Ma_Resume.pdf">resume</a>, and here's my <a href="/assets/Christina_Ma_CV.pdf">CV</a>. 
       </p>
     </div>
   </div>
