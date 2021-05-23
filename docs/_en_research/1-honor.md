@@ -26,7 +26,7 @@ I received a **$6500** [DC Honor Thesis scholarship][scholarship] for this proje
 
 [Erik Harpstead]: http://www.erikharpstead.net/
 
-[DEG]:  /en_portfolio/1-deg.html
+[DEG]: /en_portfolio/1-deg.html
 [scholarship]: https://www.cmu.edu/dietrich/students/undergraduate/programs/dietrich-honors-fellowship/index.html
 [proposal]: /assets/Christina_Ma_ThesisProposal.pdf
 [interactive LS]: https://eharpste.github.io/interactive-principles/#/

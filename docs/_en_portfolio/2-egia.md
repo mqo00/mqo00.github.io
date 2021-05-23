@@ -59,7 +59,7 @@ For unique individual contributions, I’m the main organizer for the table of c
 [Lauren Herckis]: http://www.laurenherckis.com/
 
 [PI]: https://projectignitecmu.org/
-[writeup]: /assets/Christina_Ma_AppDev_for_High_School_Students.pdf
+[writeup]: /assets/AppDev_for_High_School_Students.pdf
 [CS Academy]: /en_activity/6-cs-academy.html
 [Project Ignite]: /en_activity/1-project-ignite.html
 [85-738 EGIA]: https://metals.hcii.cmu.edu/curriculum/

@@ -54,7 +54,7 @@ lightbox: true
 [Lauren Herckis]: http://www.laurenherckis.com/
 
 [PI]: https://projectignitecmu.org/
-[writeup]: /assets/Christina_Ma_AppDev_for_High_School_Students.pdf
+[writeup]: /assets/AppDev_for_High_School_Students.pdf
 [CS Academy]: /zh_activity/6-cs-academy.html
 [Project Ignite]: /zh_activity/1-project-ignite.html
 [85-738 EGIA]: https://metals.hcii.cmu.edu/curriculum/
