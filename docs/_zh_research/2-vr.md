@@ -36,7 +36,7 @@ lightbox: true
 
 在Dr. Herckis的指导下，我在大三下学期达成了我研究生涯中的许多“第一次”：第一次针对课程做定性的个案研究、第一次从研究的角度探索科技在教育中的应用、第一次合作用LaTeX写论文、第一次发表work-in-progress paper、第一次作为第一作者在学术会议上进行poster presentation(视频如上，另见图3、4)……这也是我第一次体验VR！
 
-我们春季学期的研究成果作为work-in-progress paper发表在了第七届沉浸式学习研究国际会议([iLRN])上，我们计划在2021秋季学期继续数据分析并发表最终的研究论文。
+我们春季学期的研究成果作为work-in-progress paper[^1]发表在了第七届沉浸式学习研究国际会议([iLRN])上，我们计划在2021秋季学期继续数据分析并发表最终的研究论文。
 
 |![](/assets/images/vr-poster.png)|
 |:--:| 
@@ -45,6 +45,10 @@ lightbox: true
 | *图4: 我们在虚拟会议上的展位* | *@iLRN 2021* |
 | -- | -- |
 |![](/assets/images/vr-booth1.png)|![](/assets/images/vr-booth2.png)|
+
+[^1]: Q. Ma and L. Herckis, "Work-in-Progress-VR-Enabled Pedagogy in a First-Year Seminar," 2021 7th International Conference of the Immersive Learning Research Network (iLRN), 2021, pp. 1-3, [doi: 10.23919/iLRN52045.2021.9459331][doi].
+
+[doi]: https://doi.org/10.23919/iLRN52045.2021.9459331
 
 [Lauren Herckis]: http://www.laurenherckis.com/
 [EGIA]: /zh_portfolio/2-egia.html

@@ -33,7 +33,7 @@ For the other two components of our research questions, we will qualitatively de
 <div>{%- include extensions/youtube.html id='d_fzX9984tY' -%}</div>
 The 2021 spring semester marked many of my **first time accomplishments** in my research career: first time doing a qualitative case study over a course, first time seeing integration of technologies in educational context from a research perspective, first time collaboratively writing a paper using latex, first time having a work-in-progress paper accepted, first time being a first author and a poster presenter at a conference… It’s also my first time using VR! I’ve learned so much in the whole process with extensive help from Lauren, who's also the instructor of the class [EGIA] that I took in 2020 Fall. 
 
-We’ve composed the paper and submitted a work-in-progress paper to the 2021 Immersive Learning Research Network Conference ([iLRN]) in a very limited time, above is our presentation and here’s our poster (Fig. 3) and booth (Fig. 4). We plan to finish this descriptive case study and seek a publication for this research in 2021. 
+We’ve composed the paper and submitted a work-in-progress paper[^1] to the 2021 Immersive Learning Research Network Conference ([iLRN]) in a very limited time, above is our presentation and here’s our poster (Fig. 3) and booth (Fig. 4). We plan to finish this descriptive case study and seek a publication for this research in 2021. 
 
 |![](/assets/images/vr-poster.png)|
 |:--:| 
@@ -43,6 +43,9 @@ We’ve composed the paper and submitted a work-in-progress paper to the 2021 Im
 | -- | -- |
 |![](/assets/images/vr-booth1.png)|![](/assets/images/vr-booth2.png)|
 
+[^1]: Q. Ma and L. Herckis, "Work-in-Progress-VR-Enabled Pedagogy in a First-Year Seminar," 2021 7th International Conference of the Immersive Learning Research Network (iLRN), 2021, pp. 1-3, [doi: 10.23919/iLRN52045.2021.9459331][doi].
+
+[doi]: https://doi.org/10.23919/iLRN52045.2021.9459331
 
 [Lauren Herckis]: http://www.laurenherckis.com/
 [EGIA]: /en_portfolio/2-egia.html
