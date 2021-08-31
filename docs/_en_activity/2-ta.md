@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Teaching Assistant @ 15-150/110
+title: Teaching Assistant @ 15-150/110/CSS
 key: TA
 tags:  [teaching assistant, teaching, higher education, CS]
 show_tags: true
@@ -53,9 +53,9 @@ From educational practices and design perspectives, I feel like the answer to al
 |:--:| 
 | *Credit to Mia Tang, a former 150 TA* |
 
-Therefore, I decided to gain more TA experiences in different courses and expose myself to different sets of course policies, student experiences, and similar or different challenges, and in 2022 Fall, I become a TA of the course [15-110][15110].
+Therefore, I decided to gain more TA experiences in different CS courses and expose myself to different sets of course policies, student experiences, and similar or different challenges. During 2021 Summer, I assisted teaching for 30 high school students in the pre-college Computer Science Scholars ([CSS]) program for students from traditionally underrepresented communities in CS. In 2021 Fall, I become a TA of the course [15-110][15110].
 
-110 is a smaller scale introductory CS course with 26 TAs and a more diverse students’ background, as 150 is a required course for CS majors, but 110 is one of the most basic CS course one can take. I took it in my first semester at CMU, as I don’t have any programming experience before. 
+The 21 Fall instance of 110 has 26 TAs and 301 registered students, which is a similar-scale introductory CS course as 150. However, 110 has a more diverse students’ background, as 150 is a required course for CS majors, but 110 is one of the most basic CS course one can take at CMU. I took it in my first semester at CMU, as I don’t have any programming experience before. 
 
 In 110, besides experiencing some in-person teaching, I’ll also practice explaining CS concepts to complete novices in easily understandable ways and share my passion and interest in CS to others, as what the [instructors] did when I took 110.
 
@@ -65,3 +65,4 @@ In 110, besides experiencing some in-person teaching, I’ll also practice expla
 [post]: https://qianouma.medium.com/ta-experience-reflection-a-conversation-about-course-improvement-suggestions-7045373cbfe9
 [instructors]: /en_activity/6-cs-academy.html
 
+[CSS]: https://www.cmu.edu/pre-college/academic-programs/computer-science-scholars.html

@@ -48,4 +48,4 @@ DEG的体验非常有趣且实用，我学到了很多游戏设计和研究的�
 [honor thesis]: /en_research/1-honor.html
 [parent guide]: /assets/DEG_Parent_Dos_Don'ts.pdf
 [final writeup]: /assets/DEG_Final_Report.pdf
-[Tony Tao]: https://www.taotamago.com/ 
+[Tony Tao]: https://www.taotamago.com/howtobeagoodparent
