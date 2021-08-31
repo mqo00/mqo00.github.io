@@ -10,7 +10,7 @@ cover: /assets/images/15150-logo.png
 lang: en
 ---
 
-In *2021 Spring*, I was a teaching assistant (TA) of the introductory functional programming (FP) course at CMU [15-150: Functional Programming][15150]. In *2021 Fall*, I become a TA of [15-110: Principles of Computing][15110].
+In *2021 Spring*, I was a teaching assistant (TA) of the introductory functional programming (FP) course at CMU [15-150: Functional Programming][15150]. In *2021 Summer*, I was a TA of [Computer Science Scholar][CSS], a pre-college program for underrepresented communities. In *2021 Fall*, I am a TA of [15-110: Principles of Computing][15110] at CMU.
  
 <!--more-->
 

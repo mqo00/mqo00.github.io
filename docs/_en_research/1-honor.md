@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Honor Thesis - Support EduGame Design 
+title: Honor Thesis - Support CS EduGame Design 
 key: honor
 tags:  [educational technology, game design, learning science principles, design support, interdisciplinary collaboration]
 show_tags: true
@@ -19,7 +19,7 @@ In 05418, we learned about some theoretical frameworks[^1] that integrate learni
 
 *Would the usage of learning science principles be beneficial in a collaborative educational game design context? If so, how would the presentation format of the principles influence the collaboration of educators and designers?*
 
-I received a **$6500** [DC Honor Thesis scholarship][scholarship] for this project, and here’s my [proposal]. I’ll use my senior year and 2021 summer to conduct the game design workshops in 4 conditions (prescriptive statements, guided questions, concrete examples, and control group), differed by presentation formats of learning science principles in a design-support tool like [this][interactive LS]. I’ll use expert evaluation on the design pitch product from the workshops and other qualitative and quantitative methods to analyze the collaboration process and generate some insights on how can we best present learning science principles to support educational game design.
+I received a **$6500** [DC Honor Thesis scholarship][scholarship] for this project, and here’s my [proposal]. I’ll use my senior year and 2021 summer to conduct the game design workshops in 4 conditions (prescriptive statements, guided questions, concrete examples, and control group), differed by presentation formats of learning science principles in a design-support tool like [this][interactive LS]. I’ll use expert evaluation on the design pitch product from the workshops and other qualitative and quantitative methods to analyze the collaboration process and generate some insights on how can we best present learning science principles to support the CS game design.
 
 I've written a series of blogs about my research [background][Blog1], [design][Blog2], and [implementation][Blog3] during the summer, and our work-in-progress was accepted by the 2021 [CHI-Play] conference (I'm the first author). We will conduct all workshops and start data analysis during 2021 Fall, then we will seek publication of this work to conferences such as ISLS. 
 
