@@ -19,7 +19,7 @@ In 05418, we learned about some theoretical frameworks[^1] that integrate learni
 
 *Would the usage of learning science principles be beneficial in a collaborative educational game design context? If so, how would the presentation format of the principles influence the collaboration of educators and designers?*
 
-I received a **$6500** [DC Honor Thesis scholarship][scholarship] for this project, and here’s my [proposal]. I’ll use my senior year and 2021 summer to conduct the game design workshops in 4 conditions (prescriptive statements, guided questions, concrete examples, and control group), differed by presentation formats of learning science principles in a design-support tool like [this][interactive LS]. I’ll use expert evaluation on the design pitch product from the workshops and other qualitative and quantitative methods to analyze the collaboration process and generate some insights on how can we best present learning science principles to support the CS game design.
+I received a **$6500** [DC Honor Thesis scholarship][scholarship] for this project. I’ll use my senior year and 2021 summer to conduct the game design workshops in 4 conditions (prescriptive statements, guided questions, concrete examples, and control group), differed by presentation formats of learning science principles in a design-support tool like [this][interactive LS] (in the workshop, we used this [simplified tool]). I’ll use expert evaluation on the design pitch product from the workshops and other qualitative and quantitative methods to analyze the collaboration process and generate some insights on how can we best present learning science principles to support the CS game design.
 
 I've written a series of blogs about my research [background][Blog1], [design][Blog2], and [implementation][Blog3] during the summer, and our work-in-progress was accepted by the 2021 [CHI-Play] conference (I'm the first author)[^3]. We will conduct all workshops and start data analysis during 2021 Fall, then we will seek publication of this work to conferences such as ISLS. 
 
@@ -31,8 +31,8 @@ I've written a series of blogs about my research [background][Blog1], [design][B
 
 [DEG]: /en_portfolio/1-deg.html
 [scholarship]: https://www.cmu.edu/dietrich/students/undergraduate/programs/dietrich-honors-fellowship/index.html
-[proposal]: /assets/Christina_Ma_ThesisProposal.pdf
 [interactive LS]: https://eharpste.github.io/interactive-principles/#/
+[simplified tool]: https://interactive-principles.netlify.app/
 
 [Citation1]: https://doi.org/10.1109/DIGITEL.2010.55
 [Citation2]: https://doi.org/10.1126/science.1238056
