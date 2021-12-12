@@ -19,10 +19,10 @@ Initially, I was just sharing some of my study strategies and experiences prepar
 
 Gradually, I started to write film reviews, travel notes, comments on gender equity issues, and thoughts on social phenomena. As I got into college, I made some vlogs to share my CMU life, and I also wrote articles on all those amazing courses I took. My ambition is to write an article for each class I took in CMU, but I haven’t even finished writing my freshmen year… If only I can have 48 hours a day!
 
-I’ve written more than **500,000** words, **80+** articles, and made **20+** vlogs, and I have **3000+** followers now and hundreds to thousands of views on each article or video. Unfortunately, all of these articles (and voice-over for videos) are in Chinese and most of the time I didn’t have English subtitle, but if you want a sample of my non-academic writing, [here] is one I wrote in 2018 (actually quite early) and won the *First Place for College Prose* in the 20th Annual Martin Luther King Jr. Writing Awards.
+I’ve written more than **500,000** words, **80+** articles, and made **20+** vlogs, and I have **3000+** followers now and hundreds to thousands of views on each article or video. Unfortunately, all of these articles (and voice-over for videos) are in Chinese and most of the time I didn’t have English subtitle, but if you want some samples of my non-academic writing, I have written about my experiences in the course *Biological Foundations of Behaviors* [BFOB], and [here] is another one I wrote in 2018, which won the *First Place for College Prose* in the 20th Annual Martin Luther King Jr. Writing Awards.
 
 | `Scan the QR code if you have WeChat!` |
 | -- |
 |![](/assets/images/seagulls1000-scan.jpg)|
-
+[BFOB]: https://qianouma.medium.com/85219-biological-foundations-of-behavior-marlene-behrmann-5890c41d7296
 [here]: https://www.cmu.edu/dietrich/english/mlk/2019/ma-christina.html

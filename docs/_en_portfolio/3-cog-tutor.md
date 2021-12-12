@@ -12,6 +12,7 @@ lang: en
 
 In my sophomore spring *(2020)*, I took the class *Applications in Cognitive Science* ([85-395/795][85395]) with Dr. [Roberta Klatzky], and in the term paper, we were asked to write about a cognitive science’s application in real life, summarize its theoretical foundations and evaluate the product. 
 
+<!-- TO BE REMOVED -->
 <!--more-->
 
 Inspired by another graduate-level seminar course that I was taking that semester with Dr. [Kenneth Koedinger], *Human Learning and How to Optimize It* ([05-899]), I wrote about Intelligent Tutoring Systems (ITS), and in particular its feedback functionality with regard to students’ behaviors. 

@@ -21,7 +21,7 @@ lang: zh
 
 我为此项目申请了**$6500**的[荣誉毕业论文奖学金][scholarship]，在升大四的暑假以及大四整个学年里，我会招募教育者与游戏设计师进行CS教育游戏设计工作坊 (game design workshop)，并按照学习科学原理展示的格式不同分成四组 (直接描述、引导问题、真实范例、对照组)。我会招募专家对小组的设计成品进行评估，并运用定性、定量的研究方法对教育者与游戏设计师的合作过程进行分析，以探索设计辅助工具 (design support tool, 如[此网站][interactive LS]) 中学习科学原理的运用（实验时用的是[简化版本][simplified tool]）。
 
-2021暑假时我写了一系列关于研究[背景][Blog1]，[设计][Blog2]与[实行][Blog3]的博客，我作为第一作者的work-in-progress[^3]也被2021 [CHI-Play]会议接收了。在2021秋季我们会完成所有工作坊的数据收集并开始数据分析，之后向诸如ISLS的会议投我们的研究。
+2021暑假时我写了一系列关于研究[背景][Blog1]，[设计][Blog2]与[实行][Blog3]的博客。我们在2021[CHI-Play]会议上发表了我作为第一作者的work-in-progress（点击查看我们的[演讲][presentation]）[^3]。我们在2021秋季完成了所有工作坊的数据收集并开始了数据分析，之后向诸如ISLS & CHI-DIS之类的的会议投我们的研究。
 
 [^1]: 如EDGE模型。Aleven, V., Myers, E., Easterday, M., & Ogan, A. (2010). Toward a Framework for the Analysis and Design of Educational Games. *2010 Third IEEE International Conference on Digital Game and Intelligent Toy Enhanced Learning*, 69–76. [https://doi.org/10.1109/DIGITEL.2010.55][Citation1]
 
@@ -45,3 +45,4 @@ lang: zh
 [Blog3]: https://dietrichhonorsresearchfellowship.wordpress.com/2021/08/05/research-implementation-educational-game-design-support/
 
 [CHI-Play]: https://chiplay.acm.org/2021/work-in-progress/
+[presentation]: https://youtu.be/M9OUpvInvds
