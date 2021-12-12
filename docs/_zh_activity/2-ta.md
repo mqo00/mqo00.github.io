@@ -55,7 +55,9 @@ lang: zh
 
 因此，在我升大四的暑假，我在CMU给难以接触CS资源的高中生们开办的计算机学者([CSS])项目中当助教；而在大四的上学期(2021秋季)，我决定去[15-110: 编程原理][15110]当助教。2021秋季的110有26位TA与301名注册学生，基本上是线下教学，让我也能体验、积累更多线下教学的经验。
 
-比起150，110有更多样的学生来源，因为150是CS专业的必修课，但110是在CMU最基础的一节编程入门课。我大学前完全没有接触过编程，大一上的第一节编程课就是110 (我的课程体验详见[此推送])。于是在CSS与110里，我还能练习给不同学科背景的、第一次接触编程的人解释计算机科学重要概念，并像我当年上110遇到的[教授们][instructors]一样，分享我们对CS的兴趣与热爱。
+比起150，110有更多样的学生来源，因为150是CS专业的必修课，但110是在CMU最基础的一节编程入门课。我大学前完全没有接触过编程，大一上的第一节编程课就是110 (我的课程体验详见[此推送])。于是在CSS与110里，我还练习了给不同学科背景的、第一次接触编程的人解释计算机科学重要概念，并像我当年上110遇到的[教授们][instructors]一样，分享我们对CS的兴趣与热爱。
+
+大四上学期我同时在上*个性化在线学习*的研究生课，趁机就把期末项目的[智能教学助手][cognitive tutor]做成了给110学生的递归练习。在实际CS教育环境下应用课堂上学到的教育理论、设计并测试教育产品，还是很有意思的，也让我对教育科技的优劣势有了更深入的认识。
 
 [^1]: lab 翻译成实验课/小课什么的感觉都不太准确，CS课的lab或者recitation基本上就是TA带着复习总结一些课上的概念再做做题。
 [^2]: OH即为Office Hour，TA每周固定的帮助学生答疑解惑的时间；OHQ即为Office Hour Queue，是CMU很多CS课用来排OH队的一个工具，根据问题难度以及Queue的拥挤情况，每个学生大致需要5-25分钟。
@@ -65,5 +67,7 @@ lang: zh
 [polly]: https://www.instagram.com/pollythepolymorphicparrot/
 [post]: https://qianouma.medium.com/ta-experience-reflection-a-conversation-about-course-improvement-suggestions-7045373cbfe9
 [instructors]: /zh_activity/6-cs-academy.html
+[cognitive tutor]: /zh_portfolio/0-pol.html
+
 [此推送]: https://mp.weixin.qq.com/s/p8RFIPIM3TDh2CrS0QMwNA
 [CSS]: https://www.cmu.edu/pre-college/academic-programs/computer-science-scholars.html

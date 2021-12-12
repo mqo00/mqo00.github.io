@@ -57,12 +57,13 @@ Therefore, I decided to gain more TA experiences in different CS courses and exp
 
 The 21 Fall instance of 110 has 26 TAs and 301 registered students, which is a similar-scale introductory CS course as 150. However, 110 has a more diverse students’ background, as 150 is a required course for CS majors, but 110 is one of the most basic CS course one can take at CMU. I took it in my first semester at CMU, as I don’t have any programming experience before. 
 
-In 110, besides experiencing some in-person teaching, I’ll also practice explaining CS concepts to complete novices in easily understandable ways and share my passion and interest in CS to others, as what the [instructors] did when I took 110.
+In 110, besides experiencing some in-person teaching, I also practiced explaining CS concepts to complete novices in easily understandable ways and shared my passion and interest in CS to others, as what the [instructors] did when I took 110. I also created a [cognitive tutor] to help 110 students practice recursive code tracing as my final project of the course *Personalized Online Learning*.
 
 [15150]: http://www.cs.cmu.edu/~15150/
 [15110]: https://www.cs.cmu.edu/~15110/
 [polly]: https://www.instagram.com/pollythepolymorphicparrot/
 [post]: https://qianouma.medium.com/ta-experience-reflection-a-conversation-about-course-improvement-suggestions-7045373cbfe9
 [instructors]: /en_activity/6-cs-academy.html
+[cognitive tutor]: /en_portfolio/0-pol.html
 
 [CSS]: https://www.cmu.edu/pre-college/academic-programs/computer-science-scholars.html
