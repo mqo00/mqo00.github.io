@@ -14,27 +14,29 @@ lightbox: true
 在大四的秋季学期*(2021)*，我上了一门*个性化在线学习*课([05-432/832 POL][05432])，课程导师是[Vincent Aleven]教授和[Jonathan Sewall]教授。
 
 <!--more-->
+<!-- TODO: update template so can order priority of article without hard coding it -->
 
-TBC
+（正在翻译中……）
 
-I collaborated with [Xinzhu Wang] to develop a cognitive tutor that helps novice programmers practice recursive code tracing. We used 
+做期末项目时，我和队友[王欣竹][Xinzhu Wang]合作制作了一个认知智能教学助手，帮助编程新手通过逐行分析的练习学习递归的概念。我们运用了
 
 1. **think aloud** and **theoretical cognitive task analysis** (CTA) to specify learning goals and knowledge components (KC)[^1];
 2. **cognitive tutor authoring tool** ([CTAT]) and **Nools** to build a production-rules-based cognitive tutor;
 3. **user testings** to iteratively improve our tutor prototype.
 
-| `Novice1 - English version` | `Novice2 - English version` | `Novice3 - Pseudocode version` | `Novice4 - Code version` |
+| `新手1 - 英语描述版本` | `新手2 - 英语描述版本` | `新手3 - 伪代码版本` | `新手4 - 代码版本` |
 | -- | -- |
 |![](/assets/images/pol-ta-1.png)|![](/assets/images/pol-ta-2.png)|![](/assets/images/pol-ta-3.png)|![](/assets/images/pol-ta-4.png)|
 
+因为我是CMU一节编程入门课[15110][110]的助教，我可以联系到20多名本科生助教与300多名编程新手(15110的学生)来进行认知任务分析和用户测试。
 
-Because I am a [teaching assistant (TA) of 15110][110], an introductory programming course at CMU, I can conveniently reach to 20+ TA and 300+ students for CTA & user testings. After think aloud (some notes are shown above), we identified some common errors that novices make in recursive code tracing tasks, such as *identifying actual input format, smaller input, base case in a specific problem context, order of return*, and etc., which enabled us to update our theoretical CTA model and make design choices accordingly.
+After think aloud (some notes are shown above), we identified some common errors that novices make in recursive code tracing tasks, such as *identifying actual input format, smaller input, base case in a specific problem context, order of return*, and etc., which enabled us to update our theoretical CTA model and make design choices accordingly.
 
 | `CTA model before think aloud` | `CTA model after think aloud` |
 | -- | -- |
 |![](/assets/images/pol-cta-pre.jpg)|![](/assets/images/pol-cta-post.jpg)|
 
-For the recursion cognitive tutor itself, we created a working memory model that includes 3 main types: Problem, Column, and Cell. We specified 8 [production rules] based on our CTA results and working memory diagram. Please refer to our [recursionTutor] git repo for the actual implementation.
+For the recursion cognitive tutor itself, we created a [working memory model][WM] that includes 3 main types: Problem, Column, and Cell. We specified 8 [production rules] based on our CTA results and working memory diagram. Please refer to our [recursionTutor] git repo for the actual implementation.
 
 We provided 3 problems with different data types:
 1. `recursiveCount` - input `int`; output `int`
@@ -61,6 +63,10 @@ We received positive feedback from students using our personalized tutor. They l
 
 We also discover a lot of problems that our tutor didn't address. For example, it's hard to **identify the types of error** students make and **provide more targeted hints**. We specified KCs for identifying the correct return value *pattern* vs. putting the correct values at corresponding rows, as students may observe the return value *pattern* correctly but made an off-by-one error. As a TA it's easy to tell what is the error that student make, but it's really hard for cognitive tutor to distinguish the difference and provide specific feedback. 
 
+<iframe width="100%" height="400" src="https://miro.com/app/live-embed/uXjVOfAkTgg=/?moveToViewport=1794,-3730,3037,2945" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
+<center><i>Our working memory model defines 3 subgoals in <b>Problem</b> that each corresponds to one or two <b>Columns</b> and <b>Cells</b> in the code tracing table interface</i></center>
+
 I like this project a lot as it's quite interesting to apply the theories learned in class to real-world situation and see the strengths and limitations of adaptive technologies in CS education. As a course project, our tutor can only do so much, and the [cognitive tutor authoring tool][CTAT] also has a steep learning curve (took us half a semester to learn). However, I still see a potential in making these adaptive technologies more accessible for educators and sharing the power of personalized education with more students.
 
 [^1]: Aleven, V., & Koedinger, K. R. (2013). Knowledge component approaches to learner modeling. In R. Sottilare, A. Graesser, X. Hu, & H. Holden (Eds.), *Design recommendations for adaptive intelligent tutoring systems* (Vol. I, Learner Modeling, pp. 165-182). Orlando, FL: US Army Research Laboratory.
@@ -76,3 +82,4 @@ I like this project a lot as it's quite interesting to apply the theories learne
 [recursionTutor]: https://github.com/mqo00/recursionTutor
 [production rules]: https://github.com/mqo00/recursionTutor/blob/main/CognitiveModel/RT_productionrules.nools
 [CTAT]: https://github.com/CMUCTAT/CTAT/wiki
+[WM]: https://miro.com/app/board/uXjVOfAkTgg=/?invite_link_id=688530250362

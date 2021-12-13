@@ -32,11 +32,7 @@ Because I am a [teaching assistant (TA) of 15110][110], an introductory programm
 | -- | -- |
 |![](/assets/images/pol-cta-pre.jpg)|![](/assets/images/pol-cta-post.jpg)|
 
-For the recursion cognitive tutor itself, we created a working memory model that includes 3 main types: Problem, Column, and Cell. We specified 8 [production rules] based on our CTA results and working memory diagram. Please refer to our [recursionTutor] git repo for the actual implementation.
-
-<!-- |![](/assets/images/pol-wm.jpg)|
-|:--:|
-| We defined 3 subgoals in Problem that each corresponds to one or two Columns and respective Cells in the code tracing table interface | -->
+For the recursion cognitive tutor itself, we created a [working memory model][WM] that includes 3 main types: Problem, Column, and Cell. We specified 8 [production rules] based on our CTA results and working memory diagram. Please refer to our [recursionTutor] git repo for the actual implementation.
 
 We provided 3 problems with different data types:
 1. `recursiveCount` - input `int`; output `int`
@@ -63,6 +59,10 @@ We received positive feedback from students using our personalized tutor. They l
 
 We also discover a lot of problems that our tutor didn't address. For example, it's hard to **identify the types of error** students make and **provide more targeted hints**. We specified KCs for identifying the correct return value *pattern* vs. putting the correct values at corresponding rows, as students may observe the return value *pattern* correctly but made an off-by-one error. As a TA it's easy to tell what is the error that student make, but it's really hard for cognitive tutor to distinguish the difference and provide specific feedback. 
 
+<iframe width="100%" height="400" src="https://miro.com/app/live-embed/uXjVOfAkTgg=/?moveToViewport=1794,-3730,3037,2945" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
+<center><i>Our working memory model defines 3 subgoals in <b>Problem</b> that each corresponds to one or two <b>Columns</b> and <b>Cells</b> in the code tracing table interface</i></center>
+
 I like this project a lot as it's quite interesting to apply the theories learned in class to real-world situation and see the strengths and limitations of adaptive technologies in CS education. As a course project, our tutor can only do so much, and the [cognitive tutor authoring tool][CTAT] also has a steep learning curve (took us half a semester to learn). However, I still see a potential in making these adaptive technologies more accessible for educators and sharing the power of personalized education with more students.
 
 [^1]: Aleven, V., & Koedinger, K. R. (2013). Knowledge component approaches to learner modeling. In R. Sottilare, A. Graesser, X. Hu, & H. Holden (Eds.), *Design recommendations for adaptive intelligent tutoring systems* (Vol. I, Learner Modeling, pp. 165-182). Orlando, FL: US Army Research Laboratory.
@@ -78,3 +78,4 @@ I like this project a lot as it's quite interesting to apply the theories learne
 [recursionTutor]: https://github.com/mqo00/recursionTutor
 [production rules]: https://github.com/mqo00/recursionTutor/blob/main/CognitiveModel/RT_productionrules.nools
 [CTAT]: https://github.com/CMUCTAT/CTAT/wiki
+[WM]: https://miro.com/app/board/uXjVOfAkTgg=/?invite_link_id=688530250362
