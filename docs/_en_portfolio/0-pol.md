@@ -18,7 +18,7 @@ In my senior year fall *(2021)*, I took *Personalized Online Learning* ([05-432/
 I collaborated with [Xinzhu Wang] to develop a cognitive tutor that helps novice programmers practice recursive code tracing. We used 
 
 1. **think aloud** and **theoretical cognitive task analysis** (CTA) to specify learning goals and knowledge components (KC)[^1];
-2. **cognitive tutor authoring tool** ([CTAT]) and **Nools** to build a production-rules-based cognitive tutor;
+2. **cognitive tutor authoring tool** ([CTAT]) and **[Nools]** to build a production-rules-based cognitive tutor;
 3. **user testings** to iteratively improve our tutor prototype.
 
 | `Novice1 - English version` | `Novice2 - English version` | `Novice3 - Pseudocode version` | `Novice4 - Code version` |
@@ -39,15 +39,15 @@ We provided 3 problems with different data types:
 2. `binarySearch` - input `int list` and `int`; output `bool`
 3. `evaluate` - input `int list` and `string list`; output `int`
 
-And each question has a pseudo-code & code version (3*2 = 6 problems in total) to test out students' understanding of different formats of presentation of recursive algorithm. We tested our tutor prototype on 41 participants, and we updated our tutor interface based on the feedback we received.
+Each question has a pseudo-code & code version (3*2 = 6 problems in total) to test out students' understanding of different formats of presentation of recursive algorithm. We hypothesized that understanding the actual code syntax and complex data structures would create additional challenges for novice programmers, so the code versions would be harder than pseudocode, and `evaluate` >harder> `binarySearch` >harder> `recursiveCount`.
 
 | `Tutor interface before user testing` | `Tutor interface after user testing` |
 | -- | -- |
 |![](/assets/images/pol-tutor-pre.png)|![](/assets/images/pol-tutor-post.png)|
 
-We also collected log data and performed some preliminary data analysis. The error rates are consistent with our hypothesis that code version is more difficult than the pseudocode version (involving an extra KC in understanding Python codes), and more complex data structure is harder to trace (`evaluate` >harder> `binarySearch` >harder> `recursiveCount`).
+We tested our tutor prototype on 41 participants, collected log data, and performed some preliminary data analysis. The error rates are consistent with our hypothesis that code version is more difficult than the pseudocode version (involving an extra KC in understanding Python codes), and more complex data structure is harder to trace. 
 
-To further improve our tutor, we can match KCs with skills at production rules level to **present a skill bar** on tutor interface that informs students of their progress, and enable more **fine-grained data analytics** to use techniques like learning factor analysis to improve the KC model[^2]. We can also think about ways to **mass produce** recursion practice problems. 
+We also updated our tutor interface based on the feedback we received. To further improve our tutor, we can match KCs with skills at production rules level to **present a skill bar** on tutor interface that informs students of their progress, and enable more **fine-grained data analytics** to use techniques like learning factor analysis to improve the KC model[^2]. We can also think about ways to **mass produce** recursion practice problems. 
 
 |![](/assets/images/pol-tutor-data.png)|
 
@@ -55,9 +55,9 @@ We received positive feedback from students using our personalized tutor. They l
 1. presents the **subgoal structure dynamically**,
 2. provides **step-wise feedback** with immediate hints and bug messages,
 3. enforces the **top-down order for input arguments in call stack column** and **bottom-up order for outputs in return value column**, which illustrates the concept that recursive function peel off the original input to reach base case and start to return from base case call, and
-4. separates **call stack, base case, and return value columns**, which highlights the important component in recursive algorithms. 
+4. separates **call stack, base case, and return value columns**, which highlights the important components in recursive algorithms. 
 
-We also discover a lot of problems that our tutor didn't address. For example, it's hard to **identify the types of error** students make and **provide more targeted hints**. We specified KCs for identifying the correct return value *pattern* vs. putting the correct values at corresponding rows, as students may observe the return value *pattern* correctly but made an off-by-one error. As a TA it's easy to tell what is the error that student make, but it's really hard for cognitive tutor to distinguish the difference and provide specific feedback. 
+We also discover a lot of problems that our tutor didn't address. For example, it's hard to **identify the types of error** students make and **provide more targeted hints**. We specified KCs for "identifying the correct return value *pattern*" vs. "putting the correct values at corresponding rows", as students may observe the return value *pattern* correctly but made an off-by-one error. As a TA it's easy to tell what is the error that student make, but it's really hard for cognitive tutor to distinguish the difference and provide specific feedback. 
 
 <iframe width="100%" height="400" src="https://miro.com/app/live-embed/uXjVOfAkTgg=/?moveToViewport=1794,-3730,3037,2945" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
@@ -79,3 +79,4 @@ I like this project a lot as it's quite interesting to apply the theories learne
 [production rules]: https://github.com/mqo00/recursionTutor/blob/main/CognitiveModel/RT_productionrules.nools
 [CTAT]: https://github.com/CMUCTAT/CTAT/wiki
 [WM]: https://miro.com/app/board/uXjVOfAkTgg=/?invite_link_id=688530250362
+[Nools]: http://noolsjs.com/
