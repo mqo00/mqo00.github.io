@@ -38,9 +38,9 @@ As TAs, we devote approximately 20 hrs/week for
 5. answering questions on Piazza,
 6. content development and playtesting of supplementary course materials such as lab and homework questions.
 
-|![](/assets/images/15150-ohq.png)|
-|:--:| 
-| *In S21, I’ve answered 110 questions from 67 different students on OHQ* |
+|![](/assets/images/15150-ohq.png)|![](/assets/images/15110-ohq.png)|
+| -- | -- |
+| *In S21, I answered 110 questions on 150's OHQ* | *In F21, I answered 88 questions on 110's OHQ* |
 
 Given my learning science background, it’s very interesting to see how the best practices in theories are hard to apply because of various constraints in real life and how teaching staff from different background can perceive the issue in very different ways. Please refer to [this post][post] for the complete story and my reflection regarding the course improvement feedback. That conversation actually poses a lot of interesting questions, for example: 
 * Does student have to fail & lose points to learn? 
@@ -49,9 +49,9 @@ Given my learning science background, it’s very interesting to see how the bes
   
 From educational practices and design perspectives, I feel like the answer to all of these questions is *NO*. But some course staff took the exact opposite position. The answers may be truly context dependent, but from the back and forth discussions, I developed a deeper understanding on how improving education quality is always hard in practice. 
 
-|![](/assets/images/15150-parrot.png)|
-|:--:| 
-| *Credit to Mia Tang, a former 150 TA* |
+|![](/assets/images/15150-parrot.png)|![](/assets/images/15110-ta-feedback.png)|
+| -- | -- |
+| *Credit to Mia Tang, a former 150 TA* | *Mid-semester feedback I received as a 110 TA* |
 
 Therefore, I decided to gain more TA experiences in different CS courses and expose myself to different sets of course policies, student experiences, and similar or different challenges. During 2021 Summer, I assisted teaching for 30 high school students in the pre-college Computer Science Scholars ([CSS]) program for students from traditionally underrepresented communities in CS. In 2021 Fall, I become a TA of the course [15-110][15110].
 
