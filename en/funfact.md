@@ -38,6 +38,8 @@ I love outdoors and all sorts of sporty activities! Besides the martial art abov
 | -- | -- | -- | -- |
 |![](/assets/images/sport-1.jpg)|![](/assets/images/sport-2.jpg)|![](/assets/images/sport-3.jpg)|![](/assets/images/sport-4.jpg)|
 
+| -- | -- | -- | -- |
+|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-7.jpg)|![](/assets/images/sport-8.jpg)|
 
 ## Bonus Recipe
 
