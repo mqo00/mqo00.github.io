@@ -12,10 +12,10 @@ key: about
   <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-auto">
     <div>
-      <p> Hi, I’m <b>Christina Ma</b>, a 2022er at Carnegie Mellon University, studying dual degrees of Cognitive Science and Computer Science and minor in Design for Learning. 
-          I’m interested in the <i>application of learning science theories in education technologies, specifically in the context of CS education</i>, and I’m planning to pursue grad schools after graduation to do more research in this area. 
+      <p> Hi, I’m <b>Christina Ma</b>, a first-year PhD student at Carnegie Mellon University Human-Computer Interaction Institute, co-advised by Dr. [Ken Koedinger] & Dr. [Sherry (Tongshuang) Wu]. I got my undergraduate dual degrees of Cognitive Science and Computer Science and a minor in Design for Learning at CMU in 2022. 
+          I’m interested in the <i>application of learning science theories in education technologies, specifically in the context of CS education</i>. Currently I’m interested in how to use large language model-based AI code-generation tools to assist CS education.
       </p>
-      <p> Feel free to explore this website to learn more about me, and if you just want a quick summary, here's my 1-page <a href="/assets/Christina_Ma_Resume.pdf">resume</a>, and here's my <a href="/assets/Christina_Ma_CV.pdf">CV</a>. 
+      <p> Feel free to explore this website to learn more about me, and here's my <a href="/assets/Christina_Ma_CV.pdf">CV</a>. 
       </p>
     </div>
   </div>
@@ -33,3 +33,6 @@ key: about
   [activity]: activity
   [portfolio]: portfolio
   [fun]: funfact
+  
+[Ken Koedinger]: https://hcii.cmu.edu/people/ken-koedinger
+[Sherry (Tongshuang) Wu]: https://www.cs.cmu.edu/~sherryw/index.html
