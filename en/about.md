@@ -12,10 +12,10 @@ key: about
   <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-auto">
     <div>
-      <p markdown="1"> Hi, I’m <b>Christina Ma</b>, a first-year PhD student at Carnegie Mellon University Human-Computer Interaction Institute, co-advised by Dr. [Ken Koedinger] & Dr. [Sherry (Tongshuang) Wu]. I got my undergraduate dual degrees of Cognitive Science and Computer Science and a minor in Design for Learning at CMU in 2022. 
-      Currently, my research interests lay in the intersection of LLM and CS education. I have explored different ways of interaction to minimize risks and maximize the effectiveness of LLM in student-facing or instructor-facing applications, including a [GPT-based teachable agent](https://arxiv.org/abs/2310.05292) to help students learn debugging and an [in-house LLM TA assistant](https://arxiv.org/abs/2311.02775) in answering student questions. For details of my recent research projects, check out my [publications](https://scholar.google.com/citations?user=3EAMFQIAAAAJ&hl=en).
+      <p markdown="1"> Hi, I’m <b>Christina Ma</b>, a second-year PhD student at Carnegie Mellon University Human-Computer Interaction Institute, co-advised by Dr. [Ken Koedinger] & Dr. [Sherry (Tongshuang) Wu]. I got my undergraduate dual degrees of Cognitive Science and Computer Science and a minor in Design for Learning at CMU in 2022. 
       </p>
-      <p> Feel free to explore this website to learn more about me, and here's my <a href="/assets/Christina_Ma_CV.pdf">CV</a>. 
+      <p> Currently, my research interests lay in the intersection of LLM and CS education. I have explored different ways of interaction to minimize risks and maximize the effectiveness of LLM in student-facing or instructor-facing applications, including a GPT-based teachable agent ([HypoCompass]) to help students learn debugging and an in-house LLM TA assistant ([ChaTA]) in answering student questions. For details of my recent research projects, check out my [publications].
+      Feel free to explore this website to learn more about me, and here's my <a href="/assets/Christina_Ma_CV.pdf">CV</a>. 
       </p>
     </div>
   </div>
@@ -36,3 +36,6 @@ key: about
 
 [Ken Koedinger]: https://hcii.cmu.edu/people/ken-koedinger
 [Sherry (Tongshuang) Wu]: https://www.cs.cmu.edu/~sherryw/index.html
+[ChaTA]: https://arxiv.org/abs/2311.02775
+[HypoCompass]: https://arxiv.org/abs/2310.05292
+[publications]: https://scholar.google.com/citations?user=3EAMFQIAAAAJ&hl=en

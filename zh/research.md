@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: 研究
+title: 研究(本科)
 permalink: zh/research.html
 key: research
 lang: zh

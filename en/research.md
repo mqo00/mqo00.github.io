@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: Research Experiences
+title: Research Experiences (Undergrad)
 permalink: en/research.html
 key: research
 lang: en
