@@ -8,6 +8,10 @@ language-translate:
   zh: English
 
 header:
+  - titles:
+    en : About
+    zh : 关于
+    url:  /about.html
 
   - titles:
     en : Research
