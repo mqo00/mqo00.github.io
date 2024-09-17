@@ -1,11 +1,11 @@
 ---
 layout: articles
 title: Research Experiences (Undergrad)
-permalink: en/research.html
-key: research
+permalink: en/research_undergrad.html
+key: research_undergrad
 lang: en
 articles:
-  data_source: en_research
+  data_source: en_research_undergrad
   show_excerpt: true
   excerpt_type: html
 ---

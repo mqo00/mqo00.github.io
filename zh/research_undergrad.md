@@ -1,11 +1,11 @@
 ---
 layout: articles
 title: 研究(本科)
-permalink: zh/research.html
-key: research
+permalink: zh/research_undergrad.html
+key: research_undergrad
 lang: zh
 articles:
-  data_source: zh_research
+  data_source: zh_research_undergrad
   show_excerpt: true
   excerpt_type: html
 ---
