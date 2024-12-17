@@ -13,8 +13,8 @@ key: research
 **Qianou Ma**, Weirui Peng, Chenyang Yang, Hua Shen, Kenneth Koedinger, and Tongshuang Wu. [What Should We Engineer in Prompts? Training Humans in Requirement-Driven LLM Use.](https://arxiv.org/abs/2409.08775) In Submission, 2024.
 
 
-**Qianou Ma**\*, Dora Zhao\*, Xinran Zhao, Chenglei Si, Chenyang Yang, Ryan Louie, Ehud Reiter, Diyi Yang$`^\dagger`$, and Tongshuang Wu$`^\dagger`$.
-[SPHERE: An Evaluation Card for Human-AI Systems.](https://drive.google.com/file/d/1k5hN0e__G_iQDROnxrKPo373XbhIhc93/view?usp=sharing) In Submission, 2024. *\*Co-first authors. $`\dagger`$Co-last authors.*
+**Qianou Ma**\*, Dora Zhao\*, Xinran Zhao, Chenglei Si, Chenyang Yang, Ryan Louie, Ehud Reiter, Diyi Yang$$ ^\dagger $$, and Tongshuang Wu$$^\dagger$$.
+[SPHERE: An Evaluation Card for Human-AI Systems.](https://drive.google.com/file/d/1k5hN0e__G_iQDROnxrKPo373XbhIhc93/view?usp=sharing) In Submission, 2024. *\*Co-first authors. $$^\dagger$$Co-last authors.*
 
 ***
 
