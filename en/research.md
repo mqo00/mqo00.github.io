@@ -20,7 +20,6 @@ key: research
 
 *** 
 
-
 **Qianou Ma**\*, Dora Zhao\*, Xinran Zhao, Chenglei Si, Chenyang Yang, Ryan Louie, Ehud Reiter, Diyi Yang$$ ^\dagger $$, and Tongshuang Wu$$^\dagger$$.
 [SPHERE: An Evaluation Card for Human-AI Systems.](https://sphere-eval.github.io/) In ACL Findings, 2025. *\*Co-first authors. $$^\dagger$$Co-last authors.*
 
@@ -33,6 +32,8 @@ Agent for Debugging.](https://arxiv.org/abs/2310.05292) In International Confere
 
 Atharva Naik, Jessica Ruhan Yin, Anusha Kamath, **Qianou Ma**, Sherry Tongshuang Wu, Charles Murray, Christopher Bogart, Majd Sakr, and Carolyn P. Rose. [Generating Situated Reflection Triggers About Alternative Solution Paths: A Case Study in Generative AI for Computer‑
 Supported Collaborative Learning.](https://arxiv.org/abs/2404.18262) In International Conference on Artificial Intelligence in Education. Springer, 2024. 🏆 **Best Paper Nominee.**
+
+***
 
 
 ## Workshop & Poster Publications
