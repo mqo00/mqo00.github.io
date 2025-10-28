@@ -205,6 +205,11 @@ collections:
     output: true
   zh_portfolio:
     output: true
+  en_research_undergrad:
+    output: true
+  zh_research_undergrad:
+    output: true
+
 
 defaults:
   - scope:

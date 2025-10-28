@@ -1,8 +1,8 @@
 ---
 layout: articles
-title: Portfolio
-permalink: en/portfolio.html
-key: portfolio
+title: Portfolio (Undergrad)
+permalink: en/portfolio_undergrad.html
+key: portfolio_undergrad
 lang: en
 articles:
   data_source: en_portfolio

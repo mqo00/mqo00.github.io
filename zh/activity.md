@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: 活动
+title: 活动(本科)
 permalink: zh/activity.html
 key: activity
 lang: zh

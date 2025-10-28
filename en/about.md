@@ -29,11 +29,11 @@ key: about
   </div>
   <!-- I have explored different ways of interaction to minimize risks and maximize the effectiveness of LLM, an in-house LLM TA assistant in answering student questions ([AI-TA]) -->
 
-  I got my undergraduate dual degrees of Cognitive Science and Computer Science and a minor in Design for Learning at CMU in 2022. Feel free to explore this website to learn more about my leadership and educational [activities][activity], various writing, technology, design & art [projects/portfolio][portfolio], and some [fun facts][fun]!
+  I got my undergraduate dual degrees of Cognitive Science and Computer Science and a minor in Design for Learning at CMU in 2022. Feel free to learn more about my leadership and educational [activities][activity], various writing, technology, design & art [projects][portfolio] during undergrad, and some [fun facts][fun]!
 
   [research]: research
   [activity]: activity
-  [portfolio]: portfolio
+  [portfolio]: portfolio_undergrad
   [fun]: funfact
 
 [Ken Koedinger]: https://hcii.cmu.edu/people/ken-koedinger

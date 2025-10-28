@@ -33,13 +33,13 @@ I love, love cooking. I’m not bragging, but I’m such a foodie and good amate
 |![](/assets/images/food-5.jpg)|![](/assets/images/food-6.jpg)|![](/assets/images/food-7.jpg)|![](/assets/images/food-8.jpg)|
 
 ## Outdoors
-I love outdoors and all sorts of sporty activities! Besides the martial art above, I've done Spartan, white water rafting, kayaking, biking, zipline, hiking, archery, climbing, skiing, snowboarding, figure skating, horse riding, camping, paintball, trampoline, axe throwing ... just to name a few! My skills may not be too impressive, but I did take some good photos :joy:
+I love outdoors and all sorts of (especially if slightly extreme) sporty activities! Besides the martial art above, I've done Spartan, white water rafting, kayaking, biking, zipline, hiking, archery, climbing, skiing, snowboarding, figure skating, wakeboarding, kite surfing, horse riding, camping, paintball, trampoline, axe throwing ... just to name a few! My skills may not be impressive, but I did take some good photos :joy:
 
 | -- | -- | -- | -- |
-|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-2.jpg)|![](/assets/images/sport-3.jpg)|![](/assets/images/sport-4.jpg)|
+|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-14.jpg)|![](/assets/images/sport-13.jpg)|![](/assets/images/sport-4.jpg)|
 
 | -- | -- | -- | -- |
-|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-7.jpg)|![](/assets/images/sport-8.jpg)|
+|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-12.jpg)|![](/assets/images/sport-11.jpg)|
 
 ## Bonus Recipe
 

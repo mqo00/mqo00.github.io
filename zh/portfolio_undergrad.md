@@ -1,8 +1,8 @@
 ---
 layout: articles
-title: 作品集
-permalink: zh/portfolio.html
-key: portfolio
+title: 作品集(本科)
+permalink: zh/portfolio_undergrad.html
+key: portfolio_undergrad
 lang: zh
 articles:
   data_source: zh_portfolio

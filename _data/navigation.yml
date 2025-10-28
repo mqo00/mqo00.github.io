@@ -18,15 +18,15 @@ header:
     zh : 研究
     url:  /research.html
 
-  - titles:
-    en: Activities
-    zh: 活动
-    url:  /activity.html
+  # - titles:
+  #   en: Activities
+  #   zh: 活动
+  #   url:  /activity.html
 
-  - titles:
-    en: Portfolio
-    zh: 作品
-    url:  /portfolio.html
+  # - titles:
+  #   en: Portfolio
+  #   zh: 作品
+  #   url:  /portfolio.html
 
   - titles:
     en: Fun
