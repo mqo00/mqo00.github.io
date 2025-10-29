@@ -14,7 +14,7 @@ key: about
     <div>
       <p markdown="1"> Hi, I’m <b>Christina Ma</b>, a PhD student at Carnegie Mellon University Human-Computer Interaction Institute, co-advised by Dr. [Ken Koedinger] & Dr. [Sherry (Tongshuang) Wu].
       </p>
-      <p markdown="1"> My research interests lay in the intersection of LLM and CS education. I design, build, and evaluate LLM‑based educational applications, such as a teachable agent for debugging in CS1 ([HypoCompass], AIED24 Best Paper), and an interactive tutor to train prompt programming for end-users ([ROPE], TOCHI 2025). My goal is to explore what's the optimal human‑AI task delegation for the future and how to evaluate and train people to work with AI, especially in a programming context.
+      <p markdown="1"> My research interests are in the intersection of LLM and CS education. I design, build, and evaluate LLM‑based educational applications, such as a teachable agent for debugging in CS1 ([HypoCompass], AIED24 Best Paper), and an interactive tutor to train prompt programming for end-users ([ROPE], TOCHI 2025). My goal is to explore what the optimal human‑AI task delegation is for the future and how to evaluate and train people to work with AI, especially in a programming context.
       For details of my recent [research] projects, check out my [publications].
       Here's my <a href="/assets/Christina_Ma_CV.pdf">CV</a>. 
       </p>

@@ -6,11 +6,11 @@ lang: en
 key: research
 ---
 
-<!-- temporary solution, switch to https://jekyll-themes.com/alshedivat/al-folio -->
+<!-- temporary solution, switch to https://jekyll-themes.com/alshedivat/al-folio in the future -->
 
-My research aim to help humans adapt and thrive in AI-infused development environments.
+My research aims to help humans adapt and thrive in AI-infused development environments.
 I conduct mixed-methods research to design, build, and evaluate human-centered AI systems to train humans to program effectively with LLMs. My work bridges AI, HCI, and CS education, and benefits populations including students, end-users, and developers. 
-My work have been published across top research venues such as AIED, TOCHI, and ACL, and has been recognized with distinctions including
+My work has been published across top research venues such as AIED, TOCHI, and ACL, and has been recognized with distinctions including
 **Best Paper at AIED**. Full publications at: 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=3EAMFQIAAAAJ&hl=en)
 
