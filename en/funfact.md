@@ -2,11 +2,9 @@
 layout: article
 title: Fun Facts
 key: fun-fact 
-tags: [martial art, taichi sword, cooking, outdoors]
-show_tags: true
 show_date: false
 sharing: true
-cover: /assets/images/taichi-cover.png
+cover: /assets/images/sport-15.jpg
 lang: en
 lightbox: true
 ---
@@ -15,12 +13,14 @@ Here are some fun facts about me!
 
 <!--more-->
 
-## Tai Chi Sword
+## Outdoors
+I love outdoors and all sorts of (especially if slightly extreme) sporty activities, and I'm a certified [AASI Level 2](https://thesnowpros.org/get-certified/snowboard/) snowboard coach :snowboarder:! Besides snowboarding, I've done Spartan, white water rafting, kayaking, biking, zipline, hiking, archery, climbing, skiing, figure skating, wakeboarding, kite surfing, horse riding, camping, paintball, trampoline, axe throwing ... just to name a few! My skills may not be impressive, but I did take some good photos :joy:
 
-I’m Chinese, so as you may expect, I do martial art (haha it is such an old stereotypical joke). But anyway I did learn some Tai Chi, and in particular **Tai Chi Sword**. 
+| -- | -- | -- | -- |
+|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-14.jpg)|![](/assets/images/sport-13.jpg)|![](/assets/images/sport-4.jpg)|
 
-<div>{%- include extensions/youtube.html id='0eRCgO3CycI' -%}</div>
-<center><i>Here’s a video of my performance in my hometown, Xiamen.</i></center>
+| -- | -- | -- | -- |
+|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-12.jpg)|![](/assets/images/sport-11.jpg)|
 
 ## Cooking
 
@@ -31,15 +31,6 @@ I love, love cooking. I’m not bragging, but I’m such a foodie and good amate
 
 | -- | -- | -- | -- |
 |![](/assets/images/food-5.jpg)|![](/assets/images/food-6.jpg)|![](/assets/images/food-7.jpg)|![](/assets/images/food-8.jpg)|
-
-## Outdoors
-I love outdoors and all sorts of (especially if slightly extreme) sporty activities! Besides the martial art above, I've done Spartan, white water rafting, kayaking, biking, zipline, hiking, archery, climbing, skiing, snowboarding, figure skating, wakeboarding, kite surfing, horse riding, camping, paintball, trampoline, axe throwing ... just to name a few! My skills may not be impressive, but I did take some good photos :joy:
-
-| -- | -- | -- | -- |
-|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-14.jpg)|![](/assets/images/sport-13.jpg)|![](/assets/images/sport-4.jpg)|
-
-| -- | -- | -- | -- |
-|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-12.jpg)|![](/assets/images/sport-11.jpg)|
 
 ## Bonus Recipe
 

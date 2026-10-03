@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 课程计划 & 总结 [个人&小组项目]
+title: AppDev 课程计划 & 总结 [个人&小组项目]
 key: egia
 tags: [写作, 教育, EGIA, 课程设计, 合作, 学习科学]
 show_tags: true
@@ -54,7 +54,7 @@ lightbox: true
 [Lauren Herckis]: http://www.laurenherckis.com/
 
 [PI]: https://projectignitecmu.org/
-[writeup]: /assets/AppDev_for_High_School_Students.pdf
+[writeup]: /assets/artifacts/AppDev_for_High_School_Students.pdf
 [CS Academy]: /zh_activity/6-cs-academy.html
 [Project Ignite]: /zh_activity/1-project-ignite.html
 [85-738 EGIA]: https://metals.hcii.cmu.edu/curriculum/

@@ -1,0 +1,66 @@
+# Selected projects on the About page, grouped by research question.
+# `pub` points to an `id` in _data/publications.yml (used for venue badge, award, authors and links).
+# Optional `authors` overrides the full author list with an abbreviated one for long lists.
+
+- key: what
+  title: { en: "What to teach", zh: "教什么" }
+  projects:
+    - name: "Not Everyone Wins with LLMs"
+      pub: dspm
+      image: /assets/images/research-dspm.png
+      summary:
+        en: "A semester-long classroom study (36 students, 7,000+ logs) showing LLMs don’t close the experience gap in AI-assisted data science: many students miss chances to use AI for explanation and evaluation."
+        zh: "一项为期一学期的课堂研究（36名学生、7000余条日志）表明，大模型并未弥合AI辅助数据科学中的经验差距：许多学生错失了借助AI进行解释与评估的机会。"
+    - name: "pAIr Programming"
+      pub: pair
+      image: /assets/images/research-pair.png
+      summary:
+        en: "A review contrasting human–human pair programming with human–AI “pAIr” programming, surfacing which collaborative skills should transfer to working with AI."
+        zh: "一篇文献综述，对比人-人结对编程与人-AI“pAIr”结对编程，探讨哪些协作技能应迁移到与AI的合作中。"
+
+- key: how
+  title: { en: "How to teach", zh: "如何教" }
+  projects:
+    - name: "HypoCompass"
+      pub: hypocompass
+      image: /assets/images/research-hypocompass.png
+      summary:
+        en: "A teachable agent where novices debug AI “learners’” code. It improved debugging performance by 12% and efficiency by 14%, generating practice materials 4× faster than instructors."
+        zh: "一个可教代理：新手学生为AI“学生”调试代码。调试表现提升12%、效率提升14%，生成练习材料的速度是教师的4倍。"
+    - name: "ROPE"
+      pub: rope
+      image: /assets/images/research-rope.jpg
+      summary:
+        en: "Requirement-Oriented Prompt Engineering: a tutor that trains people to specify clear requirements while AI compiles prompts. Trained end-users doubled their prompting performance."
+        zh: "需求导向提示工程：训练用户清晰表达需求、由AI编译提示词的辅导系统。受训用户的提示表现翻倍。"
+    - name: "ImaginAItion"
+      pub: imaginaition
+      authors: "Qianou Ma, Megan Chai, Yike Tan, …, Geoff Kauffman, and Tongshuang Wu"
+      image: /assets/images/research-imaginaition.jpg
+      summary:
+        en: "A multiplayer prompting game that reveals how GenAI defaults to bias under underspecified prompts. It improved players’ understanding of GenAI behaviors by 35%."
+        zh: "一款多人提示词游戏，揭示生成式AI在提示不充分时的默认偏见，使玩家对生成式AI行为的理解提升35%。"
+
+- key: evaluate
+  title: { en: "How to evaluate", zh: "如何评估" }
+  projects:
+    - name: "SPHERE"
+      pub: sphere
+      authors: "Dora Zhao*, Qianou Ma*, Xinran Zhao, …, Diyi Yang, and Tongshuang Wu"
+      image: /assets/images/research-sphere.png
+      summary:
+        en: "An evaluation card documenting what, how, who, when, and how-validated for human–AI system evaluations, applied to 39 systems across HCI and NLP."
+        zh: "一张评估卡片，记录人机系统评估的“评估什么、如何评估、谁参与、何时评估、如何验证”，并用于梳理HCI与NLP领域的39个系统。"
+    - name: "RECAP"
+      pub: recap
+      image: /assets/images/research-recap.png
+      summary:
+        en: "An open-source platform to capture, replay, and analyze AI-assisted programming in VS Code, deployed with 41 students (2,034 prompts, 8,239 code edits)."
+        zh: "一个在VS Code中记录、回放并分析AI辅助编程的开源平台，已在41名学生中部署（2034条提示、8239次代码编辑）。"
+    - name: "Mind the Sim2Real Gap"
+      pub: sim2real
+      authors: "Xuhui Zhou*, Weiwei Sun*, Qianou Ma, …, Graham Neubig, Sherry Tongshuang Wu, and Maarten Sap"
+      image: /assets/images/research-sim2real.png
+      summary:
+        en: "Running τ-bench with 451 real users and 31 LLM simulators shows simulated users are overly cooperative and uniform, and that stronger general models don’t necessarily simulate users more faithfully."
+        zh: "我们让451名真实用户与31个大模型模拟器完成 τ-bench，发现模拟用户过于配合且风格单一：更强的模型并不意味着更真实的用户模拟。"

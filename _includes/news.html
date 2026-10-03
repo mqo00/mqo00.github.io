@@ -1,0 +1,19 @@
+{%- comment -%} News list from _data/news.yml; items beyond include.show (default 6) fold away. {%- endcomment -%}
+{%- assign _lang = page.lang | default: 'en' -%}
+{%- assign _show = include.show | default: 6 -%}
+{%- if _lang == 'zh' -%}{%- assign _upcoming = '即将' -%}{%- else -%}{%- assign _upcoming = 'Upcoming' -%}{%- endif -%}
+<ul class="news">
+{%- for _n in site.data.news limit: _show -%}
+  <li><span class="news__date">{{ _n.date[_lang] }}</span><span class="news__text">{% if _n.upcoming %}<span class="news__upcoming">{{ _upcoming }}</span>{% endif %}{{ _n[_lang] }}</span></li>
+{%- endfor -%}
+</ul>
+{%- if site.data.news.size > _show -%}
+<details class="news-older">
+  <summary>{% if _lang == 'zh' %}更早的动态{% else %}Older news{% endif %}</summary>
+  <ul class="news">
+  {%- for _n in site.data.news offset: _show -%}
+    <li><span class="news__date">{{ _n.date[_lang] }}</span><span class="news__text">{% if _n.upcoming %}<span class="news__upcoming">{{ _upcoming }}</span>{% endif %}{{ _n[_lang] }}</span></li>
+  {%- endfor -%}
+  </ul>
+</details>
+{%- endif -%}

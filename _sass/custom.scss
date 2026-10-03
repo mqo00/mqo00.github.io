@@ -1,3 +1,328 @@
 /* start custom scss snippet */
 
+$accent: $main-color-1;
+$accent-soft: rgba($main-color-1, .1);
+$award: #b7791f;
+$award-soft: #fdf3e1;
+$muted: $text-color-l;
+$rule: #e6e6e6;
+
+/* ---------- Opening animation (About page) ---------- */
+.intro-active { overflow: hidden; }
+.intro {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #111 url("/assets/images/flocks.gif") center / cover no-repeat;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity .9s ease, visibility .9s ease;
+  &[hidden] { display: none; }
+  &__content {
+    padding: 0 16px;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, .45);
+    animation: intro-rise 1.2s ease both;
+    h2 {
+      color: #fff !important;
+      border: none !important;
+      padding: 0 !important;
+      margin: 0 0 .4rem !important;
+      font-size: 2.2rem;
+    }
+    i { font-size: 1.1rem; opacity: .9; }
+  }
+  &--out { opacity: 0; visibility: hidden; }
+}
+@keyframes intro-rise {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ---------- About page ---------- */
+.about { margin-top: 1rem; }
+
+.profile {
+  display: flex;
+  gap: 2.25rem;
+  align-items: stretch; // photo spans the full height of the text column
+  margin-bottom: 2rem;
+  &__photo {
+    flex: 0 0 200px;
+    display: flex;
+    img {
+      width: 200px;
+      height: 100%;
+      min-height: 250px;
+      object-fit: cover;
+      object-position: 50% 20%;
+      border-radius: 12px;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, .12);
+      display: block;
+    }
+  }
+  &__body { flex: 1 1 auto; min-width: 0; }
+  &__name {
+    margin: 0 0 .5rem !important;
+    padding: 0 !important;
+    border: none !important;
+    font-size: 2rem;
+  }
+  &__role {
+    color: $text-color;
+    margin: 0 0 1rem !important;
+    line-height: 1.55;
+    b { color: $accent; }
+  }
+  &__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .45rem;
+    margin-bottom: 1rem;
+    a {
+      font-size: .9rem;
+      font-weight: 600;
+      padding: .15em .85em;
+      background: #fff;
+      border: 1px solid rgba($main-color-1, .45);
+      border-radius: 999px;
+      &:hover { background: $accent; border-color: $accent; color: #fff; text-decoration: none; }
+    }
+  }
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.25rem;
+    &__photo img { height: 250px; }
+    &__links { justify-content: center; }
+  }
+}
+
+.job-banner {
+  border-left: 4px solid $accent;
+  background: $accent-soft;
+  padding: .65rem 1rem;
+  border-radius: 6px;
+  margin: 0 !important;
+  font-weight: 600;
+  text-align: left;
+}
+
+.themes {
+  list-style: none;
+  margin: .6rem 0 1.2rem !important;
+  padding: .7rem 1.1rem;
+  background: $accent-soft;
+  border-left: 3px solid $accent;
+  border-radius: 6px;
+  li { margin: .45rem 0; padding-left: 0; }
+  li::before { content: none !important; }
+  .proj-tag { background: #fff; }
+}
+.proj-tag {
+  display: inline-block;
+  font-size: .85em;
+  padding: 0 .45em;
+  margin: 0 .1em;
+  border-radius: 3px;
+  background: $accent-soft;
+  white-space: nowrap;
+}
+
+.news {
+  list-style: none;
+  margin: 0 !important;
+  padding: 0;
+  li {
+    display: flex;
+    gap: 1rem;
+    margin: .45rem 0;
+    line-height: 1.55;
+  }
+  li::before { content: none !important; }
+  &__date {
+    flex: 0 0 6.5rem;
+    color: $muted;
+    font-weight: 600;
+    font-size: .9em;
+    padding-top: .1em;
+  }
+  &__text { flex: 1 1 auto; min-width: 0; }
+  @media (max-width: 576px) {
+    li { flex-direction: column; gap: 0; }
+    &__date { flex-basis: auto; }
+  }
+}
+.news__text a { font-weight: 400; }
+.news-older {
+  margin-top: .4rem;
+  summary { cursor: pointer; color: $accent; font-weight: 600; }
+  .news {
+    max-height: 18rem;
+    overflow-y: auto;
+    margin-top: .4rem !important;
+    padding: .2rem .8rem .2rem 0;
+    border-top: 1px solid $rule;
+    border-bottom: 1px solid $rule;
+  }
+}
+
+/* ---------- Research page: selected projects ---------- */
+.research-overview {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  &__text { flex: 1 1 55%; }
+  &__fig {
+    flex: 0 0 40%;
+    img { width: 100%; }
+  }
+  @media (max-width: 768px) {
+    flex-direction: column;
+    &__fig { flex-basis: auto; max-width: 420px; }
+  }
+}
+
+.theme-title { margin: 1.4rem 0 .2rem !important; font-size: 1.1rem !important; color: $muted; }
+.theme-desc { color: $muted; margin-top: .2rem !important; }
+
+.project {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: .7rem 0;
+  border-bottom: 1px solid $rule;
+  &:last-of-type { border-bottom: none; }
+  &__media {
+    flex: 0 0 190px;
+    height: 112px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border: 1px solid $rule;
+    border-radius: 6px;
+    padding: .3rem;
+    overflow: hidden;
+    img { max-width: 100%; max-height: 100%; object-fit: contain; }
+  }
+  &__body { flex: 1 1 auto; min-width: 0; }
+  &__title {
+    font-size: 1.02rem;
+    font-weight: 700;
+    margin: 0 0 .15rem;
+    line-height: 1.4;
+    > a { margin-right: .4rem; }
+    .pub-badge { vertical-align: 2px; }
+  }
+  &__authors { font-size: .85rem; color: $muted; line-height: 1.4; margin-bottom: .2rem; b { color: $text-color; } }
+  &__summary { margin: 0 !important; font-size: .92rem; line-height: 1.5; }
+  .pub-links { margin-top: .25rem; font-size: .8rem; }
+  @media (max-width: 576px) {
+    flex-direction: column;
+    align-items: stretch;
+    &__media { flex-basis: auto; height: 150px; }
+  }
+}
+
+.see-all {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: .5rem;
+  margin-top: .6rem !important;
+  font-size: .9rem;
+  &__legend { color: $muted; }
+  a { font-weight: 600; }
+}
+
+.news__upcoming {
+  display: inline-block;
+  font-size: .72rem;
+  font-weight: 700;
+  padding: 0 .45em;
+  margin-right: .35rem;
+  border-radius: 3px;
+  color: #fff;
+  background: $accent;
+  vertical-align: 1px;
+}
+
+/* ---------- Badges & links (shared) ---------- */
+.pub-badge {
+  display: inline-block;
+  font-size: .75rem;
+  font-weight: 700;
+  line-height: 1.6;
+  padding: 0 .5em;
+  margin: 0 .3em .2em 0;
+  border-radius: 3px;
+  color: $accent;
+  background: $accent-soft;
+  white-space: nowrap;
+  &--award { color: $award; background: $award-soft; }
+}
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .35rem;
+  margin-top: .3rem;
+  font-size: .85rem;
+}
+.pub-link {
+  display: inline-block;
+  padding: 0 .55em;
+  border: 1px solid rgba($main-color-1, .45);
+  border-radius: 3px;
+  line-height: 1.7;
+  &:hover { background: $accent-soft; text-decoration: none; }
+}
+.pub-media { color: $muted; margin-left: .3rem; }
+
+/* ---------- Full publication list ---------- */
+.pub-section { margin-top: 1.8rem !important; }
+.pub-list {
+  list-style: none;
+  margin: 0 !important;
+  padding: 0;
+  li::before { content: none !important; }
+}
+.pub {
+  margin: 0 0 1.1rem !important;
+  padding: 0;
+  line-height: 1.5;
+  &__title { font-weight: 700; }
+  &__authors { margin-top: .1rem; }
+  &__venue { color: $muted; font-size: .95em; }
+}
+
+/* ---------- Talks ---------- */
+.talks {
+  list-style: none;
+  margin: 0 !important;
+  padding: 0;
+  li { display: flex; gap: 1rem; margin: .35rem 0; line-height: 1.5; }
+  li::before { content: none !important; }
+  &__when { flex: 0 0 6.5rem; color: $muted; font-weight: 600; font-size: .9em; padding-top: .1em; }
+  &__where { color: $muted; }
+  @media (max-width: 576px) {
+    li { flex-direction: column; gap: 0; }
+  }
+}
+
+/* ---------- Photo tables in posts: add `{: .photo-grid}` after a markdown table ---------- */
+.article__content table.photo-grid {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  td { vertical-align: top; }
+  img { width: 100%; height: auto; display: block; }
+}
+
 /* end custom scss snippet */

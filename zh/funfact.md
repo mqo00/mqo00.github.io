@@ -2,22 +2,24 @@
 layout: article
 title: 趣事
 key: fun-fact
-tags: [太极剑, 美食, 烹饪, 户外运动]
-show_tags: true
 show_date: false
 sharing: true
-cover: /assets/images/taichi-cover.png
+cover: /assets/images/sport-15.jpg
 lang: zh
 lightbox: true
 ---
 
 <!--more-->
 
-## 太极剑
+## 户外运动
 
-没想到吧，我可是会打太极剑的人呀( ´▽` )ﾉ 以下视频是在厦门的筼筜书院录的，学剑速成了一周左右，并不如何厉害，但是风景可棒了！
+我喜欢一切好玩+刺激的户外运动，还是一名持证的 [AASI 二级](https://thesnowpros.org/get-certified/snowboard/)单板滑雪教练 :snowboarder:！除了单板，春夏秋冬上山下水都有我爱玩的，比如越野跑、白水漂流、皮划艇、骑行、滑索、远足、射箭、攀岩、滑雪、滑冰、水上滑板、风筝冲浪、骑马、野营、蹦床、彩弹枪、扔斧头……诸如此类。水平不高，但照片不少 :joy:
 
-<div>{%- include extensions/bilibili.html id='BV1GX4y1K7fd' -%}</div>
+| -- | -- | -- | -- |
+|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-2.jpg)|![](/assets/images/sport-14.jpg)|![](/assets/images/sport-4.jpg)|
+
+| -- | -- | -- | -- |
+|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-15.jpg)|![](/assets/images/sport-11.jpg)|
 
 ## 美食
 
@@ -28,16 +30,6 @@ lightbox: true
 
 | -- | -- | -- | -- |
 |![](/assets/images/food-5.jpg)|![](/assets/images/food-6.jpg)|![](/assets/images/food-7.jpg)|![](/assets/images/food-8.jpg)|
-
-## 户外运动
-
-我喜欢一切好玩+刺激的户外运动！春夏秋冬上山下水都有我爱玩的！比如越野跑、白水漂流、皮划艇、骑行、滑索、远足、射箭、攀岩、滑雪、滑冰、水上滑板、风筝冲浪、骑马、野营、蹦床、彩弹枪、扔斧头……诸如此类。水平不高，但照片不少 :joy:
-
-| -- | -- | -- | -- |
-|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-2.jpg)|![](/assets/images/sport-14.jpg)|![](/assets/images/sport-4.jpg)|
-
-| -- | -- | -- | -- |
-|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-15.jpg)|![](/assets/images/sport-11.jpg)|
 
 ## 彩蛋
 

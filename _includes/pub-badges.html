@@ -1,0 +1,6 @@
+{%- comment -%} Venue + award tags for one publication: include.pub {%- endcomment -%}
+{%- assign _pub = include.pub -%}
+<span class="pub-badge">{{ _pub.badge }}</span>
+{%- for _a in _pub.award -%}
+  <span class="pub-badge pub-badge--award">🏆 {{ _a }}</span>
+{%- endfor -%}

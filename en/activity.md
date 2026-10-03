@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: Activities (Undergrad)
+title: Activities
 permalink: en/activity.html
 key: activity
 lang: en

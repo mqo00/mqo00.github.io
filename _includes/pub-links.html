@@ -1,0 +1,14 @@
+{%- comment -%} Link buttons (+ media coverage) for one publication: include.pub {%- endcomment -%}
+{%- assign _pub = include.pub -%}
+{%- if _pub.links or _pub.media -%}
+<div class="pub-links">
+  {%- for _l in _pub.links -%}
+    <a class="pub-link" href="{{ _l.url }}">{{ _l.name }}</a>
+  {%- endfor -%}
+  {%- if _pub.media -%}
+    <span class="pub-media">{% if page.lang == 'zh' %}媒体报道{% else %}Media{% endif %}:
+    {%- for _m in _pub.media %} <a href="{{ _m.url }}">{{ _m.name }}</a>{% unless forloop.last %},{% endunless %}{%- endfor -%}
+    </span>
+  {%- endif -%}
+</div>
+{%- endif -%}

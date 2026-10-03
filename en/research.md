@@ -4,50 +4,31 @@ title: Research
 show_title: true
 lang: en
 key: research
+lightbox: true
 ---
 
-<!-- temporary solution, switch to https://jekyll-themes.com/alshedivat/al-folio in the future -->
+<div class="research-overview">
+  <div class="research-overview__text">
+    <p>The big question for my research is: <b>how should we best prepare humans for the AI era?</b> To this end, I <i>design, build, and evaluate</i> LLM applications to foster <b>AI literacy</b>, optimize <b>human–AI task delegation</b>, and support effective <b>human–AI workflows</b>, especially in <i>programming and computing education</i>. I conduct <i>mixed-methods research</i> to investigate how people collaborate and learn with AI systems, and design systems and frameworks to support training and evaluation of effective human–AI teams. I frame my work around the key research questions of <b><i>what to teach</i></b>, <b><i>how to teach</i></b>, and <b><i>how to evaluate</i></b>.</p>
+    <p>Jump to: <a href="about#projects">Selected Projects</a> · <a href="#publications">Publications</a> · <a href="#talks">Invited Talks</a> </p>
+  </div>
+  <div class="research-overview__fig">
+    <img class="lightbox-ignore" src="/assets/images/research-overview.png" alt="Overview of my research: what to teach (pAIr, DSPM), how to teach (HypoCompass, ROPE, ImaginAItion), and how to evaluate (SPHERE, RECAP)">
+  </div>
+</div>
 
-My research aims to help humans adapt and thrive in AI-infused development environments.
-I conduct mixed-methods research to design, build, and evaluate human-centered AI systems to train humans to program effectively with LLMs. My work bridges AI, HCI, and CS education, and benefits populations including students, end-users, and developers. 
-My work has been published across top research venues such as AIED, TOCHI, and ACL, and has been recognized with distinctions including
-**Best Paper at AIED**. Full publications at: 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=3EAMFQIAAAAJ&hl=en)
+## Publications {#publications}
 
-## In Submission
-**Qianou Ma**, Ken Koedinger, and Tongshuang Wu. [Not Everyone Wins with LLMs: Behavioral Patterns and Pedagogical Implications in AI‑assisted Data Analysis.](http://arxiv.org/abs/2509.21890) In Submission, 2025.
+<p class="theme-desc">* equal contribution　† mentoring　· See also <a href="https://scholar.google.com/citations?user=3EAMFQIAAAAJ&hl=en">Google Scholar</a>.</p>
 
-**Qianou Ma**, Megan Chai, Yike Tan, Jihun Choi, Jini Kim, Erik Harpstead, Geoff Kauffman, and Tongshuang Wu. [From Prompts to Reflection: Designing Reflective Play for GenAI Literacy.](http://arxiv.org/abs/2509.13679) In Submission, 2025.
+<div>
+{% include publications.html %}
+</div>
 
-Chenyang Yang, Yike Shi, **Qianou Ma**, Michael Xieyang Liu, Christian Kästner, and Tongshuang Wu. [What Prompts Don’t Say:
-Understanding and Managing Underspecification in LLM Prompts.](https://arxiv.org/abs/2505.13360) In Submission, 2025.
+## Invited Talks {#talks}
 
-## Conference & Journal Publications
-
-**Qianou Ma**, Weirui Peng, Chenyang Yang, Hua Shen, Kenneth Koedinger, and Tongshuang Wu. [What Should We Engineer in Prompts? Training Humans in Requirement-Driven LLM Use.](https://arxiv.org/abs/2409.08775) In Transactions on Computer‑Human Interaction (TOCHI), 2025. Media coverage: [SCS News](https://www.cs.cmu.edu/news/2025/prompt-training).
-
-**Qianou Ma**\*, Dora Zhao\*, Xinran Zhao, Chenglei Si, Chenyang Yang, Ryan Louie, Ehud Reiter, Diyi Yang$$ ^\dagger $$, and Tongshuang Wu$$^\dagger$$.
-[SPHERE: An Evaluation Card for Human-AI Systems.](https://sphere-eval.github.io/) In ACL Findings, 2025. *\*Co-first authors. $$^\dagger$$Co-last authors.*
-
-**Qianou Ma**, Hua Shen, Kenneth Koedinger, and Tongshuang Wu. [How to Teach Programming in the AI Era? Using LLMs as a Teachable
-Agent for Debugging.](https://arxiv.org/abs/2310.05292) In International Conference on Artificial Intelligence in Education. Springer, 2024. 🏆 **Best Paper**. Media coverage: [The Link](https://magazine.cs.cmu.edu/promoting-critical-thinking-in-ai-education-models#:~:text=Award).
-
-Atharva Naik, Jessica Ruhan Yin, Anusha Kamath, **Qianou Ma**, Sherry Tongshuang Wu, Charles Murray, Christopher Bogart, Majd Sakr, and Carolyn P. Rose. [Generating Situated Reflection Triggers About Alternative Solution Paths: A Case Study in Generative AI for Computer‑
-Supported Collaborative Learning.](https://arxiv.org/abs/2404.18262) In International Conference on Artificial Intelligence in Education. Springer, 2024. 🏆 **Best Paper Nominee.**
-
-
-## Workshop & Poster Publications
-
-
-**Qianou Ma**\*, Yann Hicke\*, Anmol Agarwal\*, and Paul Denny. [AI‑TA: Towards an Intelligent Question‑Answer Teaching Assistant using Open‑
-Source LLMs.](http://arxiv.org/abs/2311.02775) In Proceedings of the Workshop on Generative AI for Education (GAIED) ‑ co‑located with 37th Conference on Neural Information
-Processing Systems (NeurIPS 2023), 2023. *\*Equal contribution.*
-
-**Qianou Ma**, Tongshuang Wu, and Kenneth Koedinger. [Is AI the better programming partner? Human‑Human Pair Programming vs.
-Human‑Al pAIr Programming.](https://arxiv.org/abs/2306.05153) In Proceedings of the Workshop on Empowering Education with LLMs ‑ the Next‑Gen Interface and Content Gen‑
-eration 2023 co‑located with 24th International Conference on Artificial Intelligence in Education (AIED 2023), pages 64–77, 2023.
-
-**Qianou Ma**, Anika Jain\*, Jini Kim\*, Megan Chai\*, and Geoff Kauffman. [ImaginAItion: Promoting Generative AI Literacy Through Game‑Based Learning.](https://doi.org/10.1145/3706599.3719844) In CHI EA’25: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 2025. *\*Equal contribution.*
-
-Aysa Xuemo Fan, Rully Agus Hendrawan, Yang Shi, and **Qianou Ma**. [Enhancing Code Tracing Question Generation with Refined Prompts
-in Large Language Models.](https://dl.acm.org/doi/abs/10.1145/3626253.3635624) SIGCSE TS 2024 (55th ACM Technical Symposium on Computer Science Education), 2024.
+<ul class="talks">
+{%- for t in site.data.talks -%}
+  <li><span class="talks__when">{{ t.when }}</span><span><b>{{ t.title }}</b><br><span class="talks__where">{{ t.where }}</span></span></li>
+{%- endfor -%}
+</ul>

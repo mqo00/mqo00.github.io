@@ -1,0 +1,40 @@
+{%- comment -%}
+  Opening animation for the About page: the flocks gif fills the screen, then fades
+  into the page. Plays only when arriving from the root URL (index.html redirects
+  here with ?intro); direct links and in-site navigation skip it. Click/scroll/key
+  skips it; skipped entirely for prefers-reduced-motion.
+{%- endcomment -%}
+<div class="intro js-intro" aria-hidden="true" hidden>
+  <div class="intro__content">
+    <h2>Qianou (Christina) Ma | 马千鸥</h2>
+    <i>Know yourself. 认识你自己。</i>
+  </div>
+</div>
+<script>
+(function () {
+  var el = document.querySelector('.js-intro');
+  if (!el) return;
+  var fromRoot = /(^|[?&])intro(=|&|$)/.test(location.search.slice(1));
+  if (fromRoot && window.history && history.replaceState) {
+    // drop the marker so reloads, shares, and back-navigation don't replay it
+    history.replaceState(null, '', location.pathname + location.hash);
+  }
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (!fromRoot || reduce) { el.parentNode.removeChild(el); return; }
+
+  el.hidden = false;
+  document.documentElement.classList.add('intro-active');
+  var done = false;
+  function hide() {
+    if (done) return;
+    done = true;
+    el.classList.add('intro--out');
+    document.documentElement.classList.remove('intro-active');
+    setTimeout(function () { el.parentNode && el.parentNode.removeChild(el); }, 1000);
+  }
+  setTimeout(hide, 2800);
+  ['click', 'keydown', 'wheel', 'touchstart'].forEach(function (ev) {
+    window.addEventListener(ev, hide, { once: true, passive: true });
+  });
+})();
+</script>
