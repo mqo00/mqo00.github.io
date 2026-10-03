@@ -1,0 +1,267 @@
+# Single source of truth for the publication list (rendered by _includes/publications.html)
+# and the selected-project cards (_data/projects.yml refers to entries here by `id`).
+# - "Qianou Ma" is bolded automatically in `authors`. * = equal contribution, † = mentoring.
+# - `type`: preprint | conference | workshop
+# - `badge`: short venue label shown as a tag; `award`: optional highlight tag(s).
+
+- id: expertise-trust
+  type: preprint
+  title: "Impact of Expertise and Trust on AI-Assisted Work"
+  authors: "Qianou Ma, Pranav Khape, Rock Pang, Ken Koedinger, Tongshuang Wu, Siddarth Suri, and Shamsi Iqbal"
+  venue: "Manuscript under review"
+  badge: "In Submission"
+  year: 2026
+
+- id: delegation
+  type: preprint
+  title: "The Work Behind Delegation: A Framework for Supervising AI Coding Agents"
+  authors: "Yeon Su Park, Nadia Arvi, Hae Ri Lee, Sehoon Lim, Qianou Ma†, and Juho Kim"
+  venue: "Manuscript under review"
+  badge: "In Submission"
+  year: 2026
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2609.24234" }
+
+- id: tta-hai
+  type: preprint
+  title: "Efficient Test-Time Adaptation through Human-AI Interaction"
+  authors: "Zora Zhiruo Wang, Apurva Gandhi, Rulin Shao, Aspen Chen, Jonas Mueller, Zhiqi Liang, Jett Chen, Michael Ryan, Qianou Ma, Luxi He, Zhoujun Cheng, Andre He, Seungone Kim, Jiayi Geng, Mingqian Zheng, Weiwei Sun, Zheyuan Zhang, Xinran Zhao, Yike Wang, Abe Hou, Liwei Jiang, Pang Wei Koh, Diyi Yang, Graham Neubig, and Daniel Fried"
+  venue: "ArXiv"
+  badge: "In Submission"
+  year: 2026
+  note: "Accepted to the NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents."
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2609.04141" }
+
+- id: verbal-feedback
+  type: preprint
+  title: "Reinforcing Human Behavior Simulation via Verbal Feedback"
+  authors: "Weiwei Sun, Xuhui Zhou, Jiarui Liu, Weihua Du, Haojia Sun, Yiqing Xie, Qianou Ma, Sihao Chen, Mengting Wan, Longqi Yang, Pei Zhou, Sherry Tongshuang Wu, Sean Welleck, Graham Neubig, Yiming Yang, and Maarten Sap"
+  venue: "Manuscript under review"
+  badge: "In Submission"
+  year: 2026
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2605.20506" }
+
+- id: odyssim
+  type: conference
+  title: "OdysSim: Building Foundation Models for Human Behavior Simulation"
+  authors: "Xuhui Zhou*, Weiwei Sun*, Weihua Du, Jiarui Liu, Haojia Sun, Qianou Ma, Tongshuang Wu, Yiming Yang, and Maarten Sap"
+  venue: "Conference on Neural Information Processing Systems (NeurIPS), to appear"
+  badge: "NeurIPS '26"
+  year: 2026
+  note: "*Equal contribution."
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2606.14199" }
+    - { name: Code, url: "https://github.com/sunnweiwei/OdysSim" }
+
+- id: sim2real
+  type: conference
+  title: "Mind the Sim2Real Gap in User Simulation for Agentic Tasks"
+  authors: "Xuhui Zhou*, Weiwei Sun*, Qianou Ma, Yiqing Xie, Jiarui Liu, Weihua Du, Sean Welleck, Yiming Yang, Graham Neubig, Sherry Tongshuang Wu, and Maarten Sap"
+  venue: "Conference on Language Modeling (COLM), to appear"
+  badge: "COLM '26"
+  year: 2026
+  note: "*Equal contribution."
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2603.11245" }
+
+- id: imaginaition
+  type: conference
+  title: "“GenAI Defaults to Bias!” Gamify AI Literacy through Reflections on Prompts"
+  authors: "Qianou Ma, Megan Chai, Yike Tan, Jihun Choi, Jini Kim, Erik Harpstead, Geoff Kauffman, and Tongshuang Wu"
+  venue: "International Conference on Artificial Intelligence in Education (AIED)"
+  badge: "AIED '26"
+  year: 2026
+  links:
+    - { name: Paper, url: "https://doi.org/10.1007/978-3-032-29763-1_7" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2509.13679" }
+    - { name: Code, url: "https://github.com/mqo00/ImaginAItion" }
+    - { name: Demo, url: "https://youtu.be/lwJjuG_eiyc" }
+
+- id: recap
+  type: conference
+  title: "RECAP: An End-to-End Platform for Capturing, Replaying, and Analyzing AI-Assisted Programming Interactions"
+  authors: "Keyu He*, Qianou Ma*†, Valerie Chen, Wayne Chi, and Tongshuang Wu"
+  venue: "Annual Meeting of the Association for Computational Linguistics (ACL): System Demonstrations"
+  badge: "ACL Demo '26"
+  year: 2026
+  note: "*Equal contribution."
+  links:
+    - { name: Paper, url: "https://aclanthology.org/2026.acl-demo.68/" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2605.01104" }
+    - { name: Code, url: "https://github.com/Keyu-He/RECAP_Copilot-Interaction-Archiver" }
+    - { name: Demo, url: "https://www.youtube.com/playlist?list=PLkTxDosSc5HnD1cxi0e_aGRvPZx4ZCfdv" }
+    - { name: Website, url: "https://keyu-he.github.io/promptability.github.io/" }
+
+- id: dspm
+  type: conference
+  title: "Not Everyone Wins with LLMs: Behavioral Patterns and Pedagogical Implications for AI Literacy in Programmatic Data Science"
+  authors: "Qianou Ma, Ken Koedinger, and Tongshuang Wu"
+  venue: "ACM CHI Conference on Human Factors in Computing Systems (CHI)"
+  badge: "CHI '26"
+  year: 2026
+  links:
+    - { name: Paper, url: "https://dl.acm.org/doi/10.1145/3772318.3791283" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2509.21890" }
+    - { name: Code, url: "https://github.com/mqo00/dspm" }
+
+- id: underspec
+  type: conference
+  title: "What Prompts Don’t Say: Understanding and Managing Underspecification in LLM Prompts"
+  authors: "Chenyang Yang, Yike Shi, Qianou Ma, Michael Xieyang Liu, Christian Kästner, and Tongshuang Wu"
+  venue: "Findings of the Association for Computational Linguistics (ACL Findings)"
+  badge: "ACL Findings '26"
+  year: 2026
+  links:
+    - { name: Paper, url: "https://aclanthology.org/2026.findings-acl.441/" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2505.13360" }
+    - { name: Code, url: "https://github.com/malusamayo/underspec-analysis" }
+
+- id: rope
+  type: conference
+  title: "What Should We Engineer in Prompts? Training Humans in Requirement-Driven LLM Use"
+  authors: "Qianou Ma, Weirui Peng, Chenyang Yang, Hua Shen, Kenneth Koedinger, and Tongshuang Wu"
+  venue: "ACM Transactions on Computer-Human Interaction (TOCHI)"
+  badge: "TOCHI '25"
+  year: 2025
+  note: "Presented at CHI '26."
+  links:
+    - { name: Paper, url: "https://dl.acm.org/doi/10.1145/3731756" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2409.08775" }
+    - { name: Code, url: "https://github.com/mqo00/rope" }
+    - { name: Demo, url: "https://youtu.be/oJq2DYvw8l0" }
+  media:
+    - { name: SCS News, url: "https://www.cs.cmu.edu/news/2025/prompt-training" }
+    - { name: The New York Times, url: "https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html?unlocked_article_code=1.0k8.PiUE.Rotivebto9zN&smid=url-share" }
+
+- id: sphere
+  type: conference
+  title: "SPHERE: An Evaluation Card for Human-AI Systems"
+  authors: "Dora Zhao*, Qianou Ma*, Xinran Zhao, Chenglei Si, Chenyang Yang, Ryan Louie, Ehud Reiter, Diyi Yang, and Tongshuang Wu"
+  venue: "Findings of the Association for Computational Linguistics (ACL Findings)"
+  badge: "ACL Findings '25"
+  year: 2025
+  note: "*Co-first authors."
+  links:
+    - { name: Paper, url: "https://aclanthology.org/2025.findings-acl.70/" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2504.07971" }
+    - { name: Website, url: "https://sphere-eval.github.io/" }
+  media:
+    - { name: MIT Media Lab, url: "https://www.media.mit.edu/projects/report-benchmarks-for-human-flourishing-with-ai/overview/" }
+    - { name: Building Humane Technology, url: "https://open.substack.com/pub/humanetech/p/the-measurement-problem-we-cant-ignore" }
+
+- id: hypocompass
+  type: conference
+  title: "How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent for Debugging"
+  authors: "Qianou Ma, Hua Shen, Kenneth Koedinger, and Tongshuang Wu"
+  venue: "International Conference on Artificial Intelligence in Education (AIED)"
+  badge: "AIED '24"
+  year: 2024
+  award: ["Best Paper", "Best Interactive Event"]
+  note: "Invited presentations at IJCAI '25 and CSCL '25."
+  links:
+    - { name: Paper, url: "https://doi.org/10.1007/978-3-031-64302-6_19" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2310.05292" }
+    - { name: Code, url: "https://github.com/mqo00/hypocompass" }
+    - { name: Demo, url: "https://youtu.be/K0CkQjxbBSQ" }
+  media:
+    - { name: The Link, url: "https://magazine.cs.cmu.edu/promoting-critical-thinking-in-ai-education-models" }
+    - { name: The New York Times, url: "https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html?unlocked_article_code=1.0k8.PiUE.Rotivebto9zN&smid=url-share" }
+
+- id: reflection-triggers
+  type: conference
+  title: "Generating Situated Reflection Triggers About Alternative Solution Paths: A Case Study in Generative AI for Computer-Supported Collaborative Learning"
+  authors: "Atharva Naik, Jessica Ruhan Yin, Anusha Kamath, Qianou Ma†, Sherry Tongshuang Wu, Charles Murray, Christopher Bogart, Majd Sakr, and Carolyn P. Rosé"
+  venue: "International Conference on Artificial Intelligence in Education (AIED)"
+  badge: "AIED '24"
+  year: 2024
+  award: ["Best Paper Nominee"]
+  links:
+    - { name: Paper, url: "https://link.springer.com/chapter/10.1007/978-3-031-64302-6_4" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2404.18262" }
+
+- id: bjet
+  type: conference
+  title: "Providing Tailored Reflection Instructions in Collaborative Learning Using Large Language Models"
+  authors: "Atharva Naik, Jessica Ruhan Yin, Anusha Kamath, Qianou Ma†, Sherry Tongshuang Wu, R. Charles Murray, Christopher Bogart, Majd Sakr, and Carolyn P. Rosé"
+  venue: "British Journal of Educational Technology (BJET)"
+  badge: "BJET '24"
+  year: 2024
+  links:
+    - { name: Paper, url: "https://doi.org/10.1111/bjet.13548" }
+
+- id: dc-chi
+  type: workshop
+  title: "Training for the Future: Preparing Humans for Effective Human–AI Programming"
+  authors: "Qianou Ma"
+  venue: "CHI EA '26: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Doctoral Consortium)"
+  badge: "CHI '26 DC"
+  year: 2026
+  links:
+    - { name: Paper, url: "https://doi.org/10.1145/3772363.3799213" }
+
+- id: calculus
+  type: workshop
+  title: "What Calculus Should We Teach in the Age of AI? Identifying and Improving Higher-Order Thinking in College Math"
+  authors: "Qianou Ma, Sherry Tongshuang Wu, and Kenneth R. Koedinger"
+  venue: "Artificial Intelligence in Education (AIED) Doctoral Consortium"
+  badge: "AIED '26 DC"
+  year: 2026
+  links:
+    - { name: Paper, url: "https://doi.org/10.1007/978-3-032-29794-5_44" }
+
+- id: ailit4all
+  type: workshop
+  title: "AI Literacy For All: 2nd International Workshop on AI Literacy Education For All"
+  authors: "Ruiwei Xiao, Shan Zhang, Xinying Hou, Ying-Jui Tseng, Qianou Ma, Yash Tadimalla, Qing Xiao, Jionghao Lin, Bo Jiang, John Stamper, and Kenneth R. Koedinger"
+  venue: "Artificial Intelligence in Education (AIED) Workshops"
+  badge: "AIED '26 Workshop"
+  year: 2026
+  links:
+    - { name: Website, url: "https://sites.google.com/view/ai-literacy-for-all-2026/home" }
+    - { name: Paper, url: "https://doi.org/10.1007/978-3-032-29794-5_8" }
+
+- id: imaginaition-chi
+  type: workshop
+  title: "ImaginAItion: Promoting Generative AI Literacy Through Game-Based Learning"
+  authors: "Qianou Ma†, Anika Jain*, Jini Kim*, Megan Chai*, and Geoff Kauffman"
+  venue: "CHI EA '25: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
+  badge: "CHI EA '25"
+  year: 2025
+  note: "*Equal contribution."
+  links:
+    - { name: Paper, url: "https://doi.org/10.1145/3706599.3719844" }
+
+- id: code-tracing
+  type: workshop
+  title: "Enhancing Code Tracing Question Generation with Refined Prompts in Large Language Models"
+  authors: "Aysa Xuemo Fan, Rully Agus Hendrawan, Yang Shi, and Qianou Ma†"
+  venue: "ACM Technical Symposium on Computer Science Education (SIGCSE TS)"
+  badge: "SIGCSE '24"
+  year: 2024
+  links:
+    - { name: Paper, url: "https://dl.acm.org/doi/abs/10.1145/3626253.3635624" }
+
+- id: ai-ta
+  type: workshop
+  title: "AI-TA: Towards an Intelligent Question-Answer Teaching Assistant using Open-Source LLMs"
+  authors: "Yann Hicke*, Anmol Agarwal*, Qianou Ma*†, and Paul Denny"
+  venue: "Workshop on Generative AI for Education (GAIED) @ NeurIPS"
+  badge: "NeurIPS '23 Workshop"
+  year: 2023
+  note: "*Equal contribution."
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2311.02775" }
+
+- id: pair
+  type: workshop
+  title: "Is AI the Better Programming Partner? Human-Human Pair Programming vs. Human-AI pAIr Programming"
+  authors: "Qianou Ma, Tongshuang Wu, and Kenneth Koedinger"
+  venue: "Workshop on Empowering Education with LLMs @ AIED"
+  badge: "AIED '23 Workshop"
+  year: 2023
+  note: "Presented at ICER '23."
+  links:
+    - { name: Paper, url: "https://ceur-ws.org/Vol-3487/paper3.pdf" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2306.05153" }

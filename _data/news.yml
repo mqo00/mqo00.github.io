@@ -1,0 +1,127 @@
+# News items for the About page, newest first (upcoming items on top), written in
+# first person. Dates are month + year; conference items use the conference month.
+# `upcoming: true` adds an "Upcoming" tag. The first `show` items (set where
+# _includes/news.html is included) are always visible; the rest fold away.
+
+- date: { en: "Jun 2027", zh: "2027年6月" }
+  upcoming: true
+  en: "I will be serving as Publicity Chair for the <a href=\"https://haic.cc/#/home\">Human–AI Interaction Conference (HAIC) 2027</a> in Washington, DC."
+  zh: "我将担任在华盛顿特区举办的<a href=\"https://haic.cc/#/home\">人机交互会议（HAIC）2027</a>宣传主席。"
+
+- date: { en: "Dec 2026", zh: "2026年12月" }
+  upcoming: true
+  en: "Our paper <a href=\"https://arxiv.org/abs/2606.14199\">OdysSim</a> will appear at NeurIPS 2026 in Sydney."
+  zh: "我们的论文 <a href=\"https://arxiv.org/abs/2606.14199\">OdysSim</a> 将在悉尼 NeurIPS 2026 上发表。"
+
+- date: { en: "Oct 2026", zh: "2026年10月" }
+  upcoming: true
+  en: "Our paper <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap in User Simulation for Agentic Tasks</a> will appear at COLM 2026 in San Francisco."
+  zh: "我们的论文 <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap in User Simulation for Agentic Tasks</a> 将在旧金山 COLM 2026 上发表。"
+
+- date: { en: "Sep 2026", zh: "2026年9月" }
+  en: "I was named a 2026 Fellow on AI &amp; Society by CMU’s Block Center for Technology and Society."
+  zh: "我入选CMU Block技术与社会中心 2026 年“AI与社会”研究员。"
+
+- date: { en: "Jul 2026", zh: "2026年7月" }
+  en: "Presented my work <a href=\"https://doi.org/10.1007/978-3-032-29763-1_7\">“GenAI Defaults to Bias!”</a> and my doctoral consortium project on <a href=\"https://doi.org/10.1007/978-3-032-29794-5_44\">what calculus we should teach in the age of AI</a> at the Festival of Learning (AIED 2026) in Seoul. I also co-organized the <a href=\"https://sites.google.com/view/ai-literacy-for-all-2026/home\">Workshop on AI Literacy Education for All</a>."
+  zh: "在首尔的学习节（AIED 2026）上发表了我的论文 <a href=\"https://doi.org/10.1007/978-3-032-29763-1_7\">“GenAI Defaults to Bias!”</a>，并在博士生论坛分享了<a href=\"https://doi.org/10.1007/978-3-032-29794-5_44\">AI时代应该教什么微积分</a>的研究；我还联合组织了<a href=\"https://sites.google.com/view/ai-literacy-for-all-2026/home\">“全民AI素养教育”研讨会</a>。"
+
+- date: { en: "Jul 2026", zh: "2026年7月" }
+  en: "Two papers accepted to ACL 2026: <a href=\"https://aclanthology.org/2026.acl-demo.68/\">RECAP</a> (Demos) and <a href=\"https://aclanthology.org/2026.findings-acl.441/\">What Prompts Don’t Say</a> (Findings)."
+  zh: "两篇论文被 ACL 2026 接收：<a href=\"https://aclanthology.org/2026.acl-demo.68/\">RECAP</a>（系统演示）与 <a href=\"https://aclanthology.org/2026.findings-acl.441/\">What Prompts Don’t Say</a>（Findings）。"
+
+- date: { en: "Jul 2026", zh: "2026年7月" }
+  en: "Gave an invited talk on <i>What to Teach and How to Teach Programming in the AI Era</i> at UW."
+  zh: "受邀在华盛顿大学作报告：<i>AI时代编程该教什么、怎么教</i>。"
+
+- date: { en: "Jun 2026", zh: "2026年6月" }
+  en: "Gave an invited talk at HKUST (Guangzhou)."
+  zh: "受邀在香港科技大学（广州）作报告。"
+
+- date: { en: "May 2026", zh: "2026年5月" }
+  en: "Started as an Applied Science Intern at <b>Microsoft</b> in Redmond, working with Shamsi Iqbal, Siddarth Suri, and Pranav Khape on how expertise and trust shape AI-assisted work."
+  zh: "开始在雷德蒙德的<b>微软</b>担任暑期应用科学实习生，与 Shamsi Iqbal、Siddarth Suri 和 Pranav Khape 合作，研究专业水平与信任如何影响AI辅助工作。"
+
+- date: { en: "May 2026", zh: "2026年5月" }
+  en: "Gave an invited talk on <i>What to Teach and How to Teach Programming in the AI Era</i> at UIUC."
+  zh: "受邀在UIUC作报告：<i>AI时代编程该教什么、怎么教</i>。"
+
+- date: { en: "Apr 2026", zh: "2026年4月" }
+  en: "Presented my work <a href=\"https://dl.acm.org/doi/10.1145/3772318.3791283\">Not Everyone Wins with LLMs</a>, <a href=\"https://dl.acm.org/doi/10.1145/3731756\">ROPE</a> (TOCHI), and my doctoral consortium project <a href=\"https://doi.org/10.1145/3772363.3799213\">Training for the Future</a> at CHI 2026 in Barcelona! I also spoke on a panel at the Human-Agent Collaboration workshop and served as a student volunteer."
+  zh: "在巴塞罗那 CHI 2026 上发表了我的论文 <a href=\"https://dl.acm.org/doi/10.1145/3772318.3791283\">Not Everyone Wins with LLMs</a>、<a href=\"https://dl.acm.org/doi/10.1145/3731756\">ROPE</a>（TOCHI），以及博士生论坛项目 <a href=\"https://doi.org/10.1145/3772363.3799213\">Training for the Future</a>！我还在人-智能体协作研讨会上担任嘉宾，并做了学生志愿者。"
+
+- date: { en: "Apr 2026", zh: "2026年4月" }
+  en: "Gave invited talks at UChicago, UCI, UCSD, UC Berkeley, and Stanford."
+  zh: "受邀在芝加哥大学、UCI、UCSD、伯克利与斯坦福作报告：<i>AI时代编程该教什么、怎么教</i>。"
+
+- date: { en: "Mar 2026", zh: "2026年3月" }
+  en: "Gave invited talks at Columbia and University of Michigan."
+  zh: "受邀在哥伦比亚大学与密歇根大学作报告：<i>AI时代编程该教什么、怎么教</i>。"
+
+- date: { en: "Feb 2026", zh: "2026年2月" }
+  en: "Gave invited talks on <i>What to Teach and How to Teach Programming in the AI Era</i> at University of Pennsylvania and Cornell."
+  zh: "受邀在宾夕法尼亚大学与康奈尔大学作报告：<i>AI时代编程该教什么、怎么教</i>。"
+
+- date: { en: "Jan 2026", zh: "2026年1月" }
+  en: "Our proposal <i>What Calculus Should We Teach in the Age of AI?</i> received a $140K LearnVia seed grant. I’m a Co-PI and led the proposal writing."
+  zh: "我们的项目<i>“AI时代应该教什么微积分？”</i>获得 LearnVia 14万美元种子基金，我担任联合PI并主笔了申请书。"
+
+- date: { en: "Dec 2025", zh: "2025年12月" }
+  en: "Gave invited talks on <i>Training Future-Proof Developers</i> at HKU, HKUST, and ECNU."
+  zh: "在港大、港科大和华东师大作报告：<i>培养面向未来的开发者</i>。"
+
+- date: { en: "Dec 2025", zh: "2025年12月" }
+  en: "Gave a keynote on workforce preparation for AI literacy at Plug and Play Tech Center, and an invited talk at Pitt on training non-experts to use LLMs for programmatic data science."
+  zh: "在 Plug and Play 科技中心作关于职场AI素养的主题演讲，并受邀在匹兹堡大学作报告，分享如何训练非专家使用大模型进行编程式数据科学。"
+
+- date: { en: "Nov 2025", zh: "2025年11月" }
+  en: "Our work on HypoCompass and ROPE was featured in <a href=\"https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html?unlocked_article_code=1.0k8.PiUE.Rotivebto9zN&smid=url-share\">The New York Times</a>."
+  zh: "我们关于 HypoCompass 与 ROPE 的研究被<a href=\"https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html?unlocked_article_code=1.0k8.PiUE.Rotivebto9zN&smid=url-share\">《纽约时报》</a>报道。"
+
+- date: { en: "Oct 2025", zh: "2025年10月" }
+  en: "Joined the MIT Media Lab’s <a href=\"https://www.media.mit.edu/projects/report-benchmarks-for-human-flourishing-with-ai/overview/\">Benchmarks for Human Flourishing with AI</a> workshop in Boston as an invited expert."
+  zh: "作为受邀专家参加了在波士顿举办的 MIT 媒体实验室<a href=\"https://www.media.mit.edu/projects/report-benchmarks-for-human-flourishing-with-ai/overview/\">“AI与人类福祉评测基准”</a>研讨会。"
+
+- date: { en: "Oct 2025", zh: "2025年10月" }
+  en: "Gave an invited talk at the Mila HCAI seminar on <i>Training Requirement-Driven LLM Use for Prompt Programming</i>."
+  zh: "受邀在 Mila HCAI 研讨会作报告：<i>面向提示编程的需求驱动大模型使用训练</i>。"
+
+- date: { en: "Sep 2025", zh: "2025年9月" }
+  en: "My advisors received a $75K Google gift fund for evaluating LLMs’ pedagogical implementations in real AI tutoring. I’m the lead PhD researcher on the project."
+  zh: "我的导师获得谷歌 7.5 万美元资助，用于评估大模型在真实AI辅导中的教学表现；我是该项目的主导博士研究员。"
+
+- date: { en: "Aug 2025", zh: "2025年8月" }
+  en: "Gave an invited best-paper presentation of <a href=\"https://doi.org/10.1007/978-3-031-64302-6_19\">HypoCompass</a> at the IJCAI 2025 Sister Conferences track in Montreal."
+  zh: "受邀在蒙特利尔 IJCAI 2025 姊妹会议最佳论文专场报告 <a href=\"https://doi.org/10.1007/978-3-031-64302-6_19\">HypoCompass</a>。"
+
+- date: { en: "Jul 2025", zh: "2025年7月" }
+  en: "Presented <a href=\"https://aclanthology.org/2025.findings-acl.70/\">SPHERE</a>, our evaluation card for human–AI systems, at ACL 2025 in Vienna."
+  zh: "在维也纳 ACL 2025 上展示了我们的人机系统评估卡片 <a href=\"https://aclanthology.org/2025.findings-acl.70/\">SPHERE</a>。"
+
+- date: { en: "Jul 2025", zh: "2025年7月" }
+  en: "Gave an invited talk at Bloomberg on training non-experts to use LLMs for programmatic data science."
+  zh: "受邀在彭博（Bloomberg）作报告，分享如何训练非专家使用大模型进行编程式数据科学。"
+
+- date: { en: "Jun 2025", zh: "2025年6月" }
+  en: "Gave an invited best-paper presentation of <a href=\"https://doi.org/10.1007/978-3-031-64302-6_19\">HypoCompass</a> for the IAALDE network at CSCL/ISLS 2025 in Helsinki."
+  zh: "受邀在赫尔辛基 CSCL/ISLS 2025 的 IAALDE 网络最佳论文专场报告 <a href=\"https://doi.org/10.1007/978-3-031-64302-6_19\">HypoCompass</a>。"
+
+- date: { en: "Apr 2025", zh: "2025年4月" }
+  en: "We presented <a href=\"https://doi.org/10.1145/3706599.3719844\">ImaginAItion</a>, our GenAI literacy game, at CHI 2025 in Yokohama."
+  zh: "我们在横滨 CHI 2025 上展示了生成式AI素养游戏 <a href=\"https://doi.org/10.1145/3706599.3719844\">ImaginAItion</a>。"
+
+- date: { en: "Apr 2025", zh: "2025年4月" }
+  en: "<a href=\"https://dl.acm.org/doi/10.1145/3731756\">ROPE</a> was accepted to ACM TOCHI!"
+  zh: "<a href=\"https://dl.acm.org/doi/10.1145/3731756\">ROPE</a> 被 ACM TOCHI 接收！"
+
+- date: { en: "Nov 2024", zh: "2024年11月" }
+  en: "My advisors received a <a href=\"https://hcii.cmu.edu/news/scs-faculty-receive-google-academic-research-awards\">Google Academic Research Award</a> ($100K) for explicitly training humans toward human–AI collaboration. I helped write the proposal and am the lead PhD researcher on the project."
+  zh: "我的导师获得<a href=\"https://hcii.cmu.edu/news/scs-faculty-receive-google-academic-research-awards\">谷歌学术研究奖</a>（10万美元），支持“显式训练人类进行人机协作”的研究；我参与了申请书撰写，并担任该项目的主导博士研究员。"
+
+- date: { en: "Aug 2024", zh: "2024年8月" }
+  en: "Gave an invited talk at Google DeepMind on <i>Scaling Student Support: Online Question-Answering with LLM Tutors</i>."
+  zh: "受邀在 Google DeepMind 作报告：<i>规模化学生支持：基于大模型助教的在线答疑</i>。"
+
+- date: { en: "Jul 2024", zh: "2024年7月" }
+  en: "🏆 Traveled to Recife, Brazil for AIED 2024, where <a href=\"https://doi.org/10.1007/978-3-031-64302-6_19\">HypoCompass</a> won the <b>Best Paper</b> and <b>Best Interactive Event</b> awards!"
+  zh: "🏆 前往巴西累西腓参加 AIED 2024，<a href=\"https://doi.org/10.1007/978-3-031-64302-6_19\">HypoCompass</a> 荣获<b>最佳论文奖</b>与<b>最佳互动展示奖</b>！"

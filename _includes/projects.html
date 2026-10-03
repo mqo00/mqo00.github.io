@@ -1,0 +1,31 @@
+{%- comment -%} Compact selected-project cards from _data/projects.yml, grouped by research question. {%- endcomment -%}
+{%- assign _lang = page.lang | default: 'en' -%}
+{%- for _theme in site.data.projects -%}
+  <h3 class="theme-title" id="{{ _theme.key }}">{{ _theme.title[_lang] }}</h3>
+  {%- for _proj in _theme.projects -%}
+    {%- assign _pub = site.data.publications | where: "id", _proj.pub | first -%}
+    {%- assign _main = _pub.links | first -%}
+    {%- assign _authors = _proj.authors | default: _pub.authors -%}
+    <div class="project">
+      <div class="project__media">
+        <img src="{{ _proj.image }}" alt="{{ _proj.name }} figure" loading="lazy">
+      </div>
+      <div class="project__body">
+        <div class="project__title">
+          <a href="{{ _main.url }}">{{ _proj.name }}</a>
+          {% include pub-badges.html pub=_pub %}
+        </div>
+        <div class="project__authors">{{ _authors | replace: "Qianou Ma", "<b>Qianou Ma</b>" }}</div>
+        <p class="project__summary">{{ _proj.summary[_lang] }}</p>
+        {% include pub-links.html pub=_pub %}
+      </div>
+    </div>
+  {%- endfor -%}
+{%- endfor -%}
+<p class="see-all">
+  {%- if _lang == 'zh' -%}
+    <span class="see-all__legend">* 同等贡献　† 指导</span><a href="research#publications">查看全部论文 →</a>
+  {%- else -%}
+    <span class="see-all__legend">* equal contribution　† mentoring</span><a href="research#publications">See all publications →</a>
+  {%- endif -%}
+</p>

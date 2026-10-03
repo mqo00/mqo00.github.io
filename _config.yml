@@ -12,9 +12,11 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Christina Ma | 马千鸥
+title   : Qianou (Christina) Ma | 马千鸥
 description: > # this means to ignore newlines until "Language & timezone"
-  The personal website of Qianou (Christina) Ma
+  Qianou (Christina) Ma is a Ph.D. candidate at Carnegie Mellon University HCII
+  researching how to prepare humans for the AI era: human-AI interaction,
+  generative AI, and the learning sciences.
 
 
 ## => Language and Timezone
@@ -29,11 +31,11 @@ author:
   type      : # "person" (default), "organization"
   name      : Qianou Ma
   url       :
-  avatar    : /assets/images/CM-circle.png # path or url of avatar image (square)
-  bio       : Dreamer. Innovator. Explorer. Igniter.
+  avatar    : /assets/images/profile-qianou.jpg # path or url of avatar image (square)
+  bio       : Ph.D. Candidate, CMU HCII. Preparing humans for the AI era.
   email     : qianoum@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  twitter   : 1000seagull # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name

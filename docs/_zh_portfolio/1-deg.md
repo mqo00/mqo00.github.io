@@ -46,6 +46,6 @@ DEG的体验非常有趣且实用，我学到了很多游戏设计和研究的�
 [board games]: https://qianouma.medium.com/prototyping-playtesting-01-higher-order-historical-concepts-52c3d58bfb
 [game]: https://docs.google.com/document/d/1dwowf8ZdZaEbiPZzgbY28_H0yTDUXd22ls8gNtyX0dQ/edit?usp=sharing
 [honor thesis]: /en_research/1-honor.html
-[parent guide]: /assets/DEG_Parent_Dos_Don'ts.pdf
-[final writeup]: /assets/DEG_Final_Report.pdf
+[parent guide]: /assets/artifacts/DEG_Parent_Dos_Don'ts.pdf
+[final writeup]: /assets/artifacts/DEG_Final_Report.pdf
 [Tony Tao]: https://www.taotamago.com/howtobeagoodparent

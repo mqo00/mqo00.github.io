@@ -1,36 +1,22 @@
 ---
-layout: article
+layout: none
 key: home
-mode: immersive
-sharing: false
-show_title: false
-full_width: true
 lang: en
-header:
-  theme: dark
-article_header:
-  align: center
-  theme: dark
-  type: cover
-footer: false
+sitemap: false
 ---
-
-<!--more-->
-
-<style>
-  .page__header .header__brand path {
-    fill: rgba(255, 255, 255, .95);
-  }
-</style>
-
-<a href="{{ page.lang }}/about.html">
-  <div class="hero hero--center hero--dark" style='height: 100vh; 
-    background-image: url("/assets/images/flocks.gif");'>
-    
-    <div class="hero__content">
-      <h2>Christina Ma | 马千鸥</h2>
-      <i>Know yourself. 认识你自己。</i>
-    </div>
-
-  </div>
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description | strip }}">
+  <link rel="canonical" href="/en/about.html">
+  <meta http-equiv="refresh" content="0; url=/en/about.html">
+  <script>location.replace('/en/about.html?intro' + location.hash);</script>
+  <style>html, body { margin: 0; height: 100%; background: #111; }</style>
+</head>
+<body>
+  <noscript><p style="color:#fff;font-family:sans-serif;padding:2rem"><a style="color:#fff" href="/en/about.html">Continue to Qianou (Christina) Ma's homepage</a></p></noscript>
+</body>
+</html>

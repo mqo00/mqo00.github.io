@@ -1,0 +1,26 @@
+{%- comment -%} Full publication list from _data/publications.yml, grouped by type. {%- endcomment -%}
+{%- if page.lang == 'zh' -%}
+  {%- assign _sections = "preprint:预印本与投稿中|conference:会议与期刊论文|workshop:研讨会、海报与博士生论坛" | split: "|" -%}
+{%- else -%}
+  {%- assign _sections = "preprint:Preprints & In Submission|conference:Conference & Journal Papers|workshop:Workshops, Posters & Doctoral Consortia" | split: "|" -%}
+{%- endif -%}
+
+{%- for _s in _sections -%}
+  {%- assign _parts = _s | split: ":" -%}
+  {%- assign _pubs = site.data.publications | where: "type", _parts[0] -%}
+  <h3 class="pub-section">{{ _parts[1] }}</h3>
+  <ul class="pub-list">
+  {%- for _pub in _pubs -%}
+    {%- assign _main = _pub.links | first -%}
+    <li class="pub">
+      <div class="pub__badges">{% include pub-badges.html pub=_pub %}</div>
+      <div class="pub__title">
+        {%- if _main -%}<a href="{{ _main.url }}">{{ _pub.title }}</a>{%- else -%}{{ _pub.title }}{%- endif -%}
+      </div>
+      <div class="pub__authors">{{ _pub.authors | replace: "Qianou Ma", "<b>Qianou Ma</b>" }}</div>
+      <div class="pub__venue"><i>{{ _pub.venue }}</i>, {{ _pub.year }}.{% if _pub.note %} {{ _pub.note }}{% endif %}</div>
+      {% include pub-links.html pub=_pub %}
+    </li>
+  {%- endfor -%}
+  </ul>
+{%- endfor -%}
