@@ -32,7 +32,7 @@ lightbox: true
 </div>
 
 <div class="bio">
-<p>I'm Qianou (Christina) Ma, a Ph.D. candidate at Carnegie Mellon University's Human-Computer Interaction Institute, co-advised by <a href="https://hcii.cmu.edu/people/ken-koedinger">Dr. Ken Koedinger</a> and <a href="https://www.cs.cmu.edu/~sherryw/index.html">Dr. Sherry Tongshuang Wu</a>. I work at the intersection of human–AI interaction, generative AI, and the learning sciences.</p>
+<p>I am a Ph.D. candidate at Carnegie Mellon University's Human-Computer Interaction Institute, co-advised by <a href="https://hcii.cmu.edu/people/ken-koedinger">Dr. Ken Koedinger</a> and <a href="https://www.cs.cmu.edu/~sherryw/index.html">Dr. Sherry Tongshuang Wu</a>. I work at the intersection of human–AI interaction, generative AI, and the learning sciences.</p>
 
 <p>Large language models are redefining human work, yet people benefit from them unequally because of how they collaborate with AI and how human–AI systems are designed. In my Ph.D., I've been focused on programming, the frontier where LLMs are changing both what it means to program and who gets to do it. My research asks: <b>how could we enable everyone for the AI era?</b> Specifically, I ask:</p>
 

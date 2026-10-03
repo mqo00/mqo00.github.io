@@ -24,5 +24,6 @@ I’ve written more than **500,000** words, **80+** articles, and made **20+** v
 | `Scan the QR code if you have WeChat!` |
 | -- |
 |![](/assets/images/seagulls1000-scan.jpg)|
+
 [BFOB]: https://qianouma.medium.com/85219-biological-foundations-of-behavior-marlene-behrmann-5890c41d7296
-[here]: https://www.cmu.edu/dietrich/english/mlk/2019/ma-christina.html
+[here]: https://www.cmu.edu/mcs/news-events/2019/0109_MLK_Writing_Awards.html

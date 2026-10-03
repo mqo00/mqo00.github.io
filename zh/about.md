@@ -32,7 +32,7 @@ lightbox: true
 </div>
 
 <div class="bio">
-<p>你好！我是<b>马千鸥</b>，卡内基梅隆大学人机交互研究所的博士候选人，导师为 <a href="https://hcii.cmu.edu/people/ken-koedinger">Ken Koedinger 教授</a>和<a href="https://www.cs.cmu.edu/~sherryw/index.html">吴彤霜（Sherry Tongshuang Wu）教授</a>。我的研究位于人机交互、生成式AI与学习科学的交叉领域。</p>
+<p>你好！我是卡内基梅隆大学人机交互研究所的博士候选人，导师为 <a href="https://hcii.cmu.edu/people/ken-koedinger">Ken Koedinger 教授</a>和<a href="https://www.cs.cmu.edu/~sherryw/index.html">吴彤霜（Sherry Tongshuang Wu）教授</a>。我的研究位于人机交互、生成式AI与学习科学的交叉领域。</p>
 
 <p>大型语言模型正在重塑人类的工作方式，但由于人们与AI协作的方式不同、人机系统的设计不同，人们从中获益并不均等。读博期间，我一直专注于编程领域：在这一前沿，大模型正在改变“编程”的含义，也在改变谁能够编程。我的研究关注：<b>我们如何让每个人都为AI时代做好准备？</b>具体而言，我探讨：</p>
 
