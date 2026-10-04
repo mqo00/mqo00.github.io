@@ -24,7 +24,7 @@ I love outdoors and all sorts of (especially if slightly extreme) sporty activit
 
 ## Cooking
 
-I love, love cooking. I’m not bragging, but I’m such a foodie and good amateur cook (especially traditional Chinese cuisine, partly because as students who study abroad we have to cook ourselves if we want some legit Chinese food lol). Just to show you some good photos.
+I’m not bragging, but I’m a good amateur cook (especially Chinese cuisine, partly because as students who study abroad we have to cook ourselves if we want some legit Chinese food lol). Just to show you some good photos.
 
 | -- | -- | -- | -- |
 |![](/assets/images/food-1.jpg)|![](/assets/images/food-2.jpg)|![](/assets/images/food-3.jpg)|![](/assets/images/food-4.jpg)|

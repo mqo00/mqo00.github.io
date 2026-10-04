@@ -5,7 +5,7 @@
 
 - date: { en: "Jun 2027", zh: "2027年6月" }
   upcoming: true
-  en: "I will be serving as Publicity Chair for the <a href=\"https://haic.cc/#/home\">Human–AI Interaction Conference (HAIC) 2027</a> in Washington, DC."
+  en: "I will serve as Publicity Chair for the <a href=\"https://haic.cc/#/home\">Human–AI Interaction Conference</a> (Washington, DC)."
   zh: "我将担任在华盛顿特区举办的<a href=\"https://haic.cc/#/home\">人机交互会议（HAIC）2027</a>宣传主席。"
 
 - date: { en: "Dec 2026", zh: "2026年12月" }
@@ -15,12 +15,16 @@
 
 - date: { en: "Oct 2026", zh: "2026年10月" }
   upcoming: true
-  en: "Our paper <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap in User Simulation for Agentic Tasks</a> will appear at COLM 2026 in San Francisco."
-  zh: "我们的论文 <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap in User Simulation for Agentic Tasks</a> 将在旧金山 COLM 2026 上发表。"
+  en: "Our paper <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> will appear at COLM 2026 in San Francisco."
+  zh: "我们的论文 <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> 将在旧金山 COLM 2026 上发表。"
 
 - date: { en: "Sep 2026", zh: "2026年9月" }
   en: "I was named a 2026 Fellow on AI &amp; Society by CMU’s Block Center for Technology and Society."
   zh: "我入选CMU Block技术与社会中心 2026 年“AI与社会”研究员。"
+
+- date: { en: "Aug 2026", zh: "2026年8月" }
+  en: "Finished my Applied Science internship at <b>Microsoft</b> in Redmond, working with Shamsi Iqbal, Siddarth Suri, and Pranav Khape on how expertise and trust shape AI-assisted work."
+  zh: "在雷德蒙德的<b>微软</b>完成了暑期应用科学实习生的工作，与 Shamsi Iqbal、Siddarth Suri 和 Pranav Khape 合作，研究专业水平与信任如何影响AI辅助工作。"
 
 - date: { en: "Jul 2026", zh: "2026年7月" }
   en: "Presented my work <a href=\"https://doi.org/10.1007/978-3-032-29763-1_7\">“GenAI Defaults to Bias!”</a> and my doctoral consortium project on <a href=\"https://doi.org/10.1007/978-3-032-29794-5_44\">what calculus we should teach in the age of AI</a> at the Festival of Learning (AIED 2026) in Seoul. I also co-organized the <a href=\"https://sites.google.com/view/ai-literacy-for-all-2026/home\">Workshop on AI Literacy Education for All</a>."
@@ -37,10 +41,6 @@
 - date: { en: "Jun 2026", zh: "2026年6月" }
   en: "Gave an invited talk at HKUST (Guangzhou)."
   zh: "受邀在香港科技大学（广州）作报告。"
-
-- date: { en: "May 2026", zh: "2026年5月" }
-  en: "Started as an Applied Science Intern at <b>Microsoft</b> in Redmond, working with Shamsi Iqbal, Siddarth Suri, and Pranav Khape on how expertise and trust shape AI-assisted work."
-  zh: "开始在雷德蒙德的<b>微软</b>担任暑期应用科学实习生，与 Shamsi Iqbal、Siddarth Suri 和 Pranav Khape 合作，研究专业水平与信任如何影响AI辅助工作。"
 
 - date: { en: "May 2026", zh: "2026年5月" }
   en: "Gave an invited talk on <i>What to Teach and How to Teach Programming in the AI Era</i> at UIUC."
@@ -63,15 +63,15 @@
   zh: "受邀在宾夕法尼亚大学与康奈尔大学作报告：<i>AI时代编程该教什么、怎么教</i>。"
 
 - date: { en: "Jan 2026", zh: "2026年1月" }
-  en: "Our proposal <i>What Calculus Should We Teach in the Age of AI?</i> received a $140K LearnVia seed grant. I’m a Co-PI and led the proposal writing."
-  zh: "我们的项目<i>“AI时代应该教什么微积分？”</i>获得 LearnVia 14万美元种子基金，我担任联合PI并主笔了申请书。"
+  en: "Our proposal <i>What Calculus Should We Teach in the Age of AI?</i> received a $150K LearnVia seed grant. I’m a Co-PI and led the proposal writing."
+  zh: "我们的项目<i>“AI时代应该教什么微积分？”</i>获得 LearnVia 15万美元种子基金，我担任联合PI并主笔了申请书。"
 
 - date: { en: "Dec 2025", zh: "2025年12月" }
   en: "Gave invited talks on <i>Training Future-Proof Developers</i> at HKU, HKUST, and ECNU."
   zh: "在港大、港科大和华东师大作报告：<i>培养面向未来的开发者</i>。"
 
 - date: { en: "Dec 2025", zh: "2025年12月" }
-  en: "Gave a keynote on workforce preparation for AI literacy at Plug and Play Tech Center, and an invited talk at Pitt on training non-experts to use LLMs for programmatic data science."
+  en: "Gave a keynote on workforce preparation for AI literacy at Plug and Play Tech Center, and an invited talk at Pitt on training non-experts to use LLMs for data science."
   zh: "在 Plug and Play 科技中心作关于职场AI素养的主题演讲，并受邀在匹兹堡大学作报告，分享如何训练非专家使用大模型进行编程式数据科学。"
 
 - date: { en: "Nov 2025", zh: "2025年11月" }
@@ -99,7 +99,7 @@
   zh: "在维也纳 ACL 2025 上展示了我们的人机系统评估卡片 <a href=\"https://aclanthology.org/2025.findings-acl.70/\">SPHERE</a>。"
 
 - date: { en: "Jul 2025", zh: "2025年7月" }
-  en: "Gave an invited talk at Bloomberg on training non-experts to use LLMs for programmatic data science."
+  en: "Gave an invited talk at Bloomberg on training non-experts to use LLMs for data science."
   zh: "受邀在彭博（Bloomberg）作报告，分享如何训练非专家使用大模型进行编程式数据科学。"
 
 - date: { en: "Jun 2025", zh: "2025年6月" }

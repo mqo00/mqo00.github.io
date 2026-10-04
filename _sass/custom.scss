@@ -177,7 +177,7 @@ $rule: #e6e6e6;
   display: flex;
   gap: 2rem;
   align-items: center;
-  &__text { flex: 1 1 55%; text-align: justify; }
+  &__text { flex: 1 1 55%; } // text-align: justify;
   &__fig {
     flex: 0 0 40%;
     img { width: 100%; }
