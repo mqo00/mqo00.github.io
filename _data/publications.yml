@@ -11,6 +11,8 @@
   venue: "Manuscript under review"
   badge: "In Submission"
   year: 2026
+  links:
+  - { name: arXiv, url: "https://arxiv.org/abs/2610.14660" }
 
 - id: delegation
   type: preprint
@@ -26,7 +28,7 @@
   type: preprint
   title: "Efficient Test-Time Adaptation through Human-AI Interaction"
   authors: "Zora Zhiruo Wang, Apurva Gandhi, Rulin Shao, Aspen Chen, Jonas Mueller, Zhiqi Liang, Jett Chen, Michael Ryan, Qianou Ma, Luxi He, Zhoujun Cheng, Andre He, Seungone Kim, Jiayi Geng, Mingqian Zheng, Weiwei Sun, Zheyuan Zhang, Xinran Zhao, Yike Wang, Abe Hou, Liwei Jiang, Pang Wei Koh, Diyi Yang, Graham Neubig, and Daniel Fried"
-  venue: "ArXiv"
+  venue: "Manuscript under review"
   badge: "In Submission"
   year: 2026
   note: "Accepted to the NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents."
