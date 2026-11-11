@@ -13,6 +13,9 @@
   year: 2026
   links:
   - { name: arXiv, url: "https://arxiv.org/abs/2610.14660" }
+  media:
+    - { name: AIDB, url: "https://ai-data-base.com/archives/en/139789?gift=g_E_hJ4aOIzWjnGvdBjq0Gha6dimoF4t" }
+    - { name: AIDB (日本語), url: "https://ai-data-base.com/archives/139789?gift=g_E_hJ4aOIzWjnGvdBjq0Gha6dimoF4t" }
 
 - id: delegation
   type: preprint
@@ -144,7 +147,7 @@
   venue: "Findings of the Association for Computational Linguistics (ACL Findings)"
   badge: "ACL Findings '25"
   year: 2025
-  note: "*Co-first authors."
+  note: "*Equal contribution."
   links:
     - { name: Paper, url: "https://aclanthology.org/2025.findings-acl.70/" }
     - { name: arXiv, url: "https://arxiv.org/abs/2504.07971" }
