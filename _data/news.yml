@@ -1,34 +1,44 @@
-# News items for the About page, newest first (upcoming items on top), written in
-# first person. Dates are month + year; conference items use the conference month.
-# `upcoming: true` adds an "Upcoming" tag. The first `show` items (set where
-# _includes/news.html is included) are always visible; the rest fold away.
+# News items for the About page, newest first, written in first person.
+# Dates are month + year; conference items use the conference month.
+# Upcoming items: set `until: YYYY-MM-DD` (the event's last day). Until then the item
+# shows an "Upcoming" tag and its `en`/`zh` text; afterwards the tag disappears and
+# `en_past`/`zh_past` (if given) replace the text. Checked at build time and again in
+# the visitor's browser, so it stays current between deploys.
+# The first `show` items (set where _includes/news.html is included) are always
+# visible; the rest fold away.
 
 - date: { en: "Jun 2027", zh: "2027年6月" }
-  upcoming: true
+  until: "2027-06-30"
   en: "I will serve as Publicity Chair for the <a href=\"https://haic.cc/#/home\">Human–AI Interaction Conference</a> (Washington, DC)."
+  en_past: "I served as Publicity Chair for the <a href=\"https://haic.cc/#/home\">Human–AI Interaction Conference</a> (Washington, DC)."
   zh: "我将担任在华盛顿特区举办的<a href=\"https://haic.cc/#/home\">人机交互会议（HAIC）2027</a>宣传主席。"
+  zh_past: "我担任了在华盛顿特区举办的<a href=\"https://haic.cc/#/home\">人机交互会议（HAIC）2027</a>宣传主席。"
 
 - date: { en: "Dec 2026", zh: "2026年12月" }
-  upcoming: true
+  until: "2026-12-12"
   en: "Our paper <a href=\"https://arxiv.org/abs/2606.14199\">OdysSim</a> will appear at NeurIPS 2026 in Sydney."
+  en_past: "Our paper <a href=\"https://arxiv.org/abs/2606.14199\">OdysSim</a> appeared at NeurIPS 2026 in Sydney."
   zh: "我们的论文 <a href=\"https://arxiv.org/abs/2606.14199\">OdysSim</a> 将在悉尼 NeurIPS 2026 上发表。"
+  zh_past: "我们的论文 <a href=\"https://arxiv.org/abs/2606.14199\">OdysSim</a> 在悉尼 NeurIPS 2026 上发表。"
 
-- date: { en: "Oct 2026", zh: "2026年10月" }
-  upcoming: true
-  en: "Our paper <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> will appear at COLM 2026 in San Francisco."
-  zh: "我们的论文 <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> 将在旧金山 COLM 2026 上发表。"
-
-- date: { en: "Oct 2026", zh: "2026年10月" }
+- date: { en: "Nov 2026", zh: "2026年11月" }
   en: "Our <a href=\"https://arxiv.org/abs/2610.14660\">paper</a> on how expertise and trust shape AI-assisted work was featured by <a href=\"https://ai-data-base.com/archives/en/139789?gift=g_E_hJ4aOIzWjnGvdBjq0Gha6dimoF4t\">AIDB</a>, Japan's largest media outlet covering AI research for industry practitioners (<a href=\"https://ai-data-base.com/archives/139789?gift=g_E_hJ4aOIzWjnGvdBjq0Gha6dimoF4t\">Japanese version</a>)."
   zh: "我们关于专业水平与信任如何影响AI辅助工作的<a href=\"https://arxiv.org/abs/2610.14660\">论文</a>被日本最大的面向业界从业者的AI研究媒体 <a href=\"https://ai-data-base.com/archives/en/139789?gift=g_E_hJ4aOIzWjnGvdBjq0Gha6dimoF4t\">AIDB</a> 报道（<a href=\"https://ai-data-base.com/archives/139789?gift=g_E_hJ4aOIzWjnGvdBjq0Gha6dimoF4t\">日文版</a>）。"
+
+- date: { en: "Oct 2026", zh: "2026年10月" }
+  until: "2026-10-09"
+  en: "Our paper <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> will appear at COLM 2026 in San Francisco."
+  en_past: "Our paper <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> appeared at COLM 2026 in San Francisco."
+  zh: "我们的论文 <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> 将在旧金山 COLM 2026 上发表。"
+  zh_past: "我们的论文 <a href=\"https://arxiv.org/abs/2603.11245\">Mind the Sim2Real Gap</a> 在旧金山 COLM 2026 上发表。"
 
 - date: { en: "Sep 2026", zh: "2026年9月" }
   en: "I was named a 2026 Fellow on AI &amp; Society by CMU’s Block Center for Technology and Society."
   zh: "我入选CMU Block技术与社会中心 2026 年“AI与社会”研究员。"
 
 - date: { en: "Aug 2026", zh: "2026年8月" }
-  en: "Finished my Applied Science internship at <b>Microsoft</b> in Redmond, working with Shamsi Iqbal, Siddarth Suri, and Pranav Khape on how expertise and trust shape AI-assisted work."
-  zh: "在雷德蒙德的<b>微软</b>完成了暑期应用科学实习生的工作，与 Shamsi Iqbal、Siddarth Suri 和 Pranav Khape 合作，研究专业水平与信任如何影响AI辅助工作。"
+  en: "Finished my Applied Science internship at <b>Microsoft</b> in Redmond, working with Shamsi Iqbal, Siddarth Suri, and Pranav Khape on how expertise and trust shape AI-assisted work (<a href=\"https://arxiv.org/abs/2610.14660\">paper</a>)."
+  zh: "在雷德蒙德的<b>微软</b>完成了暑期应用科学实习生的工作，与 Shamsi Iqbal、Siddarth Suri 和 Pranav Khape 合作，研究专业水平与信任如何影响AI辅助工作（<a href=\"https://arxiv.org/abs/2610.14660\">论文</a>）。"
 
 - date: { en: "Jul 2026", zh: "2026年7月" }
   en: "Presented my work <a href=\"https://doi.org/10.1007/978-3-032-29763-1_7\">“GenAI Defaults to Bias!”</a> and my doctoral consortium project on <a href=\"https://doi.org/10.1007/978-3-032-29794-5_44\">what calculus we should teach in the age of AI</a> at the Festival of Learning (AIED 2026) in Seoul. I also co-organized the <a href=\"https://sites.google.com/view/ai-literacy-for-all-2026/home\">Workshop on AI Literacy Education for All</a>."

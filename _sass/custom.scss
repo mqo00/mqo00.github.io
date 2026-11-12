@@ -241,6 +241,8 @@ $rule: #e6e6e6;
   a { font-weight: 600; }
 }
 
+.news [hidden] { display: none !important; } // tag/text toggled by date
+
 .news__upcoming {
   display: inline-block;
   font-size: .72rem;

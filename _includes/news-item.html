@@ -1,0 +1,27 @@
+{%- comment -%}
+  One news item (include.item). Items with `until` show an "Upcoming" tag and their
+  future text until that date, then the past text (`en_past`/`zh_past`) without the tag.
+  Decided at build time here; the script in news.html re-checks in the browser.
+{%- endcomment -%}
+{%- assign _n = include.item -%}
+{%- assign _lang = page.lang | default: 'en' -%}
+{%- assign _past_key = _lang | append: '_past' -%}
+{%- assign _past_text = _n[_past_key] -%}
+{%- assign _is_past = false -%}
+{%- if _n.until and _n.until < include.today -%}{%- assign _is_past = true -%}{%- endif -%}
+<li{% if _n.until %} data-until="{{ _n.until }}"{% endif %}>
+  <span class="news__date">{{ _n.date[_lang] }}</span>
+  <span class="news__text">
+    {%- if _n.until -%}
+      <span class="news__upcoming"{% if _is_past %} hidden{% endif %}>{{ include.upcoming_label }}</span>
+      {%- if _past_text -%}
+        <span class="news__future"{% if _is_past %} hidden{% endif %}>{{ _n[_lang] }}</span>
+        <span class="news__past"{% unless _is_past %} hidden{% endunless %}>{{ _past_text }}</span>
+      {%- else -%}
+        {{ _n[_lang] }}
+      {%- endif -%}
+    {%- else -%}
+      {{ _n[_lang] }}
+    {%- endif -%}
+  </span>
+</li>

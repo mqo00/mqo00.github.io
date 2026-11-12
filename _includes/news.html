@@ -1,10 +1,11 @@
 {%- comment -%} News list from _data/news.yml; items beyond include.show (default 6) fold away. {%- endcomment -%}
 {%- assign _lang = page.lang | default: 'en' -%}
 {%- assign _show = include.show | default: 6 -%}
+{%- assign _today = site.time | date: '%Y-%m-%d' -%}
 {%- if _lang == 'zh' -%}{%- assign _upcoming = '即将' -%}{%- else -%}{%- assign _upcoming = 'Upcoming' -%}{%- endif -%}
 <ul class="news">
 {%- for _n in site.data.news limit: _show -%}
-  <li><span class="news__date">{{ _n.date[_lang] }}</span><span class="news__text">{% if _n.upcoming %}<span class="news__upcoming">{{ _upcoming }}</span>{% endif %}{{ _n[_lang] }}</span></li>
+  {% include news-item.html item=_n today=_today upcoming_label=_upcoming %}
 {%- endfor -%}
 </ul>
 {%- if site.data.news.size > _show -%}
@@ -12,8 +13,21 @@
   <summary>{% if _lang == 'zh' %}更早的动态{% else %}Older news{% endif %}</summary>
   <ul class="news">
   {%- for _n in site.data.news offset: _show -%}
-    <li><span class="news__date">{{ _n.date[_lang] }}</span><span class="news__text">{% if _n.upcoming %}<span class="news__upcoming">{{ _upcoming }}</span>{% endif %}{{ _n[_lang] }}</span></li>
+    {% include news-item.html item=_n today=_today upcoming_label=_upcoming %}
   {%- endfor -%}
   </ul>
 </details>
 {%- endif -%}
+<script>
+  /* Re-check "Upcoming" items against the visitor's date, so the site stays current between builds. */
+  (function () {
+    var today = new Date();
+    var ymd = today.getFullYear() + '-' + ('0' + (today.getMonth() + 1)).slice(-2) + '-' + ('0' + today.getDate()).slice(-2);
+    document.querySelectorAll('.news li[data-until]').forEach(function (li) {
+      var past = li.getAttribute('data-until') < ymd;
+      var tag = li.querySelector('.news__upcoming'), fut = li.querySelector('.news__future'), pst = li.querySelector('.news__past');
+      if (tag) tag.hidden = past;
+      if (fut && pst) { fut.hidden = past; pst.hidden = !past; }
+    });
+  })();
+</script>
