@@ -4,7 +4,7 @@ title: Fun Facts
 key: fun-fact 
 show_date: false
 sharing: true
-cover: /assets/images/sport-15.jpg
+cover: /assets/images/sport-wave.jpg
 lang: en
 lightbox: true
 ---
@@ -14,13 +14,13 @@ Here are some fun facts about me!
 <!--more-->
 
 ## Outdoors
-I love outdoors and all sorts of (especially if slightly extreme) sporty activities, and I'm a certified [AASI Level 2](https://thesnowpros.org/get-certified/snowboard/) snowboard coach :snowboarder:! Besides snowboarding, I've done Spartan, white water rafting, kayaking, biking, zipline, hiking, archery, climbing, skiing, figure skating, wakeboarding, kite surfing, horse riding, camping, paintball, trampoline, axe throwing ... just to name a few! My skills may not be impressive, but I did take some good photos :joy:
+I love outdoors and all sorts of (especially if slightly extreme) sporty activities, and I'm a certified [AASI Level 2](https://thesnowpros.org/get-certified/snowboard/) snowboard coach :snowboarder:! Besides snowboarding, I've done Spartan, white water rafting, kayaking, biking, zipline, hiking, canyoneering, scuba diving, snorkeling, archery, climbing, skiing, figure skating, wakeboarding, kite surfing, horse riding, camping, paintball, trampoline, axe throwing ... just to name a few! My skills may not be impressive, but I did take some good photos :joy:
 
 | -- | -- | -- | -- |
-|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-14.jpg)|![](/assets/images/sport-13.jpg)|![](/assets/images/sport-4.jpg)|
+|![](/assets/images/sport-1.jpg)|![](/assets/images/sport-wave.jpg)|![](/assets/images/sport-snowboard.jpg)|![](/assets/images/sport-zion.jpg)|
 
 | -- | -- | -- | -- |
-|![](/assets/images/sport-5.jpg)|![](/assets/images/sport-6.jpg)|![](/assets/images/sport-12.jpg)|![](/assets/images/sport-11.jpg)|
+|![](/assets/images/sport-volcano.jpg)|![](/assets/images/sport-rainier.jpg)|![](/assets/images/sport-12.jpg)|![](/assets/images/sport-11.jpg)|
 
 ## Cooking
 

@@ -17,7 +17,7 @@ lightbox: true
   </div>
   <div class="profile__body">
     <h1 class="profile__name">马千鸥 Qianou (Christina) Ma</h1>
-    <p class="profile__role"><b>博士候选人</b><br>人机交互研究所（HCII）<br>卡内基梅隆大学</p>
+    <p class="profile__role"><b>博士候选人</b><br>人机交互研究所（HCII）<br>计算机学院<br>卡内基梅隆大学</p>
     <div class="profile__links">
       <a href="/assets/QianouMa_CV.pdf">CV（英文）</a>
       <a href="https://scholar.google.com/citations?user=3EAMFQIAAAAJ&hl=en">Google Scholar</a>

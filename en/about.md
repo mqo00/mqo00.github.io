@@ -17,7 +17,7 @@ lightbox: true
   </div>
   <div class="profile__body">
     <h1 class="profile__name">Qianou (Christina) Ma</h1>
-    <p class="profile__role"><b>Ph.D. Candidate</b><br>Human-Computer Interaction Institute<br>Carnegie Mellon University</p>
+    <p class="profile__role"><b>Ph.D. Candidate</b><br>Human-Computer Interaction Institute<br>School of Computer Science<br>Carnegie Mellon University</p>
     <div class="profile__links">
       <a href="/assets/QianouMa_CV.pdf">CV</a>
       <a href="https://scholar.google.com/citations?user=3EAMFQIAAAAJ&hl=en">Google Scholar</a>
